@@ -1460,15 +1460,15 @@
     </entry>
     <entry category="SportsTeam" eid="Id214" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>John_van_den_Brom | team | İstanbulspor_A.Ş.</otriple>
+        <otriple>John_van_den_Brom | team | Istanbulspor_A.S.</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>John_van_den_Brom | clubs | İstanbulspor_A.Ş.</otriple>
+        <otriple>John_van_den_Brom | clubs | Istanbulspor_A.S.</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>John_van_den_Brom | club | İstanbulspor_A.Ş.</mtriple>
+        <mtriple>John_van_den_Brom | club | Istanbulspor_A.S.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John van den Brom is a player in İstanbulspor A.Ş.</lex>
+      <lex comment="good" lid="Id1">John van den Brom is a player in Istanbulspor A.S.</lex>
       <lex comment="good" lid="Id2">John van den Brom plays for Istanbulspor A.S.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id221" shape="(X (X))" shape_type="NA" size="1">

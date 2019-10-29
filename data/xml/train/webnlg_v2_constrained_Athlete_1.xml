@@ -161,7 +161,7 @@
         <otriple>Alan_Martin_(footballer,_born_1989) | team | Accrington_Stanley_F.C.</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | "→ Accrington Stanley"@en</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | "  Accrington Stanley"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Alan_Martin_(footballer) | club | Accrington_Stanley_F.C.</mtriple>
@@ -368,14 +368,14 @@
     </entry>
     <entry category="Athlete" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>A.C._Milan | manager | Siniša_Mihajlović</otriple>
+        <otriple>A.C._Milan | manager | Sinisa_Mihajlovic</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>A.C._Milan | manager | Siniša_Mihajlović</mtriple>
+        <mtriple>A.C._Milan | manager | Sinisa_Mihajlovic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Siniša Mihajlović is the manager for A.C. Milan.</lex>
-      <lex comment="good" lid="Id2">Siniša Mihajlović is manager of A.C. Milan.</lex>
-      <lex comment="good" lid="Id3">Siniša Mihajlović is the manager of A. C. Milan.</lex>
+      <lex comment="good" lid="Id1">Sinisa Mihajlovic is the manager for A.C. Milan.</lex>
+      <lex comment="good" lid="Id2">Sinisa Mihajlovic is manager of A.C. Milan.</lex>
+      <lex comment="good" lid="Id3">Sinisa Mihajlovic is the manager of A. C. Milan.</lex>
     </entry>
     <entry category="Athlete" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1229,7 +1229,7 @@
         <otriple>Alan_Martin_(footballer,_born_1989) | team | Barrow_A.F.C.</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | "→ Barrow"@en</otriple>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | "  Barrow"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Alan_Martin_(footballer) | club | Barrow_A.F.C.</mtriple>
@@ -1355,7 +1355,7 @@
     </entry>
     <entry category="Athlete" eid="Id156" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandr_Prudnikov | clubs | "→ Anzhi Makhachkala"@en</otriple>
+        <otriple>Aleksandr_Prudnikov | clubs | "  Anzhi Makhachkala"@en</otriple>
       </originaltripleset>
       <originaltripleset>
         <otriple>Aleksandr_Prudnikov | team | FC_Anzhi_Makhachkala</otriple>
@@ -1418,7 +1418,7 @@
         <otriple>Aleksandr_Prudnikov | team | FC_Terek_Grozny</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Aleksandr_Prudnikov | clubs | "→ Terek Grozny"@en</otriple>
+        <otriple>Aleksandr_Prudnikov | clubs | "  Terek Grozny"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Aleksandr_Prudnikov | club | FC_Terek_Grozny</mtriple>
@@ -1432,7 +1432,7 @@
         <otriple>Aleksandr_Prudnikov | team | FC_Tom_Tomsk</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Aleksandr_Prudnikov | clubs | "→ Tom Tomsk"@en</otriple>
+        <otriple>Aleksandr_Prudnikov | clubs | "  Tom Tomsk"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Aleksandr_Prudnikov | club | FC_Tom_Tomsk</mtriple>
@@ -1453,7 +1453,7 @@
     </entry>
     <entry category="Athlete" eid="Id165" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandr_Prudnikov | clubs | "→ Sparta Prague"@en</otriple>
+        <otriple>Aleksandr_Prudnikov | clubs | "  Sparta Prague"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Aleksandr_Prudnikov | club | Sparta_Prague</mtriple>
@@ -1735,7 +1735,7 @@
         <otriple>Alessio_Romagnoli | team | U.C._Sampdoria</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Alessio_Romagnoli | clubs | "→ Sampdoria"@en</otriple>
+        <otriple>Alessio_Romagnoli | clubs | "  Sampdoria"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Alessio_Romagnoli | club | U.C._Sampdoria</mtriple>

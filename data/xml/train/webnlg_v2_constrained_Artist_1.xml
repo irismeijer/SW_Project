@@ -213,31 +213,31 @@
     </entry>
     <entry category="Artist" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedBand | Kornelije_Kovač</otriple>
+        <otriple>Aleksandra_Kovac | associatedBand | Kornelije_Kovac</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedMusicalArtist | Kornelije_Kovač</otriple>
+        <otriple>Aleksandra_Kovac | associatedMusicalArtist | Kornelije_Kovac</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kornelije_Kovač</mtriple>
+        <mtriple>Aleksandra_Kovac | associatedBand/associatedMusicalArtist | Kornelije_Kovac</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac is associated with Kornelije Kovac.</lex>
-      <lex comment="good" lid="Id2">Aleksandra Kovač is in same band with Kornelije Kovač.</lex>
-      <lex comment="good" lid="Id3">Aleksandra Kovač is associated with the musical artist Kornelije Kovač.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac is in same band with Kornelije Kovac.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovac is associated with the musical artist Kornelije Kovac.</lex>
     </entry>
     <entry category="Artist" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedBand | Kristina_Kovač</otriple>
+        <otriple>Aleksandra_Kovac | associatedBand | Kristina_Kovac</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedMusicalArtist | Kristina_Kovač</otriple>
+        <otriple>Aleksandra_Kovac | associatedMusicalArtist | Kristina_Kovac</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kristina_Kovač</mtriple>
+        <mtriple>Aleksandra_Kovac | associatedBand/associatedMusicalArtist | Kristina_Kovac</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac is musically involved with Kristina Kovac.</lex>
-      <lex comment="good" lid="Id2">Musical Artist, Aleksandra Kovač is associated with fellow musical artist Kristina Kovač.</lex>
-      <lex comment="good" lid="Id3">Aleksandra Kovač is associated with the musician Kristina Kovač.</lex>
+      <lex comment="good" lid="Id2">Musical Artist, Aleksandra Kovac is associated with fellow musical artist Kristina Kovac.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovac is associated with the musician Kristina Kovac.</lex>
     </entry>
     <entry category="Artist" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1608,131 +1608,131 @@
     </entry>
     <entry category="Artist" eid="Id102" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | activeYearsStartYear | "1990"^^xsd:gYear</otriple>
+        <otriple>Aleksandra_Kovac | activeYearsStartYear | "1990"^^xsd:gYear</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | activeYearsStartYear | 1990</mtriple>
+        <mtriple>Aleksandra_Kovac | activeYearsStartYear | 1990</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandra Kovač began her musical career in 1990.</lex>
+      <lex comment="good" lid="Id1">Aleksandra Kovac began her musical career in 1990.</lex>
       <lex comment="good" lid="Id2">Aleksandra Kovac became active in 1990.</lex>
     </entry>
     <entry category="Artist" eid="Id103" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedMusicalArtist | Bebi_Dol</otriple>
+        <otriple>Aleksandra_Kovac | associatedMusicalArtist | Bebi_Dol</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedBand | Bebi_Dol</otriple>
+        <otriple>Aleksandra_Kovac | associatedBand | Bebi_Dol</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Bebi_Dol</mtriple>
+        <mtriple>Aleksandra_Kovac | associatedBand/associatedMusicalArtist | Bebi_Dol</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandra Kovač is associated with the musical artist Bebi Dol.</lex>
+      <lex comment="good" lid="Id1">Aleksandra Kovac is associated with the musical artist Bebi Dol.</lex>
     </entry>
     <entry category="Artist" eid="Id104" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedMusicalArtist | K2_(Kovač_sisters_duo)</otriple>
+        <otriple>Aleksandra_Kovac | associatedMusicalArtist | K2_(Kovac_sisters_duo)</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedBand | K2_(Kovač_sisters_duo)</otriple>
+        <otriple>Aleksandra_Kovac | associatedBand | K2_(Kovac_sisters_duo)</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | K2_(Kovač_sisters_duo)</mtriple>
+        <mtriple>Aleksandra_Kovac | associatedBand/associatedMusicalArtist | K2_(Kovac_sisters_duo)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandra Kovač is an artist for the band K2.</lex>
-      <lex comment="good" lid="Id2">Aleksandra Kovač is part of the K2 (Kovač sisters duo).</lex>
-      <lex comment="good" lid="Id3">Aleksandra Kovač is part of the band K2 (Kovac sisters duo).</lex>
+      <lex comment="good" lid="Id1">Aleksandra Kovac is an artist for the band K2.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac is part of the K2 (Kovac sisters duo).</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovac is part of the band K2 (Kovac sisters duo).</lex>
     </entry>
     <entry category="Artist" eid="Id105" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | background | "solo_singer"@en</otriple>
+        <otriple>Aleksandra_Kovac | background | "solo_singer"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
+        <mtriple>Aleksandra_Kovac | background | "solo_singer"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac is a solo singer.</lex>
-      <lex comment="good" lid="Id2">A solo singer is part of Aleksandra Kovač's background,.</lex>
+      <lex comment="good" lid="Id2">A solo singer is part of Aleksandra Kovac's background,.</lex>
     </entry>
     <entry category="Artist" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | birthPlace | Belgrade</otriple>
+        <otriple>Aleksandra_Kovac | birthPlace | Belgrade</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | birthPlace | Belgrade</mtriple>
+        <mtriple>Aleksandra_Kovac | birthPlace | Belgrade</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac was born in Belgrade.</lex>
       <lex comment="good" lid="Id2">The birthplace of Aleksandra Kovac is Belgrade.</lex>
-      <lex comment="good" lid="Id3">Aleksandra Kovač was born in Belgrade.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovac was born in Belgrade.</lex>
     </entry>
     <entry category="Artist" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | birthPlace | Serbia</otriple>
+        <otriple>Aleksandra_Kovac | birthPlace | Serbia</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | birthPlace | Serbia</mtriple>
+        <mtriple>Aleksandra_Kovac | birthPlace | Serbia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac was born in Serbia.</lex>
-      <lex comment="good" lid="Id2">Aleksandra Kovač was born in Serbia.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac was born in Serbia.</lex>
     </entry>
     <entry category="Artist" eid="Id108" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia</otriple>
+        <otriple>Aleksandra_Kovac | birthPlace | Socialist_Republic_of_Serbia</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | birthPlace | Socialist_Republic_of_Serbia</mtriple>
+        <mtriple>Aleksandra_Kovac | birthPlace | Socialist_Republic_of_Serbia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandra Kovač's place of birth was the Socialist Republic of Serbia.</lex>
+      <lex comment="good" lid="Id1">Aleksandra Kovac's place of birth was the Socialist Republic of Serbia.</lex>
       <lex comment="good" lid="Id2">Aleksandra Kovac’s birth place is the Socialist Republic of Serbia.</lex>
-      <lex comment="good" lid="Id3">Aleksandra Kovač was born in the Socialist Republic of Serbia.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovac was born in the Socialist Republic of Serbia.</lex>
     </entry>
     <entry category="Artist" eid="Id109" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | birthPlace | Yugoslavia</otriple>
+        <otriple>Aleksandra_Kovac | birthPlace | Yugoslavia</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | birthPlace | Yugoslavia</mtriple>
+        <mtriple>Aleksandra_Kovac | birthPlace | Yugoslavia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac was born in Yugoslavia.</lex>
       <lex comment="good" lid="Id2">The birth place of Aleksandra Kovac is Yugoslavia.</lex>
-      <lex comment="good" lid="Id3">Yugoslavia is the birth place of Aleksandra Kovač.</lex>
+      <lex comment="good" lid="Id3">Yugoslavia is the birth place of Aleksandra Kovac.</lex>
     </entry>
     <entry category="Artist" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | birthYear | "1972"^^xsd:gYear</otriple>
+        <otriple>Aleksandra_Kovac | birthYear | "1972"^^xsd:gYear</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | birthYear | 1972</mtriple>
+        <mtriple>Aleksandra_Kovac | birthYear | 1972</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac was born in 1972.</lex>
-      <lex comment="good" lid="Id2">Aleksandra Kovač was born in 1972.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac was born in 1972.</lex>
     </entry>
     <entry category="Artist" eid="Id111" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | genre | Funk</otriple>
+        <otriple>Aleksandra_Kovac | genre | Funk</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | genre | Funk</mtriple>
+        <mtriple>Aleksandra_Kovac | genre | Funk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandra Kovač performs funk music.</lex>
+      <lex comment="good" lid="Id1">Aleksandra Kovac performs funk music.</lex>
       <lex comment="good" lid="Id2">Aleksandra Kovac is an exponent of Funk.</lex>
-      <lex comment="good" lid="Id3">Aleksandra Kovač genre of music is Funk.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovac genre of music is Funk.</lex>
     </entry>
     <entry category="Artist" eid="Id112" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | genre | Pop_music</otriple>
+        <otriple>Aleksandra_Kovac | genre | Pop_music</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | genre | Pop_music</mtriple>
+        <mtriple>Aleksandra_Kovac | genre | Pop_music</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The musical genre of Aleksandra Kovac is pop music.</lex>
-      <lex comment="good" lid="Id2">Aleksandra Kovač is a performer of pop music.</lex>
-      <lex comment="good" lid="Id3">Aleksandra Kovač's musical genre is Pop.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac is a performer of pop music.</lex>
+      <lex comment="good" lid="Id3">Aleksandra Kovac's musical genre is Pop.</lex>
     </entry>
     <entry category="Artist" eid="Id113" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | genre | Rhythm_and_blues</otriple>
+        <otriple>Aleksandra_Kovac | genre | Rhythm_and_blues</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Aleksandra_Kovac | genre | Rhythm_and_blues</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The musical genre of Aleksandra Kovac is rhythm and blues.</lex>
       <lex comment="good" lid="Id2">Aleksandra Kovac's genre is rhythm and blues.</lex>
@@ -1740,13 +1740,13 @@
     </entry>
     <entry category="Artist" eid="Id114" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Aleksandra_Kovač | genre | Soul_music</otriple>
+        <otriple>Aleksandra_Kovac | genre | Soul_music</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | genre | Soul_music</mtriple>
+        <mtriple>Aleksandra_Kovac | genre | Soul_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandra Kovač's genre is soul music.</lex>
-      <lex comment="good" lid="Id2">Aleksandra Kovač performs soul music.</lex>
+      <lex comment="good" lid="Id1">Aleksandra Kovac's genre is soul music.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac performs soul music.</lex>
     </entry>
     <entry category="Artist" eid="Id115" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2733,16 +2733,16 @@
     </entry>
     <entry category="Artist" eid="Id199" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Andra_(singer) | associatedBand | Andreea_Bălan</otriple>
+        <otriple>Andra_(singer) | associatedBand | Andreea_Balan</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Andra_(singer) | associatedMusicalArtist | Andreea_Bălan</otriple>
+        <otriple>Andra_(singer) | associatedMusicalArtist | Andreea_Balan</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Andra_(singer) | associatedBand/associatedMusicalArtist | Andreea_Bălan</mtriple>
+        <mtriple>Andra_(singer) | associatedBand/associatedMusicalArtist | Andreea_Balan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andra is a singer associated with Andreea Balan.</lex>
-      <lex comment="good" lid="Id2">The singer Andra is associated with Andreea Bălan.</lex>
+      <lex comment="good" lid="Id2">The singer Andra is associated with Andreea Balan.</lex>
     </entry>
     <entry category="Artist" eid="Id200" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2953,10 +2953,10 @@
     </entry>
     <entry category="Artist" eid="Id218" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Andrew_Rayel | placeOfBirth | "Chișinău, Moldova"@en</otriple>
+        <otriple>Andrew_Rayel | placeOfBirth | "Chisinau, Moldova"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Andrew_Rayel | birthPlace | "Chișinău, Moldova"</mtriple>
+        <mtriple>Andrew_Rayel | birthPlace | "Chisinau, Moldova"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The birth place of Andrew Rayel is Chisinau, Moldova.</lex>
       <lex comment="good" lid="Id2">Andrew Rayel was born in Chisinau, Moldova.</lex>

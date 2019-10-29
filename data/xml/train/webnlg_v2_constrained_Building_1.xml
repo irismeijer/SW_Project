@@ -1966,22 +1966,22 @@
     </entry>
     <entry category="Building" eid="Id212" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Japan | leader | Shinzō_Abe</otriple>
+        <otriple>Japan | leader | Shinzo_Abe</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Japan | leaderName | Shinzō_Abe</mtriple>
+        <mtriple>Japan | leaderName | Shinzo_Abe</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Japan is Shinzō Abe.</lex>
+      <lex comment="good" lid="Id1">The leader of Japan is Shinzo Abe.</lex>
       <lex comment="good" lid="Id2">Shinzo Abe is the leader of Japan.</lex>
     </entry>
     <entry category="Building" eid="Id213" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Japan | leader | Tarō_Asō</otriple>
+        <otriple>Japan | leader | Taro_Aso</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Japan | leaderName | Tarō_Asō</mtriple>
+        <mtriple>Japan | leaderName | Taro_Aso</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Japan is Tarō Asō.</lex>
+      <lex comment="good" lid="Id1">The leader of Japan is Taro Aso.</lex>
     </entry>
     <entry category="Building" eid="Id214" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

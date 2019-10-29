@@ -1477,13 +1477,13 @@
     </entry>
     <entry category="Politician" eid="Id103" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Adam_Koc | birthPlace | Suwałki</otriple>
+        <otriple>Adam_Koc | birthPlace | Suwalki</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Adam_Koc | birthPlace | Suwałki</mtriple>
+        <mtriple>Adam_Koc | birthPlace | Suwalki</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The birth place of Adam Koc was Suwalki.</lex>
-      <lex comment="good" lid="Id2">Adam Koc was born in Suwałki.</lex>
+      <lex comment="good" lid="Id2">Adam Koc was born in Suwalki.</lex>
       <lex comment="good" lid="Id3">The birth place of Adam Koc is Suwalki.</lex>
     </entry>
     <entry category="Politician" eid="Id104" shape="(X (X))" shape_type="NA" size="1">
