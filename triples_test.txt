@@ -1,0 +1,2641 @@
+Andrews_County_Airport | owner | Andrews_County,_Texas
+Andrews_County_Airport | owner | Andrews_County,_Texas
+Andrews_County_Airport | owner | Andrews_County,_Texas
+Ashgabat_International_Airport | icaoLocationIdentifier | "(Location of airport in Turkmenistan)"
+Ashgabat_International_Airport | icaoLocationIdentifier | "(Location of airport in Turkmenistan)"
+Ashgabat_International_Airport | ICAO_Location_Identifier | "UTAA"
+Ashgabat_International_Airport | ICAO_Location_Identifier | "UTAA"
+Aarhus | leaderName | Jacob_Bundsgaard
+Aarhus_Airport | city | Aarhus
+Aarhus_Airport | cityServed | Aarhus
+Al-Taqaddum_Air_Base | lid | "MAT"@en
+Al-Taqaddum_Air_Base | lid | "MAT"@en
+Al-Taqaddum_Air_Base | locationIdentifier | "MAT"
+Al-Taqaddum_Air_Base | locationIdentifier | "MAT"
+Andrews_County,_Texas | countySeat | Andrews,_Texas
+Andrews_County,_Texas | countySeat | Andrews,_Texas
+Andrews_County,_Texas | countySeat | Andrews,_Texas
+Andrews_County,_Texas | largestCity | Andrews,_Texas
+Andrews_County,_Texas | largestCity | Andrews,_Texas
+Ashgabat_International_Airport | iataLocationIdentifier | "ASB"
+Ashgabat_International_Airport | iataLocationIdentifier | "ASB"
+Ashgabat_International_Airport | IATA_Location_Identifier | "ASB"
+Ashgabat_International_Airport | IATA_Location_Identifier | "ASB"
+Flemish_Region | country | Belgium
+Flemish_Region | leaderName | Flemish_Government
+Flemish_Region | leaderName | Flemish_Government
+Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport
+Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport
+Turkmenistan_Airlines | hubs | Ashgabat_International_Airport
+Turkmenistan_Airlines | hubs | Ashgabat_International_Airport
+Ace_Wilder | genre | Electropop
+Ace_Wilder | genre | Electropop
+Electropop | stylisticOrigins | Disco
+Electropop | stylisticOrigins | Disco
+Electropop | stylisticOrigin | Disco
+Electropop | stylisticOrigin | Disco
+Abner_(footballer) | team | C.D._FAS
+Abner_(footballer) | team | C.D._FAS
+Abner_(footballer) | team | C.D._FAS
+Abner_(footballer) | club | C.D._FAS
+Abner_(footballer) | club | C.D._FAS
+Abner_(footballer) | club | C.D._FAS
+Adam_Maher | birthPlace | "Ait Ikkou, Morocco"@en
+Adam_Maher | birthPlace | "Ait Ikkou, Morocco"@en
+Adam_Maher | birthPlace | "Ait Ikkou, Morocco"
+Adam_Maher | birthPlace | "Ait Ikkou, Morocco"
+Ahmad_Kadhim_Assad | birthPlace | Iraq
+Ahmad_Kadhim_Assad | birthPlace | Iraq
+Ahmad_Kadhim_Assad | birthPlace | Iraq
+Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en
+Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en
+Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en
+Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"
+Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"
+Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"
+Aleksander_Barkov,_Jr. | birthPlace | Finland
+Aleksander_Barkov,_Jr. | birthPlace | Finland
+Aleksander_Barkov,_Jr. | birthPlace | Finland
+Florida_Panthers | generalManager | Dale_Tallon
+Florida_Panthers | generalManager | Dale_Tallon
+Florida_Panthers | generalManager | Dale_Tallon
+Minnesota_Wild | generalManager | Chuck_Fletcher
+Minnesota_Wild | generalManager | Chuck_Fletcher
+Minnesota_Wild | generalManager | Chuck_Fletcher
+Point_Fortin | country | Trinidad
+Point_Fortin | country | Trinidad
+Point_Fortin | country | Trinidad
+Aaron_Boogaard | draftTeam | Minnesota_Wild
+Aaron_Hunt | birthPlace | Goslar
+Aaron_Hunt | birthPlace | Goslar
+Aaron_Hunt | birthPlace | West_Germany
+Abel_Hernández | birthPlace | Pando,_Uruguay
+Abel_Hernández | birthPlace | Pando,_Uruguay
+Abel_Hernández | birthPlace | Pando,_Uruguay
+Abel_Hernández | birthPlace | Uruguay
+Abel_Hernández | birthPlace | Uruguay
+Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date
+Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date
+Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date
+Abner_(footballer) | birthDate | 1996-05-30
+Abner_(footballer) | birthDate | 1996-05-30
+Abner_(footballer) | birthDate | 1996-05-30
+Abner_(footballer) | birthPlace | Brazil
+Abner_(footballer) | birthPlace | Brazil
+Abner_(footballer) | birthPlace | Brazil
+Abner_(footballer) | birthPlace | Londrina
+Abner_(footballer) | team | Brazil_national_under-17_football_team
+Abner_(footballer) | team | Brazil_national_under-17_football_team
+Abner_(footballer) | club | Brazil_national_under-17_football_team
+Abner_(footballer) | club | Brazil_national_under-17_football_team
+Abner_(footballer) | team | Brazil_national_under-20_football_team
+Abner_(footballer) | team | Brazil_national_under-20_football_team
+Abner_(footballer) | club | Brazil_national_under-20_football_team
+Abner_(footballer) | club | Brazil_national_under-20_football_team
+Abner_(footballer) | team | Coritiba_Foot_Ball_Club
+Abner_(footballer) | team | Coritiba_Foot_Ball_Club
+Abner_(footballer) | team | Coritiba_Foot_Ball_Club
+Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club
+Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club
+Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club
+Abner_(footballer) | club | Coritiba_Foot_Ball_Club
+Abner_(footballer) | club | Coritiba_Foot_Ball_Club
+Abner_(footballer) | club | Coritiba_Foot_Ball_Club
+Abner_(footballer) | team | Real_Madrid_Castilla
+Abner_(footballer) | team | Real_Madrid_Castilla
+Abner_(footballer) | clubs | Real_Madrid_Castilla
+Abner_(footballer) | clubs | Real_Madrid_Castilla
+Abner_(footballer) | club | Real_Madrid_Castilla
+Abner_(footballer) | club | Real_Madrid_Castilla
+Abner_(footballer) | currentclub | Real_Madrid_Castilla
+Abner_(footballer) | currentclub | Real_Madrid_Castilla
+Abner_(footballer) | currentclub | Real_Madrid_Castilla
+Adam_McQuaid | team | Boston_Bruins
+Adam_McQuaid | team | Boston_Bruins
+Adam_McQuaid | team | Boston_Bruins
+Adam_McQuaid | club | Boston_Bruins
+Adam_McQuaid | club | Boston_Bruins
+Adam_McQuaid | club | Boston_Bruins
+Adam_McQuaid | draftTeam | Columbus_Blue_Jackets
+Adam_McQuaid | draftTeam | Columbus_Blue_Jackets
+Adam_McQuaid | draftTeam | Columbus_Blue_Jackets
+Akeem_Adams | birthPlace | Point_Fortin
+Akeem_Adams | birthPlace | Point_Fortin
+Akeem_Ayers | birthPlace | Raleigh,_North_Carolina
+Akeem_Ayers | birthPlace | Raleigh,_North_Carolina
+Akeem_Ayers | birthPlace | Raleigh,_North_Carolina
+Akeem_Dent | birthPlace | Atlanta
+Akeem_Dent | birthPlace | Atlanta
+Akeem_Dent | number | "50"
+Akeem_Dent | number | "50"
+Akeem_Dent | number | "50"
+Akeem_Dent | playerNumber | "50"
+Akeem_Dent | playerNumber | "50"
+Akeem_Dent | playerNumber | "50"
+Akeem_Priestley | placeOfBirth | Jamaica
+Akeem_Priestley | placeOfBirth | Jamaica
+Akeem_Priestley | birthPlace | Jamaica
+Akeem_Priestley | birthPlace | Jamaica
+Akeem_Priestley | placeOfBirth | Kingston,_Jamaica
+Akeem_Priestley | placeOfBirth | Kingston,_Jamaica
+Akeem_Priestley | placeOfBirth | Kingston,_Jamaica
+Akeem_Priestley | birthPlace | Kingston,_Jamaica
+Akeem_Priestley | birthPlace | Kingston,_Jamaica
+Akeem_Priestley | birthPlace | Kingston,_Jamaica
+Alaa_Abdul-Zahra | birthPlace | Baghdad
+Alaa_Abdul-Zahra | birthPlace | Baghdad
+Alaa_Abdul-Zahra | birthPlace | Baghdad
+Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date
+Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date
+Aleksander_Barkov,_Jr. | birthDate | 1995-09-02
+Aleksander_Barkov,_Jr. | birthDate | 1995-09-02
+Aleksander_Barkov,_Jr. | birthPlace | Tampere
+Aleksander_Barkov,_Jr. | birthPlace | Tampere
+Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear
+Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear
+Aleksander_Barkov,_Jr. | birthYear | 1995
+Aleksander_Barkov,_Jr. | birthYear | 1995
+Aleksander_Barkov,_Jr. | team | Florida_Panthers
+Aleksander_Barkov,_Jr. | team | Florida_Panthers
+Aleksander_Barkov,_Jr. | team | Florida_Panthers
+Aleksander_Barkov,_Jr. | club | Florida_Panthers
+Aleksander_Barkov,_Jr. | club | Florida_Panthers
+Aleksander_Barkov,_Jr. | club | Florida_Panthers
+Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers
+Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers
+Aleksander_Barkov,_Jr. | formerTeam | Tappara
+Aleksander_Barkov,_Jr. | formerTeam | Tappara
+Aleksander_Barkov,_Jr. | formerTeam | Tappara
+Aleksander_Barkov,_Jr. | height | "1.905"^^xsd:double
+Aleksander_Barkov,_Jr. | height | "1.905"^^xsd:double
+Aleksander_Barkov,_Jr. | height | "1.905"^^xsd:double
+Aleksander_Barkov,_Jr. | height | 1.905
+Aleksander_Barkov,_Jr. | height | 1.905
+Aleksander_Barkov,_Jr. | height | 1.905
+Aleksander_Barkov,_Jr. | league | National_Hockey_League
+Aleksander_Barkov,_Jr. | league | National_Hockey_League
+Aleksander_Barkov,_Jr. | position | Centre_(ice_hockey)
+Aleksander_Barkov,_Jr. | position | Centre_(ice_hockey)
+Aleksander_Barkov,_Jr. | position | Centre_(ice_hockey)
+Aleksander_Barkov,_Jr. | Person/weight | "96.1632"^^<http://dbpedia.org/datatype/kilogram>
+Aleksander_Barkov,_Jr. | Person/weight | "96.1632"^^<http://dbpedia.org/datatype/kilogram>
+Aleksander_Barkov,_Jr. | Person/weight | "96.1632"^^<http://dbpedia.org/datatype/kilogram>
+Aleksander_Barkov,_Jr. | weight | 96.1632 (kilograms)
+Aleksander_Barkov,_Jr. | weight | 96.1632 (kilograms)
+Aleksander_Barkov,_Jr. | weight | 96.1632 (kilograms)
+Aleksandr_Prudnikov | team | Russia_national_under-21_football_team
+Aleksandr_Prudnikov | team | Russia_national_under-21_football_team
+Aleksandr_Prudnikov | club | Russia_national_under-21_football_team
+Aleksandr_Prudnikov | club | Russia_national_under-21_football_team
+Aleksandre_Guruli | team | Georgia_national_under-21_football_team
+Aleksandre_Guruli | team | Georgia_national_under-21_football_team
+Aleksandre_Guruli | team | Georgia_national_under-21_football_team
+Aleksandre_Guruli | club | Georgia_national_under-21_football_team
+Aleksandre_Guruli | club | Georgia_national_under-21_football_team
+Aleksandre_Guruli | club | Georgia_national_under-21_football_team
+Alex_Tyus | Person/weight | "99.792"^^<http://dbpedia.org/datatype/kilogram>
+Alex_Tyus | Person/weight | "99.792"^^<http://dbpedia.org/datatype/kilogram>
+Alex_Tyus | Person/weight | "99.792"^^<http://dbpedia.org/datatype/kilogram>
+Alex_Tyus | weight | 99.792 (kilograms)
+Alex_Tyus | weight | 99.792 (kilograms)
+Alex_Tyus | weight | 99.792 (kilograms)
+Boston_Bruins | city | Boston
+Boston_Bruins | city | Boston
+Boston_Bruins | city | Boston
+Boston_Bruins | locationCity | Boston
+Boston_Bruins | locationCity | Boston
+Boston_Bruins | locationCity | Boston
+Boston_Bruins | generalManager | Don_Sweeney
+Boston_Bruins | generalManager | Don_Sweeney
+Boston_Bruins | generalManager | Don_Sweeney
+C.D._FAS | league | Salvadoran_Primera_División
+C.D._FAS | league | Salvadoran_Primera_División
+C.D._FAS | league | Salvadoran_Primera_División
+C.D._FAS | position | Salvadoran_Primera_División
+C.D._FAS | position | Salvadoran_Primera_División
+Columbus_Blue_Jackets | city | Columbus,_Ohio
+Columbus_Blue_Jackets | city | Columbus,_Ohio
+Columbus_Blue_Jackets | locationCity | Columbus,_Ohio
+Columbus_Blue_Jackets | locationCity | Columbus,_Ohio
+Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen
+Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen
+Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen
+Finland | currency | Euro
+Finland | currency | Euro
+Finland | currency | Euro
+Finland | language | Finnish_language
+Finland | language | Finnish_language
+Finland | officialLanguages | Finnish_language
+Finland | officialLanguages | Finnish_language
+Finland | officialLanguages | Finnish_language
+Finland | officialLanguage | Finnish_language
+Finland | officialLanguage | Finnish_language
+Finland | officialLanguage | Finnish_language
+Jamaica | leader | Elizabeth_II
+Jamaica | leader | Elizabeth_II
+Jamaica | leader | Elizabeth_II
+Jamaica | leaderName | Elizabeth_II
+Jamaica | leaderName | Elizabeth_II
+Jamaica | leaderName | Elizabeth_II
+Jamaica | leaderName | Patrick_Allen_(politician)
+Jamaica | leaderName | Patrick_Allen_(politician)
+Jamaica | leader | Patrick_Allen_(politician)
+Jamaica | leader | Patrick_Allen_(politician)
+National_Hockey_League | mostChamps | Montreal_Canadiens
+National_Hockey_League | mostChamps | Montreal_Canadiens
+National_Hockey_League | mostChamps | Montreal_Canadiens
+National_Hockey_League | mostChampions | Montreal_Canadiens
+National_Hockey_League | mostChampions | Montreal_Canadiens
+National_Hockey_League | mostChampions | Montreal_Canadiens
+Real_Madrid_Castilla | manager | Luis_Miguel_Ramis
+Real_Madrid_Castilla | manager | Luis_Miguel_Ramis
+Real_Madrid_Castilla | manager | Luis_Miguel_Ramis
+Regina,_Saskatchewan | leaderTitle | Legislative_Assembly_of_Saskatchewan
+320_South_Boston_Building | architect | George_Winkler
+320_South_Boston_Building | architect | George_Winkler
+320_South_Boston_Building | startDate | 1910
+320_South_Boston_Building | startDate | 1910
+320_South_Boston_Building | buildingStartDate | "1910"
+320_South_Boston_Building | buildingStartDate | "1910"
+320_South_Boston_Building | buildingStartDate | 1910
+320_South_Boston_Building | buildingStartDate | 1910
+Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"
+Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"
+Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"
+Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"
+Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"
+Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"
+108_St_Georges_Terrace | buildingStartDate | "1981"
+108_St_Georges_Terrace | buildingStartDate | "1981"
+108_St_Georges_Terrace | startDate | 1981
+108_St_Georges_Terrace | startDate | 1981
+108_St_Georges_Terrace | buildingStartDate | 1981
+108_St_Georges_Terrace | buildingStartDate | 1981
+108_St_Georges_Terrace | completionDate | 1988
+108_St_Georges_Terrace | buildingEndDate | "1988"
+108_St_Georges_Terrace | cost | "A$120 million"@en
+108_St_Georges_Terrace | cost | "A$120 million"@en
+108_St_Georges_Terrace | cost | "A$120 million"@en
+108_St_Georges_Terrace | cost | "120 million (Australian dollars)"
+108_St_Georges_Terrace | cost | "120 million (Australian dollars)"
+108_St_Georges_Terrace | cost | "120 million (Australian dollars)"
+108_St_Georges_Terrace | floorArea | "39500.0"^^xsd:double
+108_St_Georges_Terrace | Building/floorArea | "39500.0"^^<http://dbpedia.org/datatype/squareMetre>
+108_St_Georges_Terrace | floorArea | 39500.0 (square metres)
+108_St_Georges_Terrace | floorCount | 50
+108_St_Georges_Terrace | floorCount | 50
+108_St_Georges_Terrace | location | Perth
+108_St_Georges_Terrace | location | Perth
+11_Diagonal_Street | architect | "Helmut Jahn"@en
+11_Diagonal_Street | architect | Helmut_Jahn
+11_Diagonal_Street | buildingStartDate | "1978"
+11_Diagonal_Street | buildingStartDate | "1978"
+11_Diagonal_Street | buildingStartDate | "1978"
+11_Diagonal_Street | buildingEndDate | "1983"
+11_Diagonal_Street | completionDate | 1983
+11_Diagonal_Street | floorArea | "1200.0"^^xsd:double
+11_Diagonal_Street | floorArea | 1200 (square metres)
+11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger
+11_Diagonal_Street | floorCount | 20
+11_Diagonal_Street | location | Johannesburg
+11_Diagonal_Street | location | Johannesburg
+11_Diagonal_Street | owner | Redefine_Properties_Limited
+11_Diagonal_Street | owner | Redefine_Properties_Limited
+11_Diagonal_Street | owner | Redefine_Properties_Limited
+320_South_Boston_Building | buildingEndDate | "1929"
+320_South_Boston_Building | buildingEndDate | "1929"
+320_South_Boston_Building | buildingEndDate | "1929"
+320_South_Boston_Building | completionDate | 1929
+320_South_Boston_Building | completionDate | 1929
+320_South_Boston_Building | completionDate | 1929
+320_South_Boston_Building | floorCount | 22
+320_South_Boston_Building | floorCount | 22
+320_South_Boston_Building | formerName | "Exchange National Bank Building"@en
+320_South_Boston_Building | formerName | "Exchange National Bank Building"@en
+320_South_Boston_Building | formerName | "Exchange National Bank Building"
+320_South_Boston_Building | formerName | "Exchange National Bank Building"
+320_South_Boston_Building | height | "400.0"^^<http://dbpedia.org/datatype/foot>
+320_South_Boston_Building | height | "400.0"^^<http://dbpedia.org/datatype/foot>
+320_South_Boston_Building | height | "400.0"^^<http://dbpedia.org/datatype/foot>
+320_South_Boston_Building | height | 121.92 (metres)
+320_South_Boston_Building | height | 121.92 (metres)
+320_South_Boston_Building | height | 121.92 (metres)
+Addis_Ababa_City_Hall | startDate | 1961
+Addis_Ababa_City_Hall | startDate | 1961
+Addis_Ababa_City_Hall | startDate | 1961
+Addis_Ababa_City_Hall | buildingStartDate | 1961
+Addis_Ababa_City_Hall | buildingStartDate | 1961
+Addis_Ababa_City_Hall | buildingStartDate | 1961
+Addis_Ababa_City_Hall | buildingType | Seat_of_local_government
+Addis_Ababa_City_Hall | buildingType | Seat_of_local_government
+Addis_Ababa_City_Hall | completionDate | 1964
+Addis_Ababa_City_Hall | completionDate | 1964
+Addis_Ababa_City_Hall | completionDate | 1964
+Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en
+Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en
+Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en
+Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"
+Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"
+Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"
+Addis_Ababa_City_Hall | Building/floorArea | "140000.0"^^<http://dbpedia.org/datatype/squareMetre>
+Addis_Ababa_City_Hall | Building/floorArea | "140000.0"^^<http://dbpedia.org/datatype/squareMetre>
+Addis_Ababa_City_Hall | Building/floorArea | "140000.0"^^<http://dbpedia.org/datatype/squareMetre>
+Addis_Ababa_City_Hall | floorArea | "140000.0"^^<http://dbpedia.org/datatype/squareMetre>
+Addis_Ababa_City_Hall | floorArea | "140000.0"^^<http://dbpedia.org/datatype/squareMetre>
+Addis_Ababa_City_Hall | floorArea | "140000.0"^^<http://dbpedia.org/datatype/squareMetre>
+Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)
+Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)
+Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)
+Addis_Ababa_City_Hall | height | "42.0"^^xsd:double
+Addis_Ababa_City_Hall | height | "42.0"^^xsd:double
+Addis_Ababa_City_Hall | height | "42 m"
+Addis_Ababa_City_Hall | height | "42 m"
+Alfred_Giles_(architect) | birthPlace | England
+Alfred_Giles_(architect) | birthPlace | England
+Alfred_Giles_(architect) | placeOfBirth | England
+Alfred_Giles_(architect) | placeOfBirth | England
+Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas
+Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas
+Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date
+Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date
+Asher_and_Mary_Isabelle_Richardson_House | added to the National Register of Historic Places | "1988-11-22"
+Asher_and_Mary_Isabelle_Richardson_House | added to the National Register of Historic Places | "1988-11-22"
+Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)
+Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)
+Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)
+Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en
+Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas
+Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83
+Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83
+Asher_and_Mary_Isabelle_Richardson_House | built | 1911
+Asher_and_Mary_Isabelle_Richardson_House | built | 1911
+Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear
+Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear
+Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911
+Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911
+Asherton,_Texas | country | United_States
+Asherton,_Texas | country | United_States
+Asherton,_Texas | country | United_States
+Asherton,_Texas | subdivisionName | Dimmit_County,_Texas
+Asherton,_Texas | subdivisionName | Dimmit_County,_Texas
+Asherton,_Texas | isPartOf | Dimmit_County,_Texas
+Asherton,_Texas | isPartOf | Dimmit_County,_Texas
+Asherton,_Texas | subdivisionName | United_States
+Asherton,_Texas | isPartOf | United_States
+George_Winkler | country | United_States
+George_Winkler | country | United_States
+Perth | country | Australia
+Perth | country | Australia
+South_Africa | demonym | South_Africa
+(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^<http://dbpedia.org/datatype/kilometre>
+(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^<http://dbpedia.org/datatype/kilometre>
+(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)
+(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)
+(15788)_1993_SB | discoverer | Iwan_P._Williams
+(15788)_1993_SB | discoverer | Iwan_P._Williams
+(19255)_1994_VK8 | periapsis | 6.15591e+12
+(19255)_1994_VK8 | periapsis | 6.15591e+12
+(19255)_1994_VK8 | periapsis | 6155910000000.0
+(19255)_1994_VK8 | periapsis | 6155910000000.0
+(19255)_1994_VK8 | temperature | "43.0"^^xsd:double
+(19255)_1994_VK8 | temperature | "43.0"^^xsd:double
+(19255)_1994_VK8 | Planet/temperature | "43.0"^^<http://dbpedia.org/datatype/kelvin>
+(19255)_1994_VK8 | Planet/temperature | "43.0"^^<http://dbpedia.org/datatype/kelvin>
+(19255)_1994_VK8 | temperature | 43.0 (kelvins)
+(19255)_1994_VK8 | temperature | 43.0 (kelvins)
+(29075)_1950_DA | rotationPeriod | "7637.76"^^xsd:double
+(29075)_1950_DA | rotationPeriod | "7637.76"^^xsd:double
+(29075)_1950_DA | rotationPeriod | 7637.76
+(29075)_1950_DA | rotationPeriod | 7637.76
+(66391)_1999_KW4 | discoverer | Lincoln_Near-Earth_Asteroid_Research
+(66391)_1999_KW4 | periapsis | 2.99196e+10
+(66391)_1999_KW4 | periapsis | 2.99196e+10
+(66391)_1999_KW4 | periapsis | 2.99196e+10
+(66391)_1999_KW4 | periapsis | 29919600000.0
+(66391)_1999_KW4 | periapsis | 29919600000.0
+(66391)_1999_KW4 | periapsis | 29919600000.0
+1001_Gaussia | discoverer | Sergey_Belyavsky
+1001_Gaussia | discoverer | Sergey_Belyavsky
+1036_Ganymed | Planet/apoapsis | "6.120048890337E8"^^<http://dbpedia.org/datatype/kilometre>
+1036_Ganymed | Planet/apoapsis | "6.120048890337E8"^^<http://dbpedia.org/datatype/kilometre>
+1036_Ganymed | apoapsis | 611961000.0 (kilometres)
+1036_Ganymed | apoapsis | 611961000.0 (kilometres)
+1036_Ganymed | Planet/temperature | "160.0"^^<http://dbpedia.org/datatype/kelvin>
+1036_Ganymed | Planet/temperature | "160.0"^^<http://dbpedia.org/datatype/kelvin>
+1036_Ganymed | Planet/temperature | "160.0"^^<http://dbpedia.org/datatype/kelvin>
+1036_Ganymed | temperature | "160.0"^^xsd:double
+1036_Ganymed | temperature | "160.0"^^xsd:double
+1036_Ganymed | temperature | "160.0"^^xsd:double
+1036_Ganymed | temperature | 160.0 (kelvins)
+1036_Ganymed | temperature | 160.0 (kelvins)
+1036_Ganymed | temperature | 160.0 (kelvins)
+(15788)_1993_SB | discoverer | "La Palma"@en
+(15788)_1993_SB | discoverer | "La Palma"@en
+(15788)_1993_SB | discoverer | "La Palma"@en
+(15788)_1993_SB | discoverer | Alan_Fitzsimmons
+(15788)_1993_SB | discoverer | Alan_Fitzsimmons
+(15788)_1993_SB | discoverer | Alan_Fitzsimmons
+(15788)_1993_SB | discoverer | Donal_O'Ceallaigh
+(15788)_1993_SB | discoverer | Donal_O'Ceallaigh
+(15788)_1993_SB | discoverer | Donal_O'Ceallaigh
+(15788)_1993_SB | discoverer | Roque_de_los_Muchachos_Observatory
+(15788)_1993_SB | discoverer | Roque_de_los_Muchachos_Observatory
+(15788)_1993_SB | epoch | "2006-03-06"^^xsd:date
+(15788)_1993_SB | epoch | "2006-03-06"^^xsd:date
+(15788)_1993_SB | epoch | 2006-03-06
+(15788)_1993_SB | epoch | 2006-03-06
+(15788)_1993_SB | orbitalPeriod | 7.72943e+09
+(15788)_1993_SB | orbitalPeriod | 7.72943e+09
+(15788)_1993_SB | orbitalPeriod | 7.72943e+09
+(15788)_1993_SB | orbitalPeriod | 7729430000.0
+(15788)_1993_SB | orbitalPeriod | 7729430000.0
+(15788)_1993_SB | orbitalPeriod | 7729430000.0
+(15788)_1993_SB | periapsis | 3.9971e+12
+(15788)_1993_SB | periapsis | 3.9971e+12
+(15788)_1993_SB | periapsis | 3.9971e+12
+(15788)_1993_SB | periapsis | 3997100000000.0
+(15788)_1993_SB | periapsis | 3997100000000.0
+(15788)_1993_SB | periapsis | 3997100000000.0
+(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^<http://dbpedia.org/datatype/kilometre>
+(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^<http://dbpedia.org/datatype/kilometre>
+(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)
+(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)
+(19255)_1994_VK8 | Planet/averageSpeed | "4.56"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+(19255)_1994_VK8 | Planet/averageSpeed | "4.56"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+(19255)_1994_VK8 | averageSpeed | "16416.0"^^xsd:double
+(19255)_1994_VK8 | averageSpeed | "16416.0"^^xsd:double
+(19255)_1994_VK8 | averageSpeed | 4.56 (kilometrePerSeconds)
+(19255)_1994_VK8 | averageSpeed | 4.56 (kilometrePerSeconds)
+(19255)_1994_VK8 | density | "2.0"^^<http://dbpedia.org/datatype/gramPerCubicCentimetre>
+(19255)_1994_VK8 | density | "2.0"^^<http://dbpedia.org/datatype/gramPerCubicCentimetre>
+(19255)_1994_VK8 | Planet/density | "2000.0"^^<http://dbpedia.org/datatype/kilogramPerCubicMetre>
+(19255)_1994_VK8 | Planet/density | "2000.0"^^<http://dbpedia.org/datatype/kilogramPerCubicMetre>
+(19255)_1994_VK8 | density | 2.0 (gramPerCubicCentimetres)
+(19255)_1994_VK8 | density | 2.0 (gramPerCubicCentimetres)
+(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"
+(19255)_1994_VK8 | epoch | 2006-12-31
+(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double
+(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double
+(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)
+(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)
+(19255)_1994_VK8 | mass | "5600.0"^^xsd:double
+(19255)_1994_VK8 | mass | "5600.0"^^xsd:double
+(19255)_1994_VK8 | mass | "5600.0"^^xsd:double
+(19255)_1994_VK8 | mass | 5.6 (kilograms)
+(19255)_1994_VK8 | mass | 5.6 (kilograms)
+(19255)_1994_VK8 | mass | 5.6 (kilograms)
+(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09
+(19255)_1994_VK8 | orbitalPeriod | 8788850000.0
+(29075)_1950_DA | density | ">3.5 g/cm³"@en
+(29075)_1950_DA | density | ">3.5 g/cm³"@en
+(29075)_1950_DA | density | ">3.5 g/cm³"@en
+(29075)_1950_DA | density | 3.5 (kilograms)
+(29075)_1950_DA | density | 3.5 (kilograms)
+(29075)_1950_DA | density | 3.5 (kilograms)
+(29075)_1950_DA | discoverer | Carl_A._Wirtanen
+(29075)_1950_DA | discoverer | Carl_A._Wirtanen
+(29075)_1950_DA | discoverer | Carl_A._Wirtanen
+(29075)_1950_DA | epoch | "2011-Aug-27 (JD2455800.5)"
+(29075)_1950_DA | epoch | "2011-Aug-27 (JD2455800.5)"
+(29075)_1950_DA | epoch | "2011-Aug-27 (JD2455800.5)"
+(29075)_1950_DA | epoch | 2011-Aug-27
+(29075)_1950_DA | epoch | 2011-Aug-27
+(29075)_1950_DA | epoch | 2011-Aug-27
+(29075)_1950_DA | mass | ">4 kg"@en
+(29075)_1950_DA | mass | ">4 kg"@en
+(29075)_1950_DA | mass | 4.0 (kilograms)
+(29075)_1950_DA | mass | 4.0 (kilograms)
+(29075)_1950_DA | orbitalPeriod | 6.98622e+07
+(29075)_1950_DA | orbitalPeriod | 6.98622e+07
+(29075)_1950_DA | orbitalPeriod | 6.98622e+07
+(29075)_1950_DA | orbitalPeriod | 69862200.0
+(29075)_1950_DA | orbitalPeriod | 69862200.0
+(29075)_1950_DA | orbitalPeriod | 69862200.0
+(29075)_1950_DA | periapsis | 1.24958e+11
+(29075)_1950_DA | periapsis | 1.24958e+11
+(29075)_1950_DA | periapsis | 124950000000.0
+(29075)_1950_DA | periapsis | 124950000000.0
+(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^<http://dbpedia.org/datatype/kilometre>
+(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^<http://dbpedia.org/datatype/kilometre>
+(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^<http://dbpedia.org/datatype/kilometre>
+(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)
+(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)
+(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)
+(66391)_1999_KW4 | Planet/averageSpeed | "37.16"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+(66391)_1999_KW4 | Planet/averageSpeed | "37.16"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+(66391)_1999_KW4 | Planet/averageSpeed | "37.16"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+(66391)_1999_KW4 | avgSpeed | "37.16"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+(66391)_1999_KW4 | avgSpeed | "37.16"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+(66391)_1999_KW4 | avgSpeed | "37.16"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+(66391)_1999_KW4 | averageSpeed | "133776.0"^^xsd:double
+(66391)_1999_KW4 | averageSpeed | "133776.0"^^xsd:double
+(66391)_1999_KW4 | averageSpeed | "133776.0"^^xsd:double
+(66391)_1999_KW4 | averageSpeed | 37.16 (kilometrePerSeconds)
+(66391)_1999_KW4 | averageSpeed | 37.16 (kilometrePerSeconds)
+(66391)_1999_KW4 | averageSpeed | 37.16 (kilometrePerSeconds)
+(66391)_1999_KW4 | Planet/density | "2000.0"^^<http://dbpedia.org/datatype/kilogramPerCubicMetre>
+(66391)_1999_KW4 | Planet/density | "2000.0"^^<http://dbpedia.org/datatype/kilogramPerCubicMetre>
+(66391)_1999_KW4 | Planet/density | "2000.0"^^<http://dbpedia.org/datatype/kilogramPerCubicMetre>
+(66391)_1999_KW4 | density | "2000.0"^^xsd:double
+(66391)_1999_KW4 | density | "2000.0"^^xsd:double
+(66391)_1999_KW4 | density | "2000.0"^^xsd:double
+(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)
+(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)
+(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)
+(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"
+(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"
+(66391)_1999_KW4 | epoch | 2004-07-14
+(66391)_1999_KW4 | epoch | 2004-07-14
+(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double
+(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double
+(66391)_1999_KW4 | escapeVelocity | 0
+(66391)_1999_KW4 | escapeVelocity | 0
+(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07
+(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07
+(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07
+(66391)_1999_KW4 | orbitalPeriod | 16244700.0
+(66391)_1999_KW4 | orbitalPeriod | 16244700.0
+(66391)_1999_KW4 | orbitalPeriod | 16244700.0
+(66391)_1999_KW4 | rotationPeriod | "9953.28"^^xsd:double
+(66391)_1999_KW4 | rotationPeriod | "9953.28"^^xsd:double
+(66391)_1999_KW4 | rotationPeriod | 9953.28
+(66391)_1999_KW4 | rotationPeriod | 9953.28
+1000_Piazzia | epoch | "2015-06-27"^^xsd:date
+1000_Piazzia | epoch | 2015-06-27
+1000_Piazzia | escapeVelocity | "0.0252"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+1000_Piazzia | escapeVelocity | "0.0252"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+1000_Piazzia | escapeVelocity | "0.0252"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+1000_Piazzia | escapeVelocity | 0.0252 (kilometrePerSeconds)
+1000_Piazzia | escapeVelocity | 0.0252 (kilometrePerSeconds)
+1000_Piazzia | escapeVelocity | 0.0252 (kilometrePerSeconds)
+1000_Piazzia | formerName | "1923 NZ1951 OB"@en
+1000_Piazzia | formerName | "1923 NZ1951 OB"@en
+1000_Piazzia | formerName | "1923 NZ1951 OB"@en
+1000_Piazzia | formerName | "1923 NZ1951 OB"
+1000_Piazzia | formerName | "1923 NZ1951 OB"
+1000_Piazzia | formerName | "1923 NZ1951 OB"
+1000_Piazzia | formerName | "1967 ED"@en
+1000_Piazzia | formerName | "1967 ED"@en
+1000_Piazzia | formerName | "1967 ED"@en
+1000_Piazzia | formerName | "1967 ED"
+1000_Piazzia | formerName | "1967 ED"
+1000_Piazzia | formerName | "1967 ED"
+1000_Piazzia | mass | "1100.0"^^xsd:double
+1000_Piazzia | mass | "1100.0"^^xsd:double
+1000_Piazzia | mass | "1100.0"^^xsd:double
+1000_Piazzia | mass | 1.1 (kilograms)
+1000_Piazzia | mass | 1.1 (kilograms)
+1000_Piazzia | mass | 1.1 (kilograms)
+1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double
+1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double
+1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double
+1000_Piazzia | orbitalPeriod | 488160.0
+1000_Piazzia | orbitalPeriod | 488160.0
+1000_Piazzia | orbitalPeriod | 488160.0
+1000_Piazzia | periapsis | 3.52497e+11
+1000_Piazzia | periapsis | 3.52497e+11
+1000_Piazzia | periapsis | 3.52497e+11
+1000_Piazzia | periapsis | 352497000000.0
+1000_Piazzia | periapsis | 352497000000.0
+1000_Piazzia | periapsis | 352497000000.0
+1001_Gaussia | absoluteMagnitude | "9.7"^^xsd:double
+1001_Gaussia | absoluteMagnitude | "9.7"^^xsd:double
+1001_Gaussia | absoluteMagnitude | 9.7
+1001_Gaussia | absoluteMagnitude | 9.7
+1001_Gaussia | epoch | "27 June 2015 (JD2457200.5)"
+1001_Gaussia | epoch | "27 June 2015 (JD2457200.5)"
+1001_Gaussia | epoch | 2015-06-27
+1001_Gaussia | epoch | 2015-06-27
+1001_Gaussia | formerName | "1923 OAA907 XC"@en
+1001_Gaussia | formerName | "1923 OAA907 XC"@en
+1001_Gaussia | formerName | "1923 OAA907 XC"@en
+1001_Gaussia | formerName | "1923 OAA907 XC"
+1001_Gaussia | formerName | "1923 OAA907 XC"
+1001_Gaussia | formerName | "1923 OAA907 XC"
+1001_Gaussia | formerName | "A911 MD"@en
+1001_Gaussia | formerName | "A911 MD"@en
+1001_Gaussia | formerName | "A911 MD"@en
+1001_Gaussia | formerName | "A911 MD"
+1001_Gaussia | formerName | "A911 MD"
+1001_Gaussia | formerName | "A911 MD"
+1001_Gaussia | Planet/maximumTemperature | "165.0"^^<http://dbpedia.org/datatype/kelvin>
+1001_Gaussia | Planet/maximumTemperature | "165.0"^^<http://dbpedia.org/datatype/kelvin>
+1001_Gaussia | maximumTemperature | 165.0 (kelvins)
+1001_Gaussia | maximumTemperature | 165.0 (kelvins)
+1001_Gaussia | Planet/meanTemperature | "154.0"^^<http://dbpedia.org/datatype/kelvin>
+1001_Gaussia | Planet/meanTemperature | "154.0"^^<http://dbpedia.org/datatype/kelvin>
+1001_Gaussia | Planet/meanTemperature | "154.0"^^<http://dbpedia.org/datatype/kelvin>
+1001_Gaussia | meanTemperature | 154.0 (kelvins)
+1001_Gaussia | meanTemperature | 154.0 (kelvins)
+1001_Gaussia | meanTemperature | 154.0 (kelvins)
+1001_Gaussia | orbitalPeriod | "496800.0"^^xsd:double
+1001_Gaussia | orbitalPeriod | "496800.0"^^xsd:double
+1001_Gaussia | orbitalPeriod | 5.75 (days)
+1001_Gaussia | orbitalPeriod | 5.75 (days)
+1001_Gaussia | periapsis | 4.19113e+11
+1001_Gaussia | periapsis | 4.19113e+11
+1001_Gaussia | periapsis | 419113394.55312 (kilometres)
+1001_Gaussia | periapsis | 419113394.55312 (kilometres)
+1001_Gaussia | rotationPeriod | "33012.0"^^xsd:double
+1001_Gaussia | rotationPeriod | "33012.0"^^xsd:double
+1001_Gaussia | rotationPeriod | 33012.0
+1001_Gaussia | rotationPeriod | 33012.0
+1036_Ganymed | avgSpeed | "16.86"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+1036_Ganymed | avgSpeed | "16.86"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+1036_Ganymed | avgSpeed | "16.86"^^<http://dbpedia.org/datatype/kilometrePerSecond>
+1036_Ganymed | averageSpeed | "60696.0"^^xsd:double
+1036_Ganymed | averageSpeed | "60696.0"^^xsd:double
+1036_Ganymed | averageSpeed | "60696.0"^^xsd:double
+1036_Ganymed | averageSpeed | 16.86 (kilometrePerSeconds)
+1036_Ganymed | averageSpeed | 16.86 (kilometrePerSeconds)
+1036_Ganymed | averageSpeed | 16.86 (kilometrePerSeconds)
+1036_Ganymed | epoch | "2004-10-22"^^xsd:date
+1036_Ganymed | epoch | "2004-10-22"^^xsd:date
+1036_Ganymed | epoch | "2004-10-22"^^xsd:date
+1036_Ganymed | epoch | 2004-10-22
+1036_Ganymed | epoch | 2004-10-22
+1036_Ganymed | epoch | 2004-10-22
+1036_Ganymed | orbitalPeriod | "374976.0"^^xsd:double
+1036_Ganymed | orbitalPeriod | "374976.0"^^xsd:double
+1036_Ganymed | orbitalPeriod | 374976.0 (seconds)
+1036_Ganymed | orbitalPeriod | 374976.0 (seconds)
+1036_Ganymed | periapsis | 1.84434e+11
+1036_Ganymed | periapsis | 1.84434e+11
+1036_Ganymed | periapsis | 1.84434e+11
+1036_Ganymed | periapsis | 184434000000.0
+1036_Ganymed | periapsis | 184434000000.0
+1036_Ganymed | periapsis | 184434000000.0
+1036_Ganymed | rotationPeriod | "37116.0"^^xsd:double
+1036_Ganymed | rotationPeriod | "37116.0"^^xsd:double
+1036_Ganymed | rotationPeriod | "37116.0"^^xsd:double
+1036_Ganymed | rotationPeriod | 37116.0
+1036_Ganymed | rotationPeriod | 37116.0
+1036_Ganymed | rotationPeriod | 37116.0
+Anderson,_Indiana | isPartOf | Richland_Township,_Madison_County,_Indiana
+Anderson,_Indiana | isPartOf | Richland_Township,_Madison_County,_Indiana
+Arlington,_Texas | populationDensity | "1472.0"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre>
+Arlington,_Texas | populationDensity | "1472.0"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre>
+Arlington,_Texas | populationDensity | "1472.0"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre>
+Arlington,_Texas | populationDensity | 1472.0 (inhabitants per square kilometre)
+Arlington,_Texas | populationDensity | 1472.0 (inhabitants per square kilometre)
+Arlington,_Texas | populationDensity | 1472.0 (inhabitants per square kilometre)
+Atlanta | leaderName | Kasim_Reed
+Atlanta | leaderName | Kasim_Reed
+Atlanta | leader | Kasim_Reed
+Atlanta | leader | Kasim_Reed
+Atlantic_City,_New_Jersey | areaTotal | "44.125"^^<http://dbpedia.org/datatype/squareKilometre>
+Atlantic_City,_New_Jersey | areaTotal | "44.125"^^<http://dbpedia.org/datatype/squareKilometre>
+Atlantic_City,_New_Jersey | areaTotal | "44.125"^^<http://dbpedia.org/datatype/squareKilometre>
+Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)
+Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)
+Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)
+Michigan | country | United_States
+Michigan | country | United_States
+Michigan | country | United_States
+Michigan | largestCity | Detroit
+Abilene,_Texas | areaCode | 325
+Abilene,_Texas | areaCode | 325
+Abilene,_Texas | areaCode | 325
+Abilene,_Texas | areaWater | 1.42e+07
+Abilene,_Texas | areaWater | 1.42e+07
+Abilene,_Texas | areaWater | 1.42e+07
+Abilene,_Texas | areaOfWater | 14.2 (square kilometres)
+Abilene,_Texas | areaOfWater | 14.2 (square kilometres)
+Abilene,_Texas | areaOfWater | 14.2 (square kilometres)
+Abilene,_Texas | areaTotal | "286.4526850031616"^^<http://dbpedia.org/datatype/squareKilometre>
+Abilene,_Texas | areaTotal | "286.4526850031616"^^<http://dbpedia.org/datatype/squareKilometre>
+Abilene,_Texas | areaTotal | "286.4526850031616"^^<http://dbpedia.org/datatype/squareKilometre>
+Abilene,_Texas | areaTotal | 286.5 (square kilometres)
+Abilene,_Texas | areaTotal | 286.5 (square kilometres)
+Abilene,_Texas | areaTotal | 286.5 (square kilometres)
+Abilene,_Texas | elevation | "523.951"^^xsd:double
+Abilene,_Texas | elevation | "523.951"^^xsd:double
+Abilene,_Texas | elevation | "523.951"^^xsd:double
+Abilene,_Texas | elevationAboveTheSeaLevel | 524.0
+Abilene,_Texas | elevationAboveTheSeaLevel | 524.0
+Abilene,_Texas | elevationAboveTheSeaLevel | 524.0
+Abilene,_Texas | populationDensity | "429.9"^^xsd:double
+Abilene,_Texas | populationDensity | "429.9"^^xsd:double
+Abilene,_Texas | populationDensity | "429.9"^^xsd:double
+Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)
+Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)
+Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)
+Akron,_Ohio | areaCode | "234, 330"
+Akron,_Ohio | areaCode | 234, 330
+Akron,_Ohio | areaWater | "880000.0"^^xsd:double
+Akron,_Ohio | areaWater | "880000.0"^^xsd:double
+Akron,_Ohio | areaWater | "880000.0"^^xsd:double
+Akron,_Ohio | areaOfWater | 0.88 (square kilometres)
+Akron,_Ohio | areaOfWater | 0.88 (square kilometres)
+Akron,_Ohio | areaOfWater | 0.88 (square kilometres)
+Akron,_Ohio | areaTotal | "161.53755844165633"^^<http://dbpedia.org/datatype/squareKilometre>
+Akron,_Ohio | areaTotal | "161.53755844165633"^^<http://dbpedia.org/datatype/squareKilometre>
+Akron,_Ohio | areaTotal | "161.53755844165633"^^<http://dbpedia.org/datatype/squareKilometre>
+Akron,_Ohio | areaTotal | 161.54 (square kilometres)
+Akron,_Ohio | areaTotal | 161.54 (square kilometres)
+Akron,_Ohio | areaTotal | 161.54 (square kilometres)
+Akron,_Ohio | elevation | "306.019"^^xsd:double
+Akron,_Ohio | elevationAboveTheSeaLevel | 306.0
+Akron,_Ohio | populationDensity | "1239.35"^^xsd:double
+Akron,_Ohio | populationDensity | "1239.35"^^xsd:double
+Akron,_Ohio | populationDensity | 1239.3 (inhabitants per square kilometre)
+Akron,_Ohio | populationDensity | 1239.3 (inhabitants per square kilometre)
+Albany,_Oregon | areaCode | 541458
+Albany,_Oregon | areaCode | 541458
+Albany,_Oregon | areaCode | 541, 458
+Albany,_Oregon | areaCode | 541, 458
+Albany,_Oregon | areaWater | "540000.0"^^xsd:double
+Albany,_Oregon | areaWater | "540000.0"^^xsd:double
+Albany,_Oregon | areaWater | "540000.0"^^xsd:double
+Albany,_Oregon | areaOfWater | 0.54 (square kilometres)
+Albany,_Oregon | areaOfWater | 0.54 (square kilometres)
+Albany,_Oregon | areaOfWater | 0.54 (square kilometres)
+Albany,_Oregon | areaTotal | 4.59723e+07
+Albany,_Oregon | areaTotal | 4.59723e+07
+Albany,_Oregon | areaTotal | 4.59723e+07
+Albany,_Oregon | areaTotal | 45.97 (square kilometres)
+Albany,_Oregon | areaTotal | 45.97 (square kilometres)
+Albany,_Oregon | areaTotal | 45.97 (square kilometres)
+Albany,_Oregon | elevation | "64.008"^^xsd:double
+Albany,_Oregon | elevation | "64.008"^^xsd:double
+Albany,_Oregon | elevationAboveTheSeaLevel | 64.008
+Albany,_Oregon | elevationAboveTheSeaLevel | 64.008
+Albany,_Oregon | populationDensity | "1104.1"^^xsd:double
+Albany,_Oregon | populationDensity | "1104.1"^^xsd:double
+Albany,_Oregon | populationDensity | "1104.1"^^xsd:double
+Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)
+Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)
+Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)
+Alexandria,_Indiana | areaCode | 765
+Alexandria,_Indiana | areaCode | 765
+Alexandria,_Indiana | areaTotal | 6.81e+06
+Alexandria,_Indiana | areaTotal | 6.81e+06
+Alexandria,_Indiana | areaTotal | 6.81e+06
+Alexandria,_Indiana | areaTotal | 6.81 (square kilometres)
+Alexandria,_Indiana | areaTotal | 6.81 (square kilometres)
+Alexandria,_Indiana | areaTotal | 6.81 (square kilometres)
+Alexandria,_Indiana | elevation | "265.0"^^xsd:double
+Alexandria,_Indiana | elevation | "265.0"^^xsd:double
+Alexandria,_Indiana | elevationAboveTheSeaLevel | 265.0
+Alexandria,_Indiana | elevationAboveTheSeaLevel | 265.0
+Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double
+Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double
+Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double
+Alexandria,_Indiana | populationDensity | 755.3 (inhabitants per square kilometre)
+Alexandria,_Indiana | populationDensity | 755.3 (inhabitants per square kilometre)
+Alexandria,_Indiana | populationDensity | 755.3 (inhabitants per square kilometre)
+Alpharetta,_Georgia | areaCode | 770404678
+Alpharetta,_Georgia | areaCode | 770404678
+Alpharetta,_Georgia | areaCode | 770, 404, 678
+Alpharetta,_Georgia | areaCode | 770, 404, 678
+Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double
+Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double
+Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double
+Alpharetta,_Georgia | areaOfWater | 1.0 (square kilometres)
+Alpharetta,_Georgia | areaOfWater | 1.0 (square kilometres)
+Alpharetta,_Georgia | areaOfWater | 1.0 (square kilometres)
+Alpharetta,_Georgia | areaTotal | 5.54e+07
+Alpharetta,_Georgia | areaTotal | 5.54e+07
+Alpharetta,_Georgia | areaTotal | 5.54e+07
+Alpharetta,_Georgia | areaTotal | 55.4 (square kilometres)
+Alpharetta,_Georgia | areaTotal | 55.4 (square kilometres)
+Alpharetta,_Georgia | areaTotal | 55.4 (square kilometres)
+Alpharetta,_Georgia | elevation | "345.948"^^xsd:double
+Alpharetta,_Georgia | elevation | "345.948"^^xsd:double
+Alpharetta,_Georgia | elevationAboveTheSeaLevel | 346.0
+Alpharetta,_Georgia | elevationAboveTheSeaLevel | 346.0
+Alpharetta,_Georgia | populationDensity | "992.6"^^xsd:double
+Alpharetta,_Georgia | populationDensity | "992.6"^^xsd:double
+Alpharetta,_Georgia | populationDensity | "992.6"^^xsd:double
+Alpharetta,_Georgia | populationDensity | 992.6 (inhabitants per square kilometre)
+Alpharetta,_Georgia | populationDensity | 992.6 (inhabitants per square kilometre)
+Alpharetta,_Georgia | populationDensity | 992.6 (inhabitants per square kilometre)
+Ann_Arbor,_Michigan | areaCode | "734"
+Ann_Arbor,_Michigan | areaCode | "734"
+Ann_Arbor,_Michigan | areaCode | 734
+Ann_Arbor,_Michigan | areaCode | 734
+Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^<http://dbpedia.org/datatype/squareKilometre>
+Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^<http://dbpedia.org/datatype/squareKilometre>
+Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^<http://dbpedia.org/datatype/squareKilometre>
+Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)
+Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)
+Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)
+Ann_Arbor,_Michigan | isPartOf | Michigan
+Ann_Arbor,_Michigan | isPartOf | Michigan
+Ann_Arbor,_Michigan | subdivisionName | Michigan
+Ann_Arbor,_Michigan | subdivisionName | Michigan
+Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan
+Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan
+Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan
+Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan
+Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)
+Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)
+Ann_Arbor,_Michigan | leader | Christopher_Taylor_(politician)
+Ann_Arbor,_Michigan | leader | Christopher_Taylor_(politician)
+Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en
+Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en
+Ann_Arbor,_Michigan | leaderTitle | "City Administrator"
+Ann_Arbor,_Michigan | leaderTitle | "City Administrator"
+Ann_Arbor,_Michigan | leaderTitle | City_manager
+Ann_Arbor,_Michigan | leaderTitle | City_manager
+Ann_Arbor,_Michigan | leaderTitle | City_manager
+Ann_Arbor,_Michigan | leaderTitle | City_Manager
+Ann_Arbor,_Michigan | leaderTitle | City_Manager
+Ann_Arbor,_Michigan | leaderTitle | City_Manager
+Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en
+Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en
+Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en
+Ann_Arbor,_Michigan | leaderTitle | Mayor
+Ann_Arbor,_Michigan | leaderTitle | Mayor
+Ann_Arbor,_Michigan | leaderTitle | Mayor
+Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double
+Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double
+Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double
+Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)
+Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)
+Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)
+Arlington,_Texas | areaCode | "682, 817,214, 469, 972"
+Arlington,_Texas | areaCode | "682, 817,214, 469, 972"
+Arlington,_Texas | areaCode | "682, 817,214, 469, 972"
+Arlington,_Texas | areaCode | 682, 817, 214, 469, 972
+Arlington,_Texas | areaCode | 682, 817, 214, 469, 972
+Arlington,_Texas | areaCode | 682, 817, 214, 469, 972
+Arlington,_Texas | areaWater | 8.3e+06
+Arlington,_Texas | areaWater | 8.3e+06
+Arlington,_Texas | areaOfWater | 82.8 (square kilometres)
+Arlington,_Texas | areaOfWater | 82.8 (square kilometres)
+Arlington,_Texas | areaTotal | 2.58222e+08
+Arlington,_Texas | areaTotal | 2.58222e+08
+Arlington,_Texas | areaTotal | 2.58222e+08
+Arlington,_Texas | areaTotal | 258.2 (square kilometres)
+Arlington,_Texas | areaTotal | 258.2 (square kilometres)
+Arlington,_Texas | areaTotal | 258.2 (square kilometres)
+Arlington,_Texas | elevation | "184.099"^^xsd:double
+Arlington,_Texas | elevation | "184.099"^^xsd:double
+Arlington,_Texas | elevationAboveTheSeaLevel | 184.0
+Arlington,_Texas | elevationAboveTheSeaLevel | 184.0
+Atlanta | leaderName | Atlanta_City_Council
+Atlanta | leaderName | Atlanta_City_Council
+Atlanta | leader | Atlanta_City_Council
+Atlanta | leader | Atlanta_City_Council
+Atlantic_City,_New_Jersey | areaCode | "609"
+Atlantic_City,_New_Jersey | areaCode | "609"
+Atlantic_City,_New_Jersey | areaCode | "609"
+Atlantic_City,_New_Jersey | areaCode | 609
+Atlantic_City,_New_Jersey | areaCode | 609
+Atlantic_City,_New_Jersey | areaCode | 609
+Atlantic_City,_New_Jersey | leaderName | Don_Guardian
+Atlantic_City,_New_Jersey | leaderName | Don_Guardian
+Atlantic_City,_New_Jersey | leaderName | Don_Guardian
+Atlantic_City,_New_Jersey | leader | Don_Guardian
+Atlantic_City,_New_Jersey | leader | Don_Guardian
+Atlantic_City,_New_Jersey | leader | Don_Guardian
+Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en
+Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en
+Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en
+Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)
+Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)
+Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)
+Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey
+Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey
+Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double
+Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double
+Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double
+Atlantic_City,_New_Jersey | populationDensity | 1421.2 (inhabitants per square kilometre)
+Atlantic_City,_New_Jersey | populationDensity | 1421.2 (inhabitants per square kilometre)
+Atlantic_City,_New_Jersey | populationDensity | 1421.2 (inhabitants per square kilometre)
+Auburn,_Alabama | areaCode | 334
+Auburn,_Alabama | areaCode | 334
+Auburn,_Alabama | areaWater | 1.7e+06
+Auburn,_Alabama | areaWater | 1.7e+06
+Auburn,_Alabama | areaWater | 1.7e+06
+Auburn,_Alabama | areaOfWater | 1.7 (square kilometres)
+Auburn,_Alabama | areaOfWater | 1.7 (square kilometres)
+Auburn,_Alabama | areaOfWater | 1.7 (square kilometres)
+Auburn,_Alabama | areaTotal | "140.8"^^<http://dbpedia.org/datatype/squareKilometre>
+Auburn,_Alabama | areaTotal | "140.8"^^<http://dbpedia.org/datatype/squareKilometre>
+Auburn,_Alabama | areaTotal | "140.8"^^<http://dbpedia.org/datatype/squareKilometre>
+Auburn,_Alabama | areaTotal | 140.8 (square kilometres)
+Auburn,_Alabama | areaTotal | 140.8 (square kilometres)
+Auburn,_Alabama | areaTotal | 140.8 (square kilometres)
+Auburn,_Alabama | elevation | "214.0"^^xsd:double
+Auburn,_Alabama | elevation | "214.0"^^xsd:double
+Auburn,_Alabama | elevationAboveTheSeaLevel | 214.0
+Auburn,_Alabama | elevationAboveTheSeaLevel | 214.0
+Auburn,_Alabama | populationDensity | "368.65"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre>
+Auburn,_Alabama | populationDensity | "368.65"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre>
+Auburn,_Alabama | populationDensity | "368.65"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre>
+Auburn,_Alabama | populationDensity | 368.65 (inhabitants per square kilometre)
+Auburn,_Alabama | populationDensity | 368.65 (inhabitants per square kilometre)
+Auburn,_Alabama | populationDensity | 368.65 (inhabitants per square kilometre)
+Austin,_Texas | areaCode | 512
+Austin,_Texas | areaCode | 512
+Austin,_Texas | areaCode | 512
+Austin,_Texas | areaCode | "512 & 737"
+Austin,_Texas | areaCode | 512, 737
+Austin,_Texas | areaLand | 6.86088e+08
+Austin,_Texas | areaLand | 6.86088e+08
+Austin,_Texas | areaLand | 6.86088e+08
+Austin,_Texas | areaOfLand | 686.0 (square kilometres)
+Austin,_Texas | areaOfLand | 686.0 (square kilometres)
+Austin,_Texas | areaOfLand | 686.0 (square kilometres)
+Austin,_Texas | areaTotal | 7.03959e+08
+Austin,_Texas | areaTotal | 7.03959e+08
+Austin,_Texas | areaTotal | 703.95 (square kilometres)
+Austin,_Texas | areaTotal | 703.95 (square kilometres)
+Austin,_Texas | populationDensity | "1296.654601076267"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre>
+Austin,_Texas | populationDensity | "1296.654601076267"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre>
+Austin,_Texas | populationDensity | "1296.654601076267"^^<http://dbpedia.org/datatype/inhabitantsPerSquareKilometre>
+Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)
+Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)
+Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)
+Linn_County,_Oregon | largestCity | Albany,_Oregon
+Linn_County,_Oregon | largestCity | Albany,_Oregon
+Linn_County,_Oregon | largestCity | Albany,_Oregon
+Michigan | capital | Lansing,_Michigan
+Michigan | capital | Lansing,_Michigan
+Michigan | language | Arabic
+Michigan | language | Arabic
+Michigan | language | Arabic
+Michigan | language | English_language
+Michigan | language | English_language
+Michigan | language | Spanish_language
+Michigan | language | Spanish_language
+Michigan | language | Spanish_language
+Potter_County,_Texas | countySeat | Amarillo,_Texas
+Potter_County,_Texas | countySeat | Amarillo,_Texas
+Richland_Township,_Madison_County,_Indiana | country | United_States
+Richland_Township,_Madison_County,_Indiana | country | United_States
+Richland_Township,_Madison_County,_Indiana | country | United_States
+Taylor_County,_Texas | largestCity | Abilene,_Texas
+Taylor_County,_Texas | largestCity | Abilene,_Texas
+Travis_County,_Texas | countySeat | Austin,_Texas
+Travis_County,_Texas | countySeat | Austin,_Texas
+Travis_County,_Texas | largestCity | Austin,_Texas
+Travis_County,_Texas | largestCity | Austin,_Texas
+Travis_County,_Texas | largestCity | Austin,_Texas
+Washtenaw_County,_Michigan | country | United_States
+Washtenaw_County,_Michigan | country | United_States
+Washtenaw_County,_Michigan | largestCity | Ann_Arbor,_Michigan
+Washtenaw_County,_Michigan | largestCity | Ann_Arbor,_Michigan
+Washtenaw_County,_Michigan | largestCity | Ann_Arbor,_Michigan
+April_O'Neil | creator | Kevin_Eastman
+April_O'Neil | creator | Kevin_Eastman
+April_O'Neil | creators | Kevin_Eastman
+April_O'Neil | creators | Kevin_Eastman
+Ben_Urich | fullName | "Benjamin Urich"@en
+Ben_Urich | fullName | "Benjamin Urich"@en
+Ben_Urich | fullName | "Benjamin Urich"
+Ben_Urich | fullName | "Benjamin Urich"
+Bibbo_Bibbowski | creators | Jerry_Ordway
+Bibbo_Bibbowski | creators | Jerry_Ordway
+Bibbo_Bibbowski | creators | Jerry_Ordway
+Bibbo_Bibbowski | creator | Jerry_Ordway
+Bibbo_Bibbowski | creator | Jerry_Ordway
+Bibbo_Bibbowski | creator | Jerry_Ordway
+Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en
+Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en
+Bibbo_Bibbowski | fullName | "Bo Bibbowski"
+Bibbo_Bibbowski | fullName | "Bo Bibbowski"
+Black_Pirate | alterEgo | "Jon Valor"@en
+Black_Pirate | alterEgo | "Jon Valor"@en
+Black_Pirate | alterEgo | "Jon Valor"@en
+Black_Pirate | alternativeName | "Jon Valor"
+Black_Pirate | alternativeName | "Jon Valor"
+Black_Pirate | alternativeName | "Jon Valor"
+John_Buscema | award | Eisner_Award
+Karl_Kesel | nationality | Americans
+Karl_Kesel | nationality | Americans
+Marv_Wolfman | award | Kirby_Award
+Marv_Wolfman | award | Kirby_Award
+Peter_Laird | nationality | United_States
+Peter_Laird | nationality | United_States
+Airman_(comics) | alterEgo | "Drake Stevens"@en
+Airman_(comics) | alterEgo | "Drake Stevens"@en
+Airman_(comics) | alterEgo | "Drake Stevens"@en
+Airman_(comicsCharacter) | alternativeName | "Drake Stevens"
+Airman_(comicsCharacter) | alternativeName | "Drake Stevens"
+Airman_(comicsCharacter) | alternativeName | "Drake Stevens"
+Airman_(comics) | creators | George_Kapitan
+Airman_(comics) | creators | George_Kapitan
+Airman_(comics) | creators | George_Kapitan
+Airman_(comics) | creator | George_Kapitan
+Airman_(comics) | creator | George_Kapitan
+Airman_(comics) | creator | George_Kapitan
+Airman_(comicsCharacter) | creator | George_Kapitan
+Airman_(comicsCharacter) | creator | George_Kapitan
+Airman_(comicsCharacter) | creator | George_Kapitan
+Airman_(comics) | creators | Harry_Sahle
+Airman_(comics) | creators | Harry_Sahle
+Airman_(comics) | creators | Harry_Sahle
+Airman_(comics) | creator | Harry_Sahle
+Airman_(comics) | creator | Harry_Sahle
+Airman_(comics) | creator | Harry_Sahle
+Airman_(comicsCharacter) | creator | Harry_Sahle
+Airman_(comicsCharacter) | creator | Harry_Sahle
+Airman_(comicsCharacter) | creator | Harry_Sahle
+Amazing-Man_(Centaur_Publications) | alterEgo | "John Aman"@en
+Amazing-Man_(Centaur_Publications) | alterEgo | "John Aman"@en
+Amazing-Man_(Centaur_Publications) | alterEgo | "John Aman"@en
+Amazing-Man_(comicsCharacter) | alternativeName | "John Aman"
+Amazing-Man_(comicsCharacter) | alternativeName | "John Aman"
+Amazing-Man_(comicsCharacter) | alternativeName | "John Aman"
+Amazing-Man_(Centaur_Publications) | creators | Bill_Everett
+Amazing-Man_(Centaur_Publications) | creators | Bill_Everett
+Amazing-Man_(Centaur_Publications) | creators | Bill_Everett
+Amazing-Man_(Centaur_Publications) | creator | Bill_Everett
+Amazing-Man_(Centaur_Publications) | creator | Bill_Everett
+Amazing-Man_(Centaur_Publications) | creator | Bill_Everett
+Amazing-Man_(comicsCharacter) | creator | Bill_Everett
+Amazing-Man_(comicsCharacter) | creator | Bill_Everett
+Amazing-Man_(comicsCharacter) | creator | Bill_Everett
+April_O'Neil | creators | Peter_Laird
+April_O'Neil | creators | Peter_Laird
+April_O'Neil | creators | Peter_Laird
+April_O'Neil | creator | Peter_Laird
+April_O'Neil | creator | Peter_Laird
+April_O'Neil | creator | Peter_Laird
+Arion_(comics) | alterEgo | "Ahri'ahn"@en
+Arion_(comics) | alterEgo | "Ahri'ahn"@en
+Arion_(comics) | alterEgo | "Ahri'ahn"@en
+Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"
+Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"
+Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"
+Arion_(comics) | creators | Jan_Duursema
+Arion_(comics) | creators | Jan_Duursema
+Arion_(comics) | creator | Jan_Duursema
+Arion_(comics) | creator | Jan_Duursema
+Arion_(comicsCharacter) | creator | Jan_Duursema
+Arion_(comicsCharacter) | creator | Jan_Duursema
+Arion_(comics) | creators | Paul_Kupperberg
+Arion_(comics) | creators | Paul_Kupperberg
+Arion_(comics) | creators | Paul_Kupperberg
+Arion_(comics) | creator | Paul_Kupperberg
+Arion_(comics) | creator | Paul_Kupperberg
+Arion_(comics) | creator | Paul_Kupperberg
+Arion_(comicsCharacter) | creator | Paul_Kupperberg
+Arion_(comicsCharacter) | creator | Paul_Kupperberg
+Arion_(comicsCharacter) | creator | Paul_Kupperberg
+Asterix_(character) | alterEgo | "Astérix"@en
+Asterix_(character) | alterEgo | "Astérix"@en
+Asterix_(character) | alterEgo | "Astérix"@en
+Asterix_(comicsCharacter) | alternativeName | "Astérix"
+Asterix_(comicsCharacter) | alternativeName | "Astérix"
+Asterix_(comicsCharacter) | alternativeName | "Astérix"
+Asterix_(character) | creator | Albert_Uderzo
+Asterix_(character) | creator | Albert_Uderzo
+Asterix_(character) | creator | Albert_Uderzo
+Asterix_(character) | creators | Albert_Uderzo
+Asterix_(character) | creators | Albert_Uderzo
+Asterix_(character) | creators | Albert_Uderzo
+Asterix_(comicsCharacter) | creator | Albert_Uderzo
+Asterix_(comicsCharacter) | creator | Albert_Uderzo
+Asterix_(comicsCharacter) | creator | Albert_Uderzo
+Asterix_(character) | creator | René_Goscinny
+Asterix_(character) | creator | René_Goscinny
+Asterix_(character) | creator | René_Goscinny
+Asterix_(character) | creators | René_Goscinny
+Asterix_(character) | creators | René_Goscinny
+Asterix_(character) | creators | René_Goscinny
+Asterix_(comicsCharacter) | creator | René_Goscinny
+Asterix_(comicsCharacter) | creator | René_Goscinny
+Asterix_(comicsCharacter) | creator | René_Goscinny
+Aurakles | alterEgo | "Aurakles"@en
+Aurakles | alterEgo | "Aurakles"@en
+Aurakles | alterEgo | "Aurakles"@en
+Aurakles | alternativeName | "Aurakles"
+Aurakles | alternativeName | "Aurakles"
+Aurakles | alternativeName | "Aurakles"
+Aurakles | creator | Dick_Dillin
+Aurakles | creator | Dick_Dillin
+Aurakles | creator | Dick_Dillin
+Aurakles | creators | Dick_Dillin
+Aurakles | creators | Dick_Dillin
+Aurakles | creators | Dick_Dillin
+Aurakles | creator | Len_Wein
+Aurakles | creator | Len_Wein
+Aurakles | creators | Len_Wein
+Aurakles | creators | Len_Wein
+Auron_(comics) | creator | Karl_Kesel
+Auron_(comics) | creator | Karl_Kesel
+Auron_(comics) | creator | Karl_Kesel
+Auron_(comics) | creators | Karl_Kesel
+Auron_(comics) | creators | Karl_Kesel
+Auron_(comics) | creators | Karl_Kesel
+Auron_(comicsCharacter) | creator | Karl_Kesel
+Auron_(comicsCharacter) | creator | Karl_Kesel
+Auron_(comicsCharacter) | creator | Karl_Kesel
+Auron_(comics) | creators | "Marv Wolfman"@en
+Auron_(comics) | creators | "Marv Wolfman"@en
+Auron_(comics) | creators | "Marv Wolfman"@en
+Auron_(comics) | creator | Marv_Wolfman
+Auron_(comics) | creator | Marv_Wolfman
+Auron_(comics) | creator | Marv_Wolfman
+Auron_(comicsCharacter) | creator | Marv_Wolfman
+Auron_(comicsCharacter) | creator | Marv_Wolfman
+Auron_(comicsCharacter) | creator | Marv_Wolfman
+Auron_(comics) | creators | Walt_Simonson
+Auron_(comics) | creators | Walt_Simonson
+Auron_(comics) | creator | Walt_Simonson
+Auron_(comics) | creator | Walt_Simonson
+Auron_(comicsCharacter) | creator | Walt_Simonson
+Auron_(comicsCharacter) | creator | Walt_Simonson
+Auron_(comics) | fullName | "Lambien"@en
+Auron_(comics) | fullName | "Lambien"@en
+Auron_(comics) | fullName | "Lambien"@en
+Auron_(comicsCharacter) | fullName | "Lambien"
+Auron_(comicsCharacter) | fullName | "Lambien"
+Auron_(comicsCharacter) | fullName | "Lambien"
+Balder_(comics) | alterEgo | "Balder Odinson"@en
+Balder_(comics) | alterEgo | "Balder Odinson"@en
+Balder_(comics) | alterEgo | "Balder Odinson"@en
+Balder_(comicsCharacter) | alternativeName | "Balder Odinson"
+Balder_(comicsCharacter) | alternativeName | "Balder Odinson"
+Balder_(comicsCharacter) | alternativeName | "Balder Odinson"
+Balder_(comics) | creators | Jack_Kirby
+Balder_(comics) | creators | Jack_Kirby
+Balder_(comics) | creators | Jack_Kirby
+Balder_(comicsCharacter) | creator | Jack_Kirby
+Balder_(comicsCharacter) | creator | Jack_Kirby
+Balder_(comicsCharacter) | creator | Jack_Kirby
+Balder_(comics) | creators | Stan_Lee
+Balder_(comics) | creators | Stan_Lee
+Balder_(comics) | creators | Stan_Lee
+Balder_(comics) | creator | Stan_Lee
+Balder_(comics) | creator | Stan_Lee
+Balder_(comics) | creator | Stan_Lee
+Balder_(comicsCharacter) | creator | Stan_Lee
+Balder_(comicsCharacter) | creator | Stan_Lee
+Balder_(comicsCharacter) | creator | Stan_Lee
+Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en
+Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en
+Ballistic_(comicsCharacter) | alternativeName | "Kelvin Mao"
+Ballistic_(comicsCharacter) | alternativeName | "Kelvin Mao"
+Ballistic_(DC_Comics) | creators | "Michael Manley"@en
+Ballistic_(DC_Comics) | creators | "Michael Manley"@en
+Ballistic_(comicsCharacter) | creator | "Michael Manley"
+Ballistic_(comicsCharacter) | creator | "Michael Manley"
+Ballistic_(DC_Comics) | creator | Doug_Moench
+Ballistic_(DC_Comics) | creator | Doug_Moench
+Ballistic_(DC_Comics) | creator | Doug_Moench
+Ballistic_(DC_Comics) | creators | Doug_Moench
+Ballistic_(DC_Comics) | creators | Doug_Moench
+Ballistic_(DC_Comics) | creators | Doug_Moench
+Ballistic_(comicsCharacter) | creator | Doug_Moench
+Ballistic_(comicsCharacter) | creator | Doug_Moench
+Ballistic_(comicsCharacter) | creator | Doug_Moench
+Ben_Urich | creators | Gene_Colan
+Ben_Urich | creators | Gene_Colan
+Ben_Urich | creators | Gene_Colan
+Ben_Urich | creator | Gene_Colan
+Ben_Urich | creator | Gene_Colan
+Ben_Urich | creator | Gene_Colan
+Ben_Urich | creators | Roger_McKenzie_(comics)
+Ben_Urich | creators | Roger_McKenzie_(comics)
+Ben_Urich | creators | Roger_McKenzie_(comics)
+Ben_Urich | creator | Roger_McKenzie_(comics)
+Ben_Urich | creator | Roger_McKenzie_(comics)
+Ben_Urich | creator | Roger_McKenzie_(comics)
+Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)
+Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)
+Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)
+Bianca_Castafiore | creators | Hergé
+Bianca_Castafiore | creator | Hergé
+Bibbo_Bibbowski | creators | Marv_Wolfman
+Bibbo_Bibbowski | creators | Marv_Wolfman
+Bibbo_Bibbowski | creator | Marv_Wolfman
+Bibbo_Bibbowski | creator | Marv_Wolfman
+Bill_Everett | award | Eisner_Award
+Bill_Everett | award | Eisner_Award
+Black_Pirate | creator | Sheldon_Moldoff
+Black_Pirate | creator | Sheldon_Moldoff
+Black_Pirate | creator | Sheldon_Moldoff
+Black_Pirate | creators | Sheldon_Moldoff
+Black_Pirate | creators | Sheldon_Moldoff
+Black_Pirate | creators | Sheldon_Moldoff
+Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en
+Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en
+Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en
+Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"
+Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"
+Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"
+Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en
+Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en
+Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en
+Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"
+Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"
+Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"
+Blockbuster_(DC_Comics) | creators | Carmine_Infantino
+Blockbuster_(DC_Comics) | creators | Carmine_Infantino
+Blockbuster_(DC_Comics) | creators | Carmine_Infantino
+Blockbuster_(DC_Comics) | creator | Carmine_Infantino
+Blockbuster_(DC_Comics) | creator | Carmine_Infantino
+Blockbuster_(DC_Comics) | creator | Carmine_Infantino
+Blockbuster_(comicsCharacter) | creator | Carmine_Infantino
+Blockbuster_(comicsCharacter) | creator | Carmine_Infantino
+Blockbuster_(comicsCharacter) | creator | Carmine_Infantino
+Blockbuster_(DC_Comics) | creator | Gardner_Fox
+Blockbuster_(DC_Comics) | creator | Gardner_Fox
+Blockbuster_(DC_Comics) | creator | Gardner_Fox
+Blockbuster_(DC_Comics) | creators | Gardner_Fox
+Blockbuster_(DC_Comics) | creators | Gardner_Fox
+Blockbuster_(DC_Comics) | creators | Gardner_Fox
+Blockbuster_(comicsCharacter) | creator | Gardner_Fox
+Blockbuster_(comicsCharacter) | creator | Gardner_Fox
+Blockbuster_(comicsCharacter) | creator | Gardner_Fox
+Blockbuster_(DC_Comics) | creators | Roger_Stern
+Blockbuster_(DC_Comics) | creators | Roger_Stern
+Blockbuster_(DC_Comics) | creators | Roger_Stern
+Blockbuster_(DC_Comics) | creator | Roger_Stern
+Blockbuster_(DC_Comics) | creator | Roger_Stern
+Blockbuster_(DC_Comics) | creator | Roger_Stern
+Blockbuster_(comicsCharacter) | creator | Roger_Stern
+Blockbuster_(comicsCharacter) | creator | Roger_Stern
+Blockbuster_(comicsCharacter) | creator | Roger_Stern
+Blockbuster_(DC_Comics) | creator | Tom_Lyle
+Blockbuster_(DC_Comics) | creator | Tom_Lyle
+Blockbuster_(DC_Comics) | creator | Tom_Lyle
+Blockbuster_(DC_Comics) | creators | Tom_Lyle
+Blockbuster_(DC_Comics) | creators | Tom_Lyle
+Blockbuster_(DC_Comics) | creators | Tom_Lyle
+Blockbuster_(comicsCharacter) | creator | Tom_Lyle
+Blockbuster_(comicsCharacter) | creator | Tom_Lyle
+Blockbuster_(comicsCharacter) | creator | Tom_Lyle
+Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en
+Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en
+Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"
+Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"
+Bolt_(DC_Comics) | creators | Dan_Mishkin
+Bolt_(DC_Comics) | creators | Dan_Mishkin
+Bolt_(DC_Comics) | creators | Dan_Mishkin
+Bolt_(DC_Comics) | creator | Dan_Mishkin
+Bolt_(DC_Comics) | creator | Dan_Mishkin
+Bolt_(DC_Comics) | creator | Dan_Mishkin
+Bolt_(comicsCharacter) | creator | Dan_Mishkin
+Bolt_(comicsCharacter) | creator | Dan_Mishkin
+Bolt_(comicsCharacter) | creator | Dan_Mishkin
+Bolt_(DC_Comics) | creators | Ernie_Colón
+Bolt_(DC_Comics) | creators | Ernie_Colón
+Bolt_(DC_Comics) | creators | Ernie_Colón
+Bolt_(DC_Comics) | creator | Ernie_Colón
+Bolt_(DC_Comics) | creator | Ernie_Colón
+Bolt_(DC_Comics) | creator | Ernie_Colón
+Bolt_(comicsCharacter) | creator | Ernie_Colón
+Bolt_(comicsCharacter) | creator | Ernie_Colón
+Bolt_(comicsCharacter) | creator | Ernie_Colón
+Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)
+Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)
+Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)
+Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)
+Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)
+Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)
+Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)
+Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)
+Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)
+Bolt_(DC_Comics) | creators | Paris_Cullins
+Bolt_(DC_Comics) | creators | Paris_Cullins
+Bolt_(DC_Comics) | creator | Paris_Cullins
+Bolt_(DC_Comics) | creator | Paris_Cullins
+Bolt_(comicsCharacter) | creator | Paris_Cullins
+Bolt_(comicsCharacter) | creator | Paris_Cullins
+Bozo_the_Iron_Man | creator | George_Brenner
+Bozo_the_Iron_Man | creator | George_Brenner
+Bozo_the_Iron_Man | creator | George_Brenner
+Bozo_the_Iron_Man | creators | George_Brenner
+Bozo_the_Iron_Man | creators | George_Brenner
+Bozo_the_Iron_Man | creators | George_Brenner
+Bozo_the_Iron_Man | fullName | "Hugh Hazzard"@en
+Bozo_the_Iron_Man | fullName | "Hugh Hazzard"@en
+Bozo_the_Iron_Man | fullName | "Hugh Hazzard"@en
+Bozo_the_Iron_Man | fullName | "Hugh Hazzard"
+Bozo_the_Iron_Man | fullName | "Hugh Hazzard"
+Bozo_the_Iron_Man | fullName | "Hugh Hazzard"
+Black_Knight_(Dane_Whitman) | alterEgo | "Dane Whitman"@en
+Black_Knight_(Dane_Whitman) | alterEgo | "Dane Whitman"@en
+Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | "Dane Whitman"
+Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | "Dane Whitman"
+Black_Knight_(Dane_Whitman) | creator | John_Buscema
+Black_Knight_(Dane_Whitman) | creator | John_Buscema
+Black_Knight_(Dane_Whitman) | creator | John_Buscema
+Black_Knight_(Dane_Whitman) | creators | John_Buscema
+Black_Knight_(Dane_Whitman) | creators | John_Buscema
+Black_Knight_(Dane_Whitman) | creators | John_Buscema
+Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema
+Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema
+Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema
+Black_Knight_(Dane_Whitman) | creator | Roy_Thomas
+Black_Knight_(Dane_Whitman) | creator | Roy_Thomas
+Black_Knight_(Dane_Whitman) | creator | Roy_Thomas
+Black_Knight_(Dane_Whitman) | creators | Roy_Thomas
+Black_Knight_(Dane_Whitman) | creators | Roy_Thomas
+Black_Knight_(Dane_Whitman) | creators | Roy_Thomas
+Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas
+Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas
+Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas
+Dick_Dillin | nationality | United_States
+Dick_Dillin | nationality | United_States
+Doug_Moench | award | Eagle_Award_(comics)
+Doug_Moench | award | Eagle_Award_(comics)
+Doug_Moench | award | Eagle_Award_(comics)
+Doug_Moench | award | Inkpot_Award
+Ernie_Colón | nationality | Puerto_Ricans
+Ernie_Colón | nationality | Puerto_Ricans
+Gene_Colan | award | Eisner_Award
+Gene_Colan | award | Eisner_Award
+Gene_Colan | nationality | Americans
+Gene_Colan | nationality | Americans
+Jack_Kirby | nationality | Americans
+Jack_Kirby | nationality | Americans
+Jack_Kirby | nationality | Americans
+Jan_Duursema | awards | Eisner_Award
+Jan_Duursema | award | Eisner_Award
+Jerry_Ordway | nationality | Americans
+Jerry_Ordway | nationality | Americans
+John_Buscema | award | Academy_of_Comic_Book_Arts
+John_Buscema | award | Academy_of_Comic_Book_Arts
+John_Buscema | award | Academy_of_Comic_Book_Arts
+John_Buscema | award | Alley_Award
+John_Buscema | award | Eagle_Award_(comics)
+John_Buscema | award | Eagle_Award_(comics)
+John_Buscema | award | Inkpot_Award
+John_Buscema | award | Inkpot_Award
+John_Buscema | nationality | Americans
+John_Buscema | nationality | Americans
+John_Buscema | nationality | Americans
+Len_Wein | award | Academy_of_Comic_Book_Arts
+Len_Wein | award | Academy_of_Comic_Book_Arts
+Len_Wein | award | Inkpot_Award
+Len_Wein | award | Inkpot_Award
+Marv_Wolfman | award | Academy_of_Comic_Book_Arts
+Marv_Wolfman | award | Eagle_Award_(comics)
+Marv_Wolfman | award | Eagle_Award_(comics)
+Marv_Wolfman | award | Eagle_Award_(comics)
+Marv_Wolfman | award | Inkpot_Award
+Marv_Wolfman | award | Inkpot_Award
+Paris_Cullins | nationality | United_States
+Paris_Cullins | nationality | United_States
+René_Goscinny | nationality | French_people
+René_Goscinny | nationality | French_people
+Roger_McKenzie_(comics) | nationality | United_States
+Roger_McKenzie_(comics) | nationality | United_States
+Roger_McKenzie_(comic_book_writer) | nationality | United_States
+Roger_McKenzie_(comic_book_writer) | nationality | United_States
+Roy_Thomas | award | Academy_of_Comic_Book_Arts
+Roy_Thomas | award | Academy_of_Comic_Book_Arts
+Roy_Thomas | award | Academy_of_Comic_Book_Arts
+Roy_Thomas | award | Alley_Award
+Roy_Thomas | award | Alley_Award
+Sheldon_Moldoff | award | Inkpot_Award
+Sheldon_Moldoff | award | Inkpot_Award
+Sheldon_Moldoff | awards | Inkpot_Award
+Sheldon_Moldoff | awards | Inkpot_Award
+Sheldon_Moldoff | nationality | Americans
+Sheldon_Moldoff | nationality | Americans
+Arrow_(comics) | alterEgo | "Ralph Payne"@en
+Arrow_(comics) | alterEgo | "Ralph Payne"@en
+The_Arrow_(comicsCharacter) | alternativeName | "Ralph Payne"
+The_Arrow_(comicsCharacter) | alternativeName | "Ralph Payne"
+Arrow_(comics) | alterEgo | "Rick Parker"@en
+Arrow_(comics) | alterEgo | "Rick Parker"@en
+Arrow_(comics) | alterEgo | "Rick Parker"@en
+The_Arrow_(comicsCharacter) | alternativeName | "Rick Parker"
+The_Arrow_(comicsCharacter) | alternativeName | "Rick Parker"
+The_Arrow_(comicsCharacter) | alternativeName | "Rick Parker"
+Arrow_(comics) | creator | Paul_Gustavson
+Arrow_(comics) | creator | Paul_Gustavson
+Arrow_(comics) | creators | Paul_Gustavson
+Arrow_(comics) | creators | Paul_Gustavson
+The_Arrow_(comicsCharacter) | creator | Paul_Gustavson
+The_Arrow_(comicsCharacter) | creator | Paul_Gustavson
+Barny_Cakes | servingSize | "30.0"^^xsd:double
+Barny_Cakes | servingSize | "30.0"^^xsd:double
+Barny_Cakes | servingSize | "30.0"^^xsd:double
+Barny_Cakes | servingSize | 30.0 g
+Barny_Cakes | servingSize | 30.0 g
+Barny_Cakes | servingSize | 30.0 g
+Amatriciana_sauce | variations | "Onion, garlic, black pepper, chili"@en
+Amatriciana_sauce | variations | "Onion, garlic, black pepper, chili"@en
+Amatriciana_sauce | dishVariation | "Onion, garlic, black pepper, chili"
+Amatriciana_sauce | dishVariation | "Onion, garlic, black pepper, chili"
+Amatriciana_sauce | hasVariant | Garlic
+Amatriciana_sauce | hasVariant | Garlic
+Amatriciana_sauce | dishVariation | Garlic
+Amatriciana_sauce | dishVariation | Garlic
+Amatriciana_sauce | hasVariant | Onion
+Amatriciana_sauce | dishVariation | Onion
+Asam_pedas | creatorOfDish | Malay_cuisine
+Asam_pedas | creatorOfDish | Padang_cuisine
+Barny_Cakes | carbohydrate | "18.0"^^xsd:double
+Barny_Cakes | carbohydrate | "18.0"^^xsd:double
+Barny_Cakes | carbohydrate | 18.0 g
+Barny_Cakes | carbohydrate | 18.0 g
+Barny_Cakes | hasVariant | Apple
+Barny_Cakes | dishVariation | Apple
+Barny_Cakes | hasVariant | Chocolate
+Barny_Cakes | hasVariant | Chocolate
+Barny_Cakes | dishVariation | Chocolate
+Barny_Cakes | dishVariation | Chocolate
+Barny_Cakes | hasVariant | Milk
+Barny_Cakes | dishVariation | Milk
+Barny_Cakes | hasVariant | Strawberry
+Barny_Cakes | hasVariant | Strawberry
+Barny_Cakes | dishVariation | Strawberry
+Barny_Cakes | dishVariation | Strawberry
+Barny_Cakes | fat | "4.8"^^<http://dbpedia.org/datatype/gram>
+Barny_Cakes | fat | "4.8"^^<http://dbpedia.org/datatype/gram>
+Barny_Cakes | fat | 4.8 g
+Barny_Cakes | fat | 4.8 g
+Barny_Cakes | protein | "1.8"^^xsd:double
+Barny_Cakes | protein | "1.8"^^xsd:double
+Barny_Cakes | protein | 1.8 g
+Barny_Cakes | protein | 1.8 g
+Barny_Cakes | year | 1999
+Barny_Cakes | year | 1999
+Bhajji | related | Pakora
+Bhajji | related | Pakora
+Bhajji | related | Pakora
+Pakora | hasVariant | Cauliflower
+Pakora | dishVariation | Cauliflower
+Pakora | hasVariant | Paneer
+Pakora | dishVariation | Paneer
+Siomay | hasVariant | Batagor
+Siomay | hasVariant | Batagor
+Siomay | hasVariant | Batagor
+Siomay | variations | Batagor
+Siomay | variations | Batagor
+Siomay | variations | Batagor
+Siomay | dishVariation | Batagor
+Siomay | dishVariation | Batagor
+Siomay | dishVariation | Batagor
+ALV_X-1 | manufacturer | Alliant_Techsystems
+ALV_X-1 | manufacturer | Alliant_Techsystems
+ALV_X-1 | manufacturer | Alliant_Techsystems
+AMC_Matador | manufacturer | American_Motors
+AMC_Matador | manufacturer | American_Motors
+Abarth_1000_GT_Coupé | productionEndYear | "1958"^^xsd:gYear
+Abarth_1000_GT_Coupé | productionEndYear | "1958"^^xsd:gYear
+Abarth_1000_GT_Coupé | productionEndYear | 1958
+Abarth_1000_GT_Coupé | productionEndYear | 1958
+Audi | division | Audi_e-tron
+Audi_A1 | bodyStyle | Hatchback
+Audi_A1 | bodyStyle | Hatchback
+Audi_A1 | class | Supermini
+Audi_A1 | class | Supermini
+Audi_A1 | class | Supermini
+Lancia_Thema | related | Alfa_Romeo_164
+Lancia_Thema | related | Alfa_Romeo_164
+Lancia_Thema | related | Alfa_Romeo_164
+Lancia_Thema | relatedMeanOfTransportation | Alfa_Romeo_164
+Lancia_Thema | relatedMeanOfTransportation | Alfa_Romeo_164
+Lancia_Thema | relatedMeanOfTransportation | Alfa_Romeo_164
+AMC_Matador | designer | Richard_A._Teague
+AMC_Matador | designer | Richard_A._Teague
+AMC_Matador | designer | Richard_A._Teague
+AMC_Matador | designCompany | Richard_A._Teague
+AMC_Matador | designCompany | Richard_A._Teague
+AMC_Matador | designCompany | Richard_A._Teague
+Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en
+Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en
+Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en
+Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"
+Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"
+Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"
+Abarth_1000_GT_Coupé | bodyStyle | Coupé
+Abarth_1000_GT_Coupé | bodyStyle | Coupé
+Abarth_1000_GT_Coupé | bodyStyle | Coupé
+Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1
+Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1
+Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1
+Abarth_1000_GT_Coupé | engine | Straight-four_engine
+Abarth_1000_GT_Coupé | engine | Straight-four_engine
+Abarth_1000_GT_Coupé | engine | Straight-four_engine
+Abarth_1000_GT_Coupé | productionStartYear | "1958"^^xsd:gYear
+Abarth_1000_GT_Coupé | productionStartYear | "1958"^^xsd:gYear
+Abarth_1000_GT_Coupé | productionStartYear | "1958"^^xsd:gYear
+Abarth_1000_GT_Coupé | productionStartYear | 1958
+Abarth_1000_GT_Coupé | productionStartYear | 1958
+Abarth_1000_GT_Coupé | productionStartYear | 1958
+Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double
+Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double
+Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | width | "1.55"^^xsd:double
+Abarth_1000_GT_Coupé | width | "1.55"^^xsd:double
+Abarth_1000_GT_Coupé | width | "1.55"^^xsd:double
+Abarth_1000_GT_Coupé | width | 1.55
+Abarth_1000_GT_Coupé | width | 1.55
+Abarth_1000_GT_Coupé | width | 1.55
+Aleksey_Chirikov_(icebreaker) | shipOperator | Sovcomflot
+Aleksey_Chirikov_(icebreaker) | operator | Sovcomflot
+Alliant_Techsystems | product | AGM-88_HARM
+Alliant_Techsystems | product | AGM-88_HARM
+Alliant_Techsystems | product | XM25_CDTE
+Alliant_Techsystems | product | XM25_CDTE
+American_Motors | fate | Chrysler
+American_Motors | fate | Eagle_(automobile)
+American_Motors | keyPerson | Roy_D._Chapin,_Jr.
+American_Motors | keyPerson | Roy_D._Chapin,_Jr.
+American_Motors | keyPeople | Roy_D._Chapin,_Jr.
+American_Motors | keyPeople | Roy_D._Chapin,_Jr.
+American_Motors | subsidiary | Wheel_Horse
+American_Motors | subsidiary | Wheel_Horse
+American_Motors | successor | Eagle_(automobile)
+American_Motors | successor | Eagle_(automobile)
+American_Motors | successor | Eagle_(automobile)
+American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat
+American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat
+American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat
+American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat
+American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat
+American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat
+American_submarine_NR-1 | length | "45.0"^^xsd:double
+American_submarine_NR-1 | length | "45.0"^^xsd:double
+American_submarine_NR-1 | length | "45.0"^^xsd:double
+American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^<http://dbpedia.org/datatype/millimetre>
+American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^<http://dbpedia.org/datatype/millimetre>
+American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^<http://dbpedia.org/datatype/millimetre>
+American_submarine_NR-1 | length | 45000.0 (millimetres)
+American_submarine_NR-1 | length | 45000.0 (millimetres)
+American_submarine_NR-1 | length | 45000.0 (millimetres)
+American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double
+American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double
+American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double
+American_submarine_NR-1 | shipBeam | 3.8 m
+American_submarine_NR-1 | shipBeam | 3.8 m
+American_submarine_NR-1 | shipBeam | 3.8 m
+American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en
+American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en
+American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en
+American_submarine_NR-1 | shipDraft | 4.6 m
+American_submarine_NR-1 | shipDraft | 4.6 m
+American_submarine_NR-1 | shipDraft | 4.6 m
+American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date
+American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date
+American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date
+American_submarine_NR-1 | shipLaunch | 1969-01-25
+American_submarine_NR-1 | shipLaunch | 1969-01-25
+American_submarine_NR-1 | shipLaunch | 1969-01-25
+American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double
+American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double
+American_submarine_NR-1 | topSpeed | 8.334
+American_submarine_NR-1 | topSpeed | 8.334
+Aston_Martin_DBS | successor | Aston_Martin_V8
+Aston_Martin_DBS | successor | Aston_Martin_V8
+Audi | foundedBy | August_Horch
+Audi | foundedBy | August_Horch
+Audi | foundedBy | August_Horch
+Audi | subsidiary | Ducati
+Audi | subsidiary | Ducati
+Audi | subsid | Ducati
+Audi | subsid | Ducati
+Audi | subsid | Lamborghini
+Audi | subsidiary | Lamborghini
+Audi | subsidiary | Quattro_GmbH
+Audi | subsid | Quattro_GmbH
+Audi_A1 | assembly | "Brussels, Belgium"@en
+Audi_A1 | assembly | "Brussels, Belgium"@en
+Audi_A1 | assembly | "Brussels, Belgium"
+Audi_A1 | assembly | "Brussels, Belgium"
+Audi_A1 | assembly | Audi_Brussels
+Audi_A1 | assembly | Audi_Brussels
+Audi_A1 | engine | Audi_A1__5
+Audi_A1 | engine | Audi_A1__5
+Audi_A1 | engine | 1.2 (litres)
+Audi_A1 | engine | 1.2 (litres)
+Audi_A1 | layout | Front-engine,_front-wheel-drive_layout
+Audi_A1 | layout | Front-engine,_front-wheel-drive_layout
+Audi_A1 | layout | Front-engine,_front-wheel-drive_layout
+Audi_A1 | manufacturer | Audi
+Audi_A1 | manufacturer | Audi
+Audi_A1 | manufacturer | Audi
+Audi_A1 | related | "SEAT Ibiza Mk4"@en
+Audi_A1 | related | "SEAT Ibiza Mk4"@en
+Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza
+Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza
+Audi_A1 | related | "Volkswagen Polo Mk5"@en
+Audi_A1 | related | "Volkswagen Polo Mk5"@en
+Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo
+Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo
+Audi_A1 | transmission | "5-speedmanual"
+Audi_A1 | transmission | "5-speedmanual"
+Audi_A1 | transmission | "5-speed manual"
+Audi_A1 | transmission | "5-speed manual"
+Audi_A1 | transmission | "6-speed manual"
+Audi_A1 | transmission | "6-speed manual"
+Fiat_Croma | related | Alfa_Romeo_164
+Fiat_Croma | relatedMeanOfTransportation | Alfa_Romeo_164
+General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut
+General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut
+General_Dynamics_Electric_Boat | parent | General_Dynamics
+General_Dynamics_Electric_Boat | parent | General_Dynamics
+General_Dynamics_Electric_Boat | parentCompany | General_Dynamics
+General_Dynamics_Electric_Boat | parentCompany | General_Dynamics
+Honda_Accord | related | Acura_TLX
+Honda_Accord | relatedMeanOfTransportation | Acura_TLX
+Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | rockets | Antares_(rocket)
+Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | rockets | Antares_(rocket)
+Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | rockets | Antares_(rocket)
+Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Antares_(rocket)
+Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Antares_(rocket)
+Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Antares_(rocket)
+Plymouth_Plaza | related | 1955_Dodge
+Plymouth_Plaza | related | 1955_Dodge
+Plymouth_Plaza | relatedMeanOfTransportation | 1955_Dodge
+Plymouth_Plaza | relatedMeanOfTransportation | 1955_Dodge
+Richard_A._Teague | employer | Chrysler
+Richard_A._Teague | employer | Chrysler
+Richard_A._Teague | employer | General_Motors
+Richard_A._Teague | employer | General_Motors
+SEAT_Ibiza | related | Audi_A1
+SEAT_Ibiza | related | Audi_A1
+SEAT_Ibiza | related | Audi_A1
+SEAT_Ibiza | relatedMeanOfTransportation | Audi_A1
+SEAT_Ibiza | relatedMeanOfTransportation | Audi_A1
+SEAT_Ibiza | relatedMeanOfTransportation | Audi_A1
+SEAT_Ibiza | related | Volkswagen_Polo_Mk3
+SEAT_Ibiza | relatedMeanOfTransportation | Volkswagen_Polo_Mk3
+Saab_9000 | related | Alfa_Romeo_164
+Saab_9000 | relatedMeanOfTransportation | Alfa_Romeo_164
+Sovcomflot | keyPerson | Sergey_Naryshkin
+Sovcomflot | keyPerson | Sergey_Naryshkin
+Volkswagen_Polo | related | Audi_A1
+Volkswagen_Polo | related | Audi_A1
+Volkswagen_Polo | relatedMeanOfTransportation | Audi_A1
+Volkswagen_Polo | relatedMeanOfTransportation | Audi_A1
+Alfred_Moore_Scales | battle | Overland_Campaign
+Alfred_Moore_Scales | battles | Overland_Campaign
+Alfred_Moore_Scales | battles | Peninsula_Campaign
+Alfred_Moore_Scales | battle | Peninsula_Campaign
+Aaron_S._Daggett | battles | Battle_of_Garnett's_&_Golding's_Farm
+Aaron_S._Daggett | battle | Battle_of_Garnett's_&_Golding's_Farm
+Aaron_S._Daggett | battle | Battle_of_Mine_Run
+Aaron_S._Daggett | battle | Battle_of_Mine_Run
+Aaron_S._Daggett | battle | Battle_of_Mine_Run
+Aaron_S._Daggett | battles | Battle_of_Mine_Run
+Aaron_S._Daggett | battles | Battle_of_Mine_Run
+Aaron_S._Daggett | battles | Battle_of_Mine_Run
+Aaron_S._Daggett | battles | Battle_of_South_Mountain
+Aaron_S._Daggett | battles | Battle_of_South_Mountain
+Aaron_S._Daggett | battle | Battle_of_South_Mountain
+Aaron_S._Daggett | battle | Battle_of_South_Mountain
+Aaron_S._Daggett | battles | Battle_of_White_Oak_Swamp
+Aaron_S._Daggett | battles | Battle_of_White_Oak_Swamp
+Aaron_S._Daggett | battles | Battle_of_White_Oak_Swamp
+Aaron_S._Daggett | battles | Second_Battle_of_Rappahannock_Station
+Aaron_S._Daggett | battles | Second_Battle_of_Rappahannock_Station
+Abdulsalami_Abubakar | country | Nigeria
+Abdulsalami_Abubakar | country | Nigeria
+Abdulsalami_Abubakar | country | Nigeria
+Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date
+Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date
+Abner_W._Sibal | dateOfBirth | "1921-04-11"^^xsd:date
+Abner_W._Sibal | dateOfBirth | "1921-04-11"^^xsd:date
+Abner_W._Sibal | birthDate | 1921-04-11
+Abner_W._Sibal | birthDate | 1921-04-11
+Abner_W._Sibal | birthPlace | Ridgewood,_Queens
+Abner_W._Sibal | birthPlace | Ridgewood,_Queens
+Abner_W._Sibal | deathPlace | Alexandria,_Virginia
+Abner_W._Sibal | deathPlace | Alexandria,_Virginia
+Abner_W._Sibal | deathPlace | Alexandria,_Virginia
+Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"
+Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"
+Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"
+Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"
+Abner_W._Sibal | party | Republican_Party_(United_States)
+Abner_W._Sibal | region | Connecticut's_4th_congressional_district
+Abner_W._Sibal | successor | Donald_J._Irwin
+Abner_W._Sibal | successor | Donald_J._Irwin
+Abner_W._Sibal | successor | Donald_J._Irwin
+Abner_W._Sibal | successor | Marjorie_Farmer
+Abner_W._Sibal | successor | Marjorie_Farmer
+Abraham_A._Ribicoff | president | John_F._Kennedy
+Abraham_A._Ribicoff | president | John_F._Kennedy
+Abraham_A._Ribicoff | inOfficeWhilePresident | John_F._Kennedy
+Abraham_A._Ribicoff | inOfficeWhilePresident | John_F._Kennedy
+Adenan_Satem | governor | Abdul_Taib_Mahmud
+Adenan_Satem | governor | Abdul_Taib_Mahmud
+Adenan_Satem | governor | Abdul_Taib_Mahmud
+Adenan_Satem | inOfficeWhileVicePresident | Abdul_Taib_Mahmud
+Adenan_Satem | inOfficeWhileVicePresident | Abdul_Taib_Mahmud
+Adenan_Satem | inOfficeWhileVicePresident | Abdul_Taib_Mahmud
+Albert_Jennings_Fountain | battle | American_Indian_Wars
+Albert_Jennings_Fountain | battle | American_Indian_Wars
+Albert_Jennings_Fountain | battle | American_Indian_Wars
+Albert_Jennings_Fountain | battles | American_Indian_Wars
+Albert_Jennings_Fountain | battles | American_Indian_Wars
+Albert_Jennings_Fountain | battles | American_Indian_Wars
+Alfons_Gorbach | successor | Josef_Klaus
+Alfons_Gorbach | successor | Josef_Klaus
+Alfons_Gorbach | successor | Josef_Klaus
+Alfred_Moore_Scales | activeYearsStartDate | "1885-01-21"^^xsd:date
+Alfred_Moore_Scales | activeYearsStartDate | 1885-01-21
+Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill
+Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill
+Alfred_Moore_Scales | battles | American_Civil_War
+Alfred_Moore_Scales | battles | American_Civil_War
+Alfred_Moore_Scales | battles | American_Civil_War
+Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina
+Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina
+Alfred_Moore_Scales | office | "Governor of North Carolina"@en
+Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"
+Alfred_Moore_Scales | party | Democratic_Party_(United_States)
+Alfred_Moore_Scales | successor | Daniel_Gould_Fowle
+Alfred_Moore_Scales | successor | Daniel_Gould_Fowle
+Alfred_Moore_Scales | successor | Daniel_Gould_Fowle
+Alfred_Moore_Scales | successor | James_Madison_Leach
+Alfred_Moore_Scales | successor | James_Madison_Leach
+Alfred_Moore_Scales | successor | James_Madison_Leach
+Alfred_Moore_Scales | successor | James_W._Reid_(politician)
+Alfred_Moore_Scales | successor | James_W._Reid_(politician)
+Allan_Shivers | birthPlace | Lufkin,_Texas
+Allan_Shivers | birthPlace | Lufkin,_Texas
+Allan_Shivers | office | "Governor of Texas"@en
+Allan_Shivers | office | "Governor of Texas"@en
+Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"
+Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"
+Allan_Shivers | office | "Lieutenant Governor of Texas"@en
+Allan_Shivers | office (workedAt, workedAs) | "Lieutenant Governor of Texas"
+Allan_Shivers | office | "Member of the Texas State Senate from District 4"@en
+Allan_Shivers | office | "Member of the Texas State Senate from District 4"@en
+Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"
+Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"
+Allan_Shivers | party | Democratic_Party_(United_States)
+Allan_Shivers | party | Democratic_Party_(United_States)
+Allan_Shivers | successor | Ben_Ramsey
+Allan_Shivers | successor | Ben_Ramsey
+Allan_Shivers | successor | Price_Daniel
+Allan_Shivers | successor | Price_Daniel
+Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.
+Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.
+Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.
+Daniel_Gould_Fowle | almaMater | Princeton_University
+Daniel_Gould_Fowle | almaMater | Princeton_University
+Daniel_Gould_Fowle | almaMater | Princeton_University
+Emile_Roemer | party | Socialist_Party_(Netherlands)
+John_F._Kennedy | predecessor | Dwight_D._Eisenhower
+John_F._Kennedy | predecessor | Dwight_D._Eisenhower
+John_F._Kennedy | predecessor | Dwight_D._Eisenhower
+Josef_Klaus | almaMater | University_of_Vienna
+Josef_Klaus | almaMater | University_of_Vienna
+Josef_Klaus | almaMater | University_of_Vienna
+Nigeria | leader | Yemi_Osinbajo
+Nigeria | leader | Yemi_Osinbajo
+Nigeria | leaderName | Yemi_Osinbajo
+Nigeria | leaderName | Yemi_Osinbajo
+Olusegun_Obasanjo | predecessor | Abdulsalami_Abubakar
+United_States_Army | battle | Operation_Enduring_Freedom
+United_States_Army | battle | Operation_Enduring_Freedom
+United_States_Army | battle | Operation_Enduring_Freedom
+United_States_Army | battles | Operation_Enduring_Freedom
+United_States_Army | battles | Operation_Enduring_Freedom
+United_States_Army | battles | Operation_Enduring_Freedom
+A.C._Chievo_Verona | manager | Rolando_Maran
+A.C._Chievo_Verona | manager | Rolando_Maran
+A.C._Chievo_Verona | manager | Rolando_Maran
+AZAL_Arena | location | Baku
+AZAL_Arena | location | Baku
+AZAL_PFK | league | Azerbaijan_Premier_League
+AZAL_PFK | league | Azerbaijan_Premier_League
+AZAL_PFK | league | Azerbaijan_Premier_League
+Amsterdam | leaderName | Eberhard_van_der_Laan
+Amsterdam | leaderName | Eberhard_van_der_Laan
+Amsterdam | leader | Eberhard_van_der_Laan
+Amsterdam | leader | Eberhard_van_der_Laan
+Frank_de_Boer | clubs | FC_Barcelona
+Frank_de_Boer | clubs | FC_Barcelona
+Frank_de_Boer | team | FC_Barcelona
+Frank_de_Boer | team | FC_Barcelona
+Frank_de_Boer | club | FC_Barcelona
+Frank_de_Boer | club | FC_Barcelona
+Peter_Stöger | team | 1._FC_Köln
+Peter_Stöger | team | 1._FC_Köln
+Peter_Stöger | team | 1._FC_Köln
+Peter_Stöger | managerClub | 1._FC_Köln
+Peter_Stöger | managerClub | 1._FC_Köln
+Peter_Stöger | managerClub | 1._FC_Köln
+Peter_Stöger | club | 1._FC_Köln
+Peter_Stöger | club | 1._FC_Köln
+Peter_Stöger | club | 1._FC_Köln
+Rolando_Maran | managerClub | F.C._Bari_1908
+Rolando_Maran | managerClub | F.C._Bari_1908
+Rolando_Maran | club | F.C._Bari_1908
+Rolando_Maran | club | F.C._Bari_1908
+Sportpark_De_Toekomst | tenants | Jong_Ajax
+Sportpark_De_Toekomst | tenants | Jong_Ajax
+Sportpark_De_Toekomst | tenants | Jong_Ajax
+Sportpark_De_Toekomst | tenant | Jong_Ajax
+Sportpark_De_Toekomst | tenant | Jong_Ajax
+Sportpark_De_Toekomst | tenant | Jong_Ajax
+1._FC_Magdeburg | league | 3._Liga
+1._FC_Magdeburg | capacity | 27250
+1._FC_Magdeburg | numberOfMembers | 27250
+1._FC_Magdeburg | season | 2014
+1._FC_Magdeburg | season | 2014–15_Regionalliga
+1._FC_Magdeburg | season | 2014–15_Regionalliga
+1._FC_Magdeburg | season | 2014–15_Regionalliga
+A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"@en
+A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"@en
+A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"@en
+A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"
+A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"
+A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"
+A.C._Lumezzane | league | "Lega Pro/A"@en
+A.C._Lumezzane | league | "Lega Pro/A"@en
+A.C._Lumezzane | league | "Lega Pro/A"@en
+A.C._Lumezzane | league | "Lega Pro/A"
+A.C._Lumezzane | league | "Lega Pro/A"
+A.C._Lumezzane | league | "Lega Pro/A"
+A.C._Lumezzane | league | Lega_Pro
+A.C._Lumezzane | league | Lega_Pro
+A.C._Lumezzane | capacity | 4150
+A.C._Lumezzane | capacity | 4150
+A.C._Lumezzane | numberOfMembers | 4150
+A.C._Lumezzane | numberOfMembers | 4150
+A.C._Lumezzane | season | 2014
+A.C._Lumezzane | season | 2014
+A.C._Lumezzane | season | 2014–15_Lega_Pro
+A.C._Lumezzane | season | 2014–15_Lega_Pro
+A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis
+A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis
+A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis
+A.E_Dimitra_Efxeinoupolis | fullname | "A.E Dimitra Efxeinoupolis"@en
+A.E_Dimitra_Efxeinoupolis | fullname | "A.E Dimitra Efxeinoupolis"@en
+A.E_Dimitra_Efxeinoupolis | fullname | "A.E Dimitra Efxeinoupolis"@en
+A.E_Dimitra_Efxeinoupolis | fullname | "A.E Dimitra Efxeinoupolis"
+A.E_Dimitra_Efxeinoupolis | fullname | "A.E Dimitra Efxeinoupolis"
+A.E_Dimitra_Efxeinoupolis | fullname | "A.E Dimitra Efxeinoupolis"
+A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli
+A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP
+A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP
+A.E_Dimitra_Efxeinoupolis | capacity | "1500"^^xsd:nonNegativeInteger
+A.E_Dimitra_Efxeinoupolis | capacity | "1500"^^xsd:nonNegativeInteger
+A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500
+A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500
+A.E_Dimitra_Efxeinoupolis | season | 2014
+A.E_Dimitra_Efxeinoupolis | season | 2014
+A.E_Dimitra_Efxeinoupolis | season | 2014
+A.E_Dimitra_Efxeinoupolis | season | 2014–15_A_EPSTH,_Greece
+A.E_Dimitra_Efxeinoupolis | season | 2014–15_A_EPSTH,_Greece
+A.F.C._Fylde | fullname | "Association Football Club Fylde"@en
+A.F.C._Fylde | fullname | "Association Football Club Fylde"@en
+A.F.C._Fylde | fullname | "Association Football Club Fylde"
+A.F.C._Fylde | fullname | "Association Football Club Fylde"
+A.F.C._Fylde | ground | "Bryning Lane"@en
+A.F.C._Fylde | ground | "Bryning Lane"
+A.F.C._Fylde | ground | "Kellamergh Park"@en
+A.F.C._Fylde | ground | "Kellamergh Park"
+A.F.C._Fylde | ground | "Warton, Fylde, Lancashire"@en
+A.F.C._Fylde | ground | "Warton, Fylde, Lancashire"@en
+A.F.C._Fylde | ground | "Warton, Fylde, Lancashire"
+A.F.C._Fylde | ground | "Warton, Fylde, Lancashire"
+A.F.C._Fylde | ground | Lancashire
+A.F.C._Fylde | ground | Lancashire
+A.F.C._Fylde | ground | The_Fylde
+A.F.C._Fylde | ground | The_Fylde
+A.F.C._Fylde | ground | Warton,_Fylde
+A.F.C._Fylde | ground | Warton,_Fylde
+A.F.C._Fylde | league | National_League_North
+A.F.C._Fylde | league | National_League_North
+A.F.C._Fylde | league | National_League_North
+A.F.C._Fylde | manager | Dave_Challinor
+A.F.C._Fylde | manager | Dave_Challinor
+A.F.C._Fylde | manager | Dave_Challinor
+A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger
+A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger
+A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger
+A.F.C._Fylde | numberOfMembers | 3180
+A.F.C._Fylde | numberOfMembers | 3180
+A.F.C._Fylde | numberOfMembers | 3180
+A.F.C._Fylde | season | 2014
+A.F.C._Fylde | season | 2014
+A.F.C._Fylde | season | 2014–15_Football_Conference
+ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."@en
+ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."@en
+ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."@en
+ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."
+ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."
+ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."
+ACF_Fiorentina | league | Serie_A
+ACF_Fiorentina | manager | Paulo_Sousa
+ACF_Fiorentina | manager | Paulo_Sousa
+ACF_Fiorentina | capacity | 47290
+ACF_Fiorentina | capacity | 47290
+ACF_Fiorentina | numberOfMembers | 47290
+ACF_Fiorentina | numberOfMembers | 47290
+ACF_Fiorentina | season | 2014
+ACF_Fiorentina | season | 2014–15_Serie_A
+ACF_Fiorentina | season | 2014–15_Serie_A
+AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"@en
+AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"@en
+AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"
+AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"
+AFC_Ajax | manager | Frank_de_Boer
+AFC_Ajax | manager | Frank_de_Boer
+AFC_Ajax | manager | Frank_de_Boer
+AFC_Ajax | capacity | "53502"^^xsd:nonNegativeInteger
+AFC_Ajax | numberOfMembers | 53502
+AFC_Ajax | owner | AFC_Ajax_N.V.
+AFC_Ajax | owner | AFC_Ajax_N.V.
+AFC_Ajax | owner | AFC_Ajax_N.V.
+AFC_Ajax | season | 2014
+AFC_Ajax | season | 2014
+AFC_Ajax | season | 2014–15_Eredivisie
+AFC_Ajax | season | 2014–15_Eredivisie
+AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"@en
+AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"@en
+AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"@en
+AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"
+AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"
+AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"
+AFC_Ajax_(amateurs) | ground | Amsterdam
+AFC_Ajax_(amateurs) | ground | Amsterdam
+AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst
+AFC_Ajax_(amateurs) | league | Hoofdklasse
+AFC_Ajax_(amateurs) | nickname | "Joden , Godenzonen"@en
+AFC_Ajax_(amateurs) | nickname | "Joden , Godenzonen"@en
+AFC_Ajax_(amateurs) | nickname | "Joden , Godenzonen"@en
+AFC_Ajax_(amateurs) | nickname | "Joden , Godenzonen"
+AFC_Ajax_(amateurs) | nickname | "Joden , Godenzonen"
+AFC_Ajax_(amateurs) | nickname | "Joden , Godenzonen"
+AFC_Ajax_(amateurs) | nickname | "Lucky Ajax"@en
+AFC_Ajax_(amateurs) | nickname | "Lucky Ajax"@en
+AFC_Ajax_(amateurs) | nickname | "Lucky Ajax"@en
+AFC_Ajax_(amateurs) | nickname | "Lucky Ajax"
+AFC_Ajax_(amateurs) | nickname | "Lucky Ajax"
+AFC_Ajax_(amateurs) | nickname | "Lucky Ajax"
+AFC_Ajax_(amateurs) | capacity | "5000"^^xsd:nonNegativeInteger
+AFC_Ajax_(amateurs) | capacity | "5000"^^xsd:nonNegativeInteger
+AFC_Ajax_(amateurs) | numberOfMembers | 5000
+AFC_Ajax_(amateurs) | numberOfMembers | 5000
+AFC_Ajax_(amateurs) | season | 2014
+AFC_Ajax_(amateurs) | season | 2014
+AFC_Ajax_(amateurs) | season | 2014–15_Topklasse
+AFC_Ajax_(amateurs) | season | 2014–15_Topklasse
+AZAL_Arena | location | Azerbaijan
+AZAL_Arena | location | Azerbaijan
+AZAL_Arena | location | Azerbaijan
+AZAL_Arena | location | Shuvalan
+AZAL_Arena | location | Shuvalan
+AZAL_Arena | location | Shuvalan
+AZAL_PFK | fullname | "AZAL Pesekar Futbol Klubu"@en
+AZAL_PFK | fullname | "AZAL Pesekar Futbol Klubu"@en
+AZAL_PFK | fullname | "AZAL Pesekar Futbol Klubu"@en
+AZAL_PFK | fullname | "AZAL Pesekar Futbol Klubu"
+AZAL_PFK | fullname | "AZAL Pesekar Futbol Klubu"
+AZAL_PFK | fullname | "AZAL Pesekar Futbol Klubu"
+AZAL_PFK | ground | AZAL_Arena
+AZAL_PFK | ground | AZAL_Arena
+AZAL_PFK | location | "Shuvalan, Baku, Azerbaijan"@en
+AZAL_PFK | location | "Shuvalan, Baku, Azerbaijan"@en
+AZAL_PFK | location | "Shuvalan, Baku, Azerbaijan"
+AZAL_PFK | location | "Shuvalan, Baku, Azerbaijan"
+AZAL_PFK | capacity | "3500"^^xsd:nonNegativeInteger
+AZAL_PFK | capacity | "3500"^^xsd:nonNegativeInteger
+AZAL_PFK | numberOfMembers | 3500
+AZAL_PFK | numberOfMembers | 3500
+AZAL_PFK | season | 2014
+AZAL_PFK | season | 2014
+AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League
+AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League
+Amsterdam | part | Amsterdam-Centrum
+Amsterdam | p | Amsterdam-Centrum
+Amsterdam | part | Amsterdam-Noord
+Amsterdam | part | Amsterdam-Noord
+Amsterdam | p | Amsterdam-Noord
+Amsterdam | p | Amsterdam-Noord
+Azerbaijan_Premier_League | champions | Qarabag_FK
+Azerbaijan_Premier_League | champions | Qarabag_FK
+Azerbaijan_Premier_League | champions | Qarabag_FK
+Christian_Panucci | team | A.S._Livorno_Calcio
+Christian_Panucci | team | A.S._Livorno_Calcio
+Christian_Panucci | managerClub | A.S._Livorno_Calcio
+Christian_Panucci | managerClub | A.S._Livorno_Calcio
+Christian_Panucci | club | A.S._Livorno_Calcio
+Christian_Panucci | club | A.S._Livorno_Calcio
+Dave_Challinor | managerClub | A.F.C._Fylde
+Dave_Challinor | managerClub | A.F.C._Fylde
+Dave_Challinor | managerClub | A.F.C._Fylde
+Dave_Challinor | club | A.F.C._Fylde
+Dave_Challinor | club | A.F.C._Fylde
+Dave_Challinor | club | A.F.C._Fylde
+Dave_Challinor | clubs | Bury_F.C.
+Dave_Challinor | clubs | Bury_F.C.
+Dave_Challinor | team | Bury_F.C.
+Dave_Challinor | team | Bury_F.C.
+Dave_Challinor | club | Bury_F.C.
+Dave_Challinor | club | Bury_F.C.
+Dave_Challinor | clubs | Colwyn_Bay_F.C.
+Dave_Challinor | clubs | Colwyn_Bay_F.C.
+Dave_Challinor | clubs | Colwyn_Bay_F.C.
+Dave_Challinor | managerClub | Colwyn_Bay_F.C.
+Dave_Challinor | managerClub | Colwyn_Bay_F.C.
+Dave_Challinor | managerClub | Colwyn_Bay_F.C.
+Dave_Challinor | team | Colwyn_Bay_F.C.
+Dave_Challinor | team | Colwyn_Bay_F.C.
+Dave_Challinor | team | Colwyn_Bay_F.C.
+Dave_Challinor | club | Colwyn_Bay_F.C.
+Dave_Challinor | club | Colwyn_Bay_F.C.
+Dave_Challinor | club | Colwyn_Bay_F.C.
+Dave_Challinor | team | Stockport_County_F.C.
+Dave_Challinor | team | Stockport_County_F.C.
+Dave_Challinor | clubs | Stockport_County_F.C.
+Dave_Challinor | clubs | Stockport_County_F.C.
+Dave_Challinor | club | Stockport_County_F.C.
+Dave_Challinor | club | Stockport_County_F.C.
+Dave_Challinor | team | Tranmere_Rovers_F.C.
+Dave_Challinor | team | Tranmere_Rovers_F.C.
+Dave_Challinor | clubs | Tranmere_Rovers_F.C.
+Dave_Challinor | clubs | Tranmere_Rovers_F.C.
+Dave_Challinor | club | Tranmere_Rovers_F.C.
+Dave_Challinor | club | Tranmere_Rovers_F.C.
+Frank_de_Boer | managerClub | AFC_Ajax
+Frank_de_Boer | managerClub | AFC_Ajax
+Frank_de_Boer | team | AFC_Ajax
+Frank_de_Boer | team | AFC_Ajax
+Frank_de_Boer | clubs | AFC_Ajax
+Frank_de_Boer | clubs | AFC_Ajax
+Frank_de_Boer | club | AFC_Ajax
+Frank_de_Boer | club | AFC_Ajax
+Frank_de_Boer | team | Ajax_Youth_Academy
+Frank_de_Boer | team | Ajax_Youth_Academy
+Frank_de_Boer | club | Ajax_Youth_Academy
+Frank_de_Boer | club | Ajax_Youth_Academy
+Frank_de_Boer | team | Al-Shamal_Sports_Club
+Frank_de_Boer | team | Al-Shamal_Sports_Club
+Frank_de_Boer | clubs | Al-Shamal_Sports_Club
+Frank_de_Boer | clubs | Al-Shamal_Sports_Club
+Frank_de_Boer | club | Al-Shamal_Sports_Club
+Frank_de_Boer | club | Al-Shamal_Sports_Club
+Frank_de_Boer | managerClub | Netherlands_national_football_team
+Frank_de_Boer | team | Netherlands_national_football_team
+Frank_de_Boer | club | Netherlands_national_football_team
+Gus_Poyet | team | AEK_Athens_F.C.
+Gus_Poyet | team | AEK_Athens_F.C.
+Gus_Poyet | club | AEK_Athens_F.C.
+Gus_Poyet | club | AEK_Athens_F.C.
+Jens_Härtel | managerClub | 1._FC_Magdeburg
+Jens_Härtel | managerClub | 1._FC_Magdeburg
+Jens_Härtel | managerClub | 1._FC_Magdeburg
+Jens_Härtel | team | 1._FC_Magdeburg
+Jens_Härtel | team | 1._FC_Magdeburg
+Jens_Härtel | team | 1._FC_Magdeburg
+Jens_Härtel | club | 1._FC_Magdeburg
+Jens_Härtel | club | 1._FC_Magdeburg
+Jens_Härtel | club | 1._FC_Magdeburg
+John_van_den_Brom | team | AZ_Alkmaar
+John_van_den_Brom | team | AZ_Alkmaar
+John_van_den_Brom | managerClub | AZ_Alkmaar
+John_van_den_Brom | managerClub | AZ_Alkmaar
+John_van_den_Brom | club | AZ_Alkmaar
+John_van_den_Brom | club | AZ_Alkmaar
+Jorge_Humberto_Rodríguez | team | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | team | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | team | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | managerClub | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | managerClub | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | managerClub | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | clubs | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | clubs | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | clubs | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | club | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | club | A.D._Isidro_Metapán
+Jorge_Humberto_Rodríguez | club | A.D._Isidro_Metapán
+Luciano_Spalletti | managerclubs | A.S._Roma
+Luciano_Spalletti | managerclubs | A.S._Roma
+Luciano_Spalletti | managerclubs | A.S._Roma
+Luciano_Spalletti | managerClub | A.S._Roma
+Luciano_Spalletti | managerClub | A.S._Roma
+Luciano_Spalletti | managerClub | A.S._Roma
+Luciano_Spalletti | team | A.S._Roma
+Luciano_Spalletti | team | A.S._Roma
+Luciano_Spalletti | team | A.S._Roma
+Luciano_Spalletti | club | A.S._Roma
+Luciano_Spalletti | club | A.S._Roma
+Luciano_Spalletti | club | A.S._Roma
+Massimo_Drago | team | A.C._Cesena
+Massimo_Drago | team | A.C._Cesena
+Massimo_Drago | club | A.C._Cesena
+Massimo_Drago | club | A.C._Cesena
+Max_Huiberts | team | AZ_Alkmaar
+Max_Huiberts | team | AZ_Alkmaar
+Max_Huiberts | team | AZ_Alkmaar
+Max_Huiberts | club | AZ_Alkmaar
+Max_Huiberts | club | AZ_Alkmaar
+Max_Huiberts | club | AZ_Alkmaar
+Michele_Marcolini | managerClub | A.C._Lumezzane
+Michele_Marcolini | managerClub | A.C._Lumezzane
+Michele_Marcolini | clubs | A.C._Lumezzane
+Michele_Marcolini | clubs | A.C._Lumezzane
+Michele_Marcolini | team | A.C._Lumezzane
+Michele_Marcolini | team | A.C._Lumezzane
+Michele_Marcolini | club | A.C._Lumezzane
+Michele_Marcolini | club | A.C._Lumezzane
+National_League_North | champions | Barrow_A.F.C.
+National_League_North | champions | Barrow_A.F.C.
+National_League_North | champions | Barrow_A.F.C.
+Paulo_Sousa | managerClub | ACF_Fiorentina
+Paulo_Sousa | team | ACF_Fiorentina
+Paulo_Sousa | club | ACF_Fiorentina
+Paulo_Sousa | clubs | Inter_Milan
+Paulo_Sousa | clubs | Inter_Milan
+Paulo_Sousa | clubs | Inter_Milan
+Paulo_Sousa | team | Inter_Milan
+Paulo_Sousa | team | Inter_Milan
+Paulo_Sousa | team | Inter_Milan
+Paulo_Sousa | club | Inter_Milan
+Paulo_Sousa | club | Inter_Milan
+Paulo_Sousa | club | Inter_Milan
+Paulo_Sousa | team | Juventus_F.C.
+Paulo_Sousa | team | Juventus_F.C.
+Paulo_Sousa | team | Juventus_F.C.
+Paulo_Sousa | clubs | Juventus_F.C.
+Paulo_Sousa | clubs | Juventus_F.C.
+Paulo_Sousa | clubs | Juventus_F.C.
+Paulo_Sousa | club | Juventus_F.C.
+Paulo_Sousa | club | Juventus_F.C.
+Paulo_Sousa | club | Juventus_F.C.
+Paulo_Sousa | managerClub | Maccabi_Tel_Aviv_F.C.
+Paulo_Sousa | managerClub | Maccabi_Tel_Aviv_F.C.
+Paulo_Sousa | club | Maccabi_Tel_Aviv_F.C.
+Paulo_Sousa | club | Maccabi_Tel_Aviv_F.C.
+Paulo_Sousa | team | Portugal_national_football_team
+Paulo_Sousa | team | Portugal_national_football_team
+Paulo_Sousa | club | Portugal_national_football_team
+Paulo_Sousa | club | Portugal_national_football_team
+Rolando_Maran | team | A.C._Chievo_Verona
+Rolando_Maran | clubs | A.C._Chievo_Verona
+Rolando_Maran | managerClub | A.C._Chievo_Verona
+Rolando_Maran | club | A.C._Chievo_Verona
+Rolando_Maran | managerClub | Calcio_Catania
+Rolando_Maran | managerClub | Calcio_Catania
+Rolando_Maran | club | Calcio_Catania
+Rolando_Maran | club | Calcio_Catania
+Rolando_Maran | team | Carrarese_Calcio
+Rolando_Maran | team | Carrarese_Calcio
+Rolando_Maran | team | Carrarese_Calcio
+Rolando_Maran | clubs | Carrarese_Calcio
+Rolando_Maran | clubs | Carrarese_Calcio
+Rolando_Maran | clubs | Carrarese_Calcio
+Rolando_Maran | club | Carrarese_Calcio
+Rolando_Maran | club | Carrarese_Calcio
+Rolando_Maran | club | Carrarese_Calcio
+Rolando_Maran | managerClub | Unione_Triestina_2012_S.S.D.
+Rolando_Maran | managerClub | Unione_Triestina_2012_S.S.D.
+Rolando_Maran | club | Unione_Triestina_2012_S.S.D.
+Rolando_Maran | club | Unione_Triestina_2012_S.S.D.
+Rolando_Maran | managerClub | Varese_Calcio_S.S.D.
+Rolando_Maran | managerClub | Varese_Calcio_S.S.D.
+Rolando_Maran | managerClub | Varese_Calcio_S.S.D.
+Rolando_Maran | club | Varese_Calcio_S.S.D.
+Rolando_Maran | club | Varese_Calcio_S.S.D.
+Rolando_Maran | club | Varese_Calcio_S.S.D.
+Rolando_Maran | managerClub | Vicenza_Calcio
+Rolando_Maran | managerClub | Vicenza_Calcio
+Rolando_Maran | managerClub | Vicenza_Calcio
+Rolando_Maran | club | Vicenza_Calcio
+Rolando_Maran | club | Vicenza_Calcio
+Rolando_Maran | club | Vicenza_Calcio
+Rolando_Maran | placeOfBirth | Italy
+Serie_A | country | Italy
+Sportpark_De_Toekomst | operator | AFC_Ajax
+Sportpark_De_Toekomst | operator | AFC_Ajax
+Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.
+Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.
+Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy
+Stuart_Parker_(footballer) | team | A.F.C._Blackpool
+Stuart_Parker_(footballer) | team | A.F.C._Blackpool
+Stuart_Parker_(footballer) | managerClub | A.F.C._Blackpool
+Stuart_Parker_(footballer) | managerClub | A.F.C._Blackpool
+Stuart_Parker_(footballer) | club | A.F.C._Blackpool
+Stuart_Parker_(footballer) | club | A.F.C._Blackpool
+Acharya_Institute_of_Technology | nickname | "AIT"@en
+Acharya_Institute_of_Technology | nickname | "AIT"@en
+Acharya_Institute_of_Technology | nickname | "AIT"@en
+Acharya_Institute_of_Technology | nickname | "AIT"
+Acharya_Institute_of_Technology | nickname | "AIT"
+Acharya_Institute_of_Technology | nickname | "AIT"
+A_Glastonbury_Romance | oclc | "76798317"
+A_Glastonbury_Romance | oclc | "76798317"
+A_Glastonbury_Romance | oclc | "76798317"
+A_Glastonbury_Romance | OCLC_number | 76798317
+A_Glastonbury_Romance | OCLC_number | 76798317
+A_Glastonbury_Romance | OCLC_number | 76798317
+A_Glastonbury_Romance | mediaType | Hardcover
+A_Glastonbury_Romance | mediaType | Hardcover
+A_Wizard_of_Mars | author | Diane_Duane
+A_Wizard_of_Mars | author | Diane_Duane
+A_Wizard_of_Mars | author | Diane_Duane
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "0025-5858"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "0025-5858"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "0025-5858"
+Above_the_Veil | author | Garth_Nix
+Above_the_Veil | author | Garth_Nix
+Above_the_Veil | mediaType | "Print"@en
+Above_the_Veil | mediaType | "Print"
+Addiction_(journal) | lccn | "93645978"
+Addiction_(journal) | lccn | "93645978"
+Addiction_(journal) | lccn | "93645978"
+Addiction_(journal) | LCCN_number | 93645978
+Addiction_(journal) | LCCN_number | 93645978
+Addiction_(journal) | LCCN_number | 93645978
+Addiction_(journal) | discipline | Addiction
+Addiction_(journal) | discipline | Addiction
+Addiction_(journal) | academicDiscipline | Addiction
+Addiction_(journal) | academicDiscipline | Addiction
+Castle_(novel) | language | English_language
+Castle_(novel) | language | English_language
+Castle_(novel) | language | English_language
+Farrar,_Straus_and_Giroux | parent | Macmillan_Publishers
+Farrar,_Straus_and_Giroux | parent | Macmillan_Publishers
+Farrar,_Straus_and_Giroux | parent | Macmillan_Publishers
+Farrar,_Straus_and_Giroux | parentCompany | Macmillan_Publishers
+Farrar,_Straus_and_Giroux | parentCompany | Macmillan_Publishers
+Farrar,_Straus_and_Giroux | parentCompany | Macmillan_Publishers
+John_Cowper_Powys | notableWork | A_Glastonbury_Romance
+John_Cowper_Powys | notableWork | A_Glastonbury_Romance
+Weymouth_Sands | previousWork | A_Glastonbury_Romance
+Weymouth_Sands | previousWork | A_Glastonbury_Romance
+Weymouth_Sands | previousWork | A_Glastonbury_Romance
+Weymouth_Sands | precededBy | A_Glastonbury_Romance
+Weymouth_Sands | precededBy | A_Glastonbury_Romance
+Weymouth_Sands | precededBy | A_Glastonbury_Romance
+1634:_The_Galileo_Affair | subsequentWork | 1634:_The_Ram_Rebellion
+1634:_The_Galileo_Affair | subsequentWork | 1634:_The_Ram_Rebellion
+1634:_The_Galileo_Affair | followedBy | 1634:_The_Ram_Rebellion
+1634:_The_Galileo_Affair | followedBy | 1634:_The_Ram_Rebellion
+ACM_Transactions_on_Information_Systems | coden | "ATISET"@en
+ACM_Transactions_on_Information_Systems | coden | "ATISET"@en
+ACM_Transactions_on_Information_Systems | coden | "ATISET"@en
+ACM_Transactions_on_Information_Systems | CODEN_code | "ATISET"
+ACM_Transactions_on_Information_Systems | CODEN_code | "ATISET"
+ACM_Transactions_on_Information_Systems | CODEN_code | "ATISET"
+ACM_Transactions_on_Information_Systems | issn | "1046-8188"
+ACM_Transactions_on_Information_Systems | ISSN_number | "1046-8188"
+ACM_Transactions_on_Information_Systems | issn | "1558-2868"
+ACM_Transactions_on_Information_Systems | issn | "1558-2868"
+ACM_Transactions_on_Information_Systems | issn | "1558-2868"
+ACM_Transactions_on_Information_Systems | ISSN_number | "1558-2868"
+ACM_Transactions_on_Information_Systems | ISSN_number | "1558-2868"
+ACM_Transactions_on_Information_Systems | ISSN_number | "1558-2868"
+ACM_Transactions_on_Information_Systems | lccn | "89646863"
+ACM_Transactions_on_Information_Systems | LCCN_number | 89646863
+ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en
+ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en
+ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en
+ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."
+ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."
+ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."
+ACM_Transactions_on_Information_Systems | discipline | Computer_science
+ACM_Transactions_on_Information_Systems | academicDiscipline | Computer_science
+ACM_Transactions_on_Information_Systems | publisher | Association_for_Computing_Machinery
+ACM_Transactions_on_Information_Systems | publisher | Association_for_Computing_Machinery
+ACM_Transactions_on_Information_Systems | publisher | Association_for_Computing_Machinery
+AIDS_(journal) | issn | "0269-9370"
+AIDS_(journal) | issn | "0269-9370"
+AIDS_(journal) | issn | "0269-9370"
+AIDS_(journal) | ISSN_number | "0269-9370"
+AIDS_(journal) | ISSN_number | "0269-9370"
+AIDS_(journal) | ISSN_number | "0269-9370"
+AIDS_(journal) | issn | "1473-5571"
+AIDS_(journal) | issn | "1473-5571"
+AIDS_(journal) | issn | "1473-5571"
+AIDS_(journal) | ISSN_number | "1473-5571"
+AIDS_(journal) | ISSN_number | "1473-5571"
+AIDS_(journal) | ISSN_number | "1473-5571"
+AIDS_(journal) | lccn | "90640840"
+AIDS_(journal) | lccn | "90640840"
+AIDS_(journal) | lccn | "90640840"
+AIDS_(journal) | LCCN_number | "90640840"
+AIDS_(journal) | LCCN_number | "90640840"
+AIDS_(journal) | LCCN_number | "90640840"
+AIDS_(journal) | academicDiscipline | HIV
+AIDS_(journal) | academicDiscipline | HIV
+AIDS_(journal) | academicDiscipline | HIV
+AIDS_(journal) | discipline | HIV
+AIDS_(journal) | discipline | HIV
+AIDS_(journal) | discipline | HIV
+AIDS_(journal) | academicDiscipline | HIV/AIDS
+AIDS_(journal) | academicDiscipline | HIV/AIDS
+AIDS_(journal) | academicDiscipline | HIV/AIDS
+AIDS_(journal) | discipline | HIV/AIDS
+AIDS_(journal) | discipline | HIV/AIDS
+AIDS_(journal) | discipline | HIV/AIDS
+AIDS_(journal) | firstPublicationYear | "1987"^^xsd:gYear
+AIDS_(journal) | history | 1987
+AIDS_(journal) | firstPublicationYear | 1987
+A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"
+A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"
+A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"
+A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"
+A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"
+A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"
+A_Fortress_of_Grey_Ice | oclc | 51969173
+A_Fortress_of_Grey_Ice | OCLC_number | 51969173
+A_Fortress_of_Grey_Ice | author | J._V._Jones
+A_Fortress_of_Grey_Ice | author | J._V._Jones
+A_Fortress_of_Grey_Ice | author | J._V._Jones
+A_Fortress_of_Grey_Ice | mediaType | "Print"@en
+A_Fortress_of_Grey_Ice | mediaType | "Print"@en
+A_Fortress_of_Grey_Ice | mediaType | "Print"@en
+A_Fortress_of_Grey_Ice | mediaType | "Print"
+A_Fortress_of_Grey_Ice | mediaType | "Print"
+A_Fortress_of_Grey_Ice | mediaType | "Print"
+A_Fortress_of_Grey_Ice | mediaType | Hardcover
+A_Fortress_of_Grey_Ice | mediaType | Hardcover
+A_Fortress_of_Grey_Ice | mediaType | Hardcover
+A_Fortress_of_Grey_Ice | numberOfPages | "672"^^xsd:positiveInteger
+A_Fortress_of_Grey_Ice | numberOfPages | "672"
+A_Fortress_of_Grey_Ice | publisher | Tor_Books
+A_Fortress_of_Grey_Ice | publisher | Tor_Books
+A_Fortress_of_Grey_Ice | publisher | Tor_Books
+A_Glastonbury_Romance | isbn | "0-7156-3648-0"
+A_Glastonbury_Romance | isbn | "0-7156-3648-0"
+A_Glastonbury_Romance | ISBN_number | "0-7156-3648-0"
+A_Glastonbury_Romance | ISBN_number | "0-7156-3648-0"
+A_Glastonbury_Romance | congress | "PR6031.O867"@en
+A_Glastonbury_Romance | congress | "PR6031.O867"@en
+A_Glastonbury_Romance | LibraryofCongressClassification | "PR6031.O867"
+A_Glastonbury_Romance | LibraryofCongressClassification | "PR6031.O867"
+A_Glastonbury_Romance | mediaType | "Print"@en
+A_Glastonbury_Romance | mediaType | "Print"
+A_Glastonbury_Romance | numberOfPages | "1174"^^xsd:positiveInteger
+A_Glastonbury_Romance | numberOfPages | "1174"
+A_Loyal_Character_Dancer | isbn | "1-56947-301-3"
+A_Loyal_Character_Dancer | ISBN_number | "1-56947-301-3"
+A_Loyal_Character_Dancer | oclc | 49805501
+A_Loyal_Character_Dancer | OCLC_number | 49805501
+A_Loyal_Character_Dancer | author | Qiu_Xiaolong
+A_Loyal_Character_Dancer | author | Qiu_Xiaolong
+A_Loyal_Character_Dancer | author | Qiu_Xiaolong
+A_Loyal_Character_Dancer | mediaType | "Print"@en
+A_Loyal_Character_Dancer | mediaType | "Print"
+A_Loyal_Character_Dancer | mediaType | Hardcover
+A_Loyal_Character_Dancer | mediaType | Hardcover
+A_Loyal_Character_Dancer | numberOfPages | "360"^^xsd:positiveInteger
+A_Loyal_Character_Dancer | numberOfPages | "360"^^xsd:positiveInteger
+A_Loyal_Character_Dancer | numberOfPages | "360"
+A_Loyal_Character_Dancer | numberOfPages | "360"
+A_Severed_Wasp | isbn | "0-374-26131-8"
+A_Severed_Wasp | isbn | "0-374-26131-8"
+A_Severed_Wasp | ISBN_number | "0-374-26131-8"
+A_Severed_Wasp | ISBN_number | "0-374-26131-8"
+A_Severed_Wasp | congress | "PS3523.E55 S4 1982"@en
+A_Severed_Wasp | congress | "PS3523.E55 S4 1982"@en
+A_Severed_Wasp | LibraryofCongressClassification | "PS3523.E55 S4 1982"
+A_Severed_Wasp | LibraryofCongressClassification | "PS3523.E55 S4 1982"
+A_Severed_Wasp | oclc | 8805735
+A_Severed_Wasp | oclc | 8805735
+A_Severed_Wasp | OCLC_number | 8805735
+A_Severed_Wasp | OCLC_number | 8805735
+A_Severed_Wasp | author | Madeleine_L'Engle
+A_Severed_Wasp | author | Madeleine_L'Engle
+A_Severed_Wasp | mediaType | "Print"@en
+A_Severed_Wasp | mediaType | "Print"@en
+A_Severed_Wasp | mediaType | "Print"
+A_Severed_Wasp | mediaType | "Print"
+A_Severed_Wasp | mediaType | Hardcover
+A_Severed_Wasp | mediaType | Hardcover
+A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger
+A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger
+A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger
+A_Severed_Wasp | numberOfPages | "388"
+A_Severed_Wasp | numberOfPages | "388"
+A_Severed_Wasp | numberOfPages | "388"
+A_Severed_Wasp | publisher | Farrar,_Straus_and_Giroux
+A_Severed_Wasp | publisher | Farrar,_Straus_and_Giroux
+A_Severed_Wasp | publisher | Farrar,_Straus_and_Giroux
+A_Wizard_of_Mars | isbn | "978-0-15-204770-2"
+A_Wizard_of_Mars | isbn | "978-0-15-204770-2"
+A_Wizard_of_Mars | isbn | "978-0-15-204770-2"
+A_Wizard_of_Mars | ISBN_number | "978-0-15-204770-2"
+A_Wizard_of_Mars | ISBN_number | "978-0-15-204770-2"
+A_Wizard_of_Mars | ISBN_number | "978-0-15-204770-2"
+A_Wizard_of_Mars | oclc | 318875313
+A_Wizard_of_Mars | OCLC_number | 318875313
+A_Wizard_of_Mars | mediaType | "Print"@en
+A_Wizard_of_Mars | mediaType | "Print"@en
+A_Wizard_of_Mars | mediaType | "Print"
+A_Wizard_of_Mars | mediaType | "Print"
+A_Wizard_of_Mars | mediaType | Hardcover
+A_Wizard_of_Mars | mediaType | Hardcover
+A_Wizard_of_Mars | numberOfPages | "560"^^xsd:positiveInteger
+A_Wizard_of_Mars | numberOfPages | "560"^^xsd:positiveInteger
+A_Wizard_of_Mars | numberOfPages | "560"^^xsd:positiveInteger
+A_Wizard_of_Mars | numberOfPages | "560"
+A_Wizard_of_Mars | numberOfPages | "560"
+A_Wizard_of_Mars | numberOfPages | "560"
+A_Wizard_of_Mars | precededBy | Wizards_at_War
+A_Wizard_of_Mars | precededBy | Wizards_at_War
+A_Wizard_of_Mars | precededBy | Wizards_at_War
+A_Wizard_of_Mars | previousWork | Wizards_at_War
+A_Wizard_of_Mars | previousWork | Wizards_at_War
+A_Wizard_of_Mars | previousWork | Wizards_at_War
+A_Wizard_of_Mars | publisher | Harcourt_(publisher)
+A_Wizard_of_Mars | publisher | Harcourt_(publisher)
+A_Wizard_of_Mars | publisher | Harcourt_(publisher)
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | CODEN_code | "AMHAAJ"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | CODEN_code | "AMHAAJ"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | CODEN_code | "AMHAAJ"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "1865-8784"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "1865-8784"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "1865-8784"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "1865-8784"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "1865-8784"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "1865-8784"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | "32024459"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | "32024459"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | "32024459"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | LCCN_number | 32024459
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | LCCN_number | 32024459
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | LCCN_number | 32024459
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | discipline | Pure_mathematics
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | academicDiscipline | Pure_mathematics
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | publisher | Springer_Science+Business_Media
+Above_the_Veil | isbn | "0-439-17685-9"
+Above_the_Veil | isbn | "0-439-17685-9"
+Above_the_Veil | ISBN_number | "0-439-17685-9"
+Above_the_Veil | ISBN_number | "0-439-17685-9"
+Above_the_Veil | oclc | "46451790"
+Above_the_Veil | oclc | "46451790"
+Above_the_Veil | OCLC_number | 46451790
+Above_the_Veil | OCLC_number | 46451790
+Above_the_Veil | mediaType | Hardcover
+Above_the_Veil | numberOfPages | "248"^^xsd:positiveInteger
+Above_the_Veil | numberOfPages | "248"^^xsd:positiveInteger
+Above_the_Veil | numberOfPages | "248"
+Above_the_Veil | numberOfPages | "248"
+Acta_Mathematica_Hungarica | coden | "AMAHE9"
+Acta_Mathematica_Hungarica | coden | "AMAHE9"
+Acta_Mathematica_Hungarica | coden | "AMAHE9"
+Acta_Mathematica_Hungarica | CODEN_code | "AMAHE9"
+Acta_Mathematica_Hungarica | CODEN_code | "AMAHE9"
+Acta_Mathematica_Hungarica | CODEN_code | "AMAHE9"
+Acta_Mathematica_Hungarica | issn | "0236-5294"
+Acta_Mathematica_Hungarica | issn | "0236-5294"
+Acta_Mathematica_Hungarica | issn | "0236-5294"
+Acta_Mathematica_Hungarica | ISSN_number | "0236-5294"
+Acta_Mathematica_Hungarica | ISSN_number | "0236-5294"
+Acta_Mathematica_Hungarica | ISSN_number | "0236-5294"
+Acta_Mathematica_Hungarica | issn | "1588-2632"
+Acta_Mathematica_Hungarica | issn | "1588-2632"
+Acta_Mathematica_Hungarica | issn | "1588-2632"
+Acta_Mathematica_Hungarica | ISSN_number | "1588-2632"
+Acta_Mathematica_Hungarica | ISSN_number | "1588-2632"
+Acta_Mathematica_Hungarica | ISSN_number | "1588-2632"
+Acta_Mathematica_Hungarica | lccn | "83646315"
+Acta_Mathematica_Hungarica | lccn | "83646315"
+Acta_Mathematica_Hungarica | LCCN_number | 83646315
+Acta_Mathematica_Hungarica | LCCN_number | 83646315
+Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en
+Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en
+Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en
+Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."
+Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."
+Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."
+Acta_Mathematica_Hungarica | discipline | Mathematics
+Acta_Mathematica_Hungarica | discipline | Mathematics
+Acta_Mathematica_Hungarica | academicDiscipline | Mathematics
+Acta_Mathematica_Hungarica | academicDiscipline | Mathematics
+Acta_Mathematica_Hungarica | publisher | Springer_Science+Business_Media
+Acta_Mathematica_Hungarica | publisher | Springer_Science+Business_Media
+Acta_Mathematica_Hungarica | publisher | Springer_Science+Business_Media
+Addiction_(journal) | coden | "ADICE5"@en
+Addiction_(journal) | coden | "ADICE5"@en
+Addiction_(journal) | CODEN_code | "ADICE5"
+Addiction_(journal) | CODEN_code | "ADICE5"
+Addiction_(journal) | issn | "0965-2140"
+Addiction_(journal) | issn | "0965-2140"
+Addiction_(journal) | issn | "0965-2140"
+Addiction_(journal) | ISSN_number | "0965-2140"
+Addiction_(journal) | ISSN_number | "0965-2140"
+Addiction_(journal) | ISSN_number | "0965-2140"
+Addiction_(journal) | issn | "1360-0443"
+Addiction_(journal) | issn | "1360-0443"
+Addiction_(journal) | issn | "1360-0443"
+Addiction_(journal) | ISSN_number | "1360-0443"
+Addiction_(journal) | ISSN_number | "1360-0443"
+Addiction_(journal) | ISSN_number | "1360-0443"
+Addiction_(journal) | oclc | "27367194"
+Addiction_(journal) | oclc | "27367194"
+Addiction_(journal) | oclc | "27367194"
+Addiction_(journal) | OCLC_number | 27367194
+Addiction_(journal) | OCLC_number | 27367194
+Addiction_(journal) | OCLC_number | 27367194
+Addiction_(journal) | abbreviation | "Addiction"
+Addiction_(journal) | abbreviation | "Addiction"
+Addiction_(journal) | abbreviation | "Addiction"
+Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"@en
+Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"@en
+Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"@en
+Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"
+Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"
+Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"
+Addiction_(journal) | publisher | Wiley-Blackwell
+Addiction_(journal) | publisher | Wiley-Blackwell
+Addiction_(journal) | publisher | Wiley-Blackwell
+Alcatraz_Versus_the_Evil_Librarians | isbn | "0-439-92550-9"
+Alcatraz_Versus_the_Evil_Librarians | isbn | "0-439-92550-9"
+Alcatraz_Versus_the_Evil_Librarians | ISBN_number | "0-439-92550-9"
+Alcatraz_Versus_the_Evil_Librarians | ISBN_number | "0-439-92550-9"
+Alcatraz_Versus_the_Evil_Librarians | oclc | "78771100"
+Alcatraz_Versus_the_Evil_Librarians | oclc | "78771100"
+Alcatraz_Versus_the_Evil_Librarians | oclc | "78771100"
+Alcatraz_Versus_the_Evil_Librarians | OCLC_number | 78771100
+Alcatraz_Versus_the_Evil_Librarians | OCLC_number | 78771100
+Alcatraz_Versus_the_Evil_Librarians | OCLC_number | 78771100
+Alcatraz_Versus_the_Evil_Librarians | author | Brandon_Sanderson
+Alcatraz_Versus_the_Evil_Librarians | author | Brandon_Sanderson
+Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones
+Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones
+Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones
+Alcatraz_Versus_the_Evil_Librarians | subsequentWork | Alcatraz_Versus_the_Scrivener's_Bones
+Alcatraz_Versus_the_Evil_Librarians | subsequentWork | Alcatraz_Versus_the_Scrivener's_Bones
+Alcatraz_Versus_the_Evil_Librarians | subsequentWork | Alcatraz_Versus_the_Scrivener's_Bones
+Alcatraz_Versus_the_Evil_Librarians | genre | Fantasy_literature
+Alcatraz_Versus_the_Evil_Librarians | genre | Fantasy_literature
+Alcatraz_Versus_the_Evil_Librarians | genre | Fantasy_literature
+Alcatraz_Versus_the_Evil_Librarians | literaryGenre | Fantasy_literature
+Alcatraz_Versus_the_Evil_Librarians | literaryGenre | Fantasy_literature
+Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"@en
+Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"@en
+Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"
+Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"
+Alcatraz_Versus_the_Evil_Librarians | mediaType | Hardcover
+Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"^^xsd:positiveInteger
+Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"^^xsd:positiveInteger
+Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"
+Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"
+Alcatraz_Versus_the_Scrivener's_Bones | author | Brandon_Sanderson
+Alcatraz_Versus_the_Scrivener's_Bones | author | Brandon_Sanderson
+Annie_Dunne | subsequentWork | A_Long_Long_Way
+Annie_Dunne | subsequentWork | A_Long_Long_Way
+Annie_Dunne | followedBy | A_Long_Long_Way
+Annie_Dunne | followedBy | A_Long_Long_Way
+Association_for_Computing_Machinery | headquarter | New_York_City
+Association_for_Computing_Machinery | headquarter | New_York_City
+Association_for_Computing_Machinery | leaderName | Alexander_L._Wolf
+Association_for_Computing_Machinery | leaderName | Alexander_L._Wolf
+Association_for_Computing_Machinery | leaderName | Alexander_L._Wolf
+Brandon_Sanderson | birthPlace | Lincoln,_Nebraska
+Brandon_Sanderson | birthPlace | Lincoln,_Nebraska
+Brandon_Sanderson | birthPlace | Lincoln,_Nebraska
+Castle_(novel) | subsequentWork | Aenir
+Castle_(novel) | subsequentWork | Aenir
+Castle_(novel) | subsequentWork | Aenir
+Castle_(novel) | followedBy | Aenir
+Castle_(novel) | followedBy | Aenir
+Castle_(novel) | followedBy | Aenir
+HIV | family | Orthoretrovirinae
+HIV | family | Orthoretrovirinae
+HIV | family | Orthoretrovirinae
+HIV | family | Retrovirus
+HIV | family | Retrovirus
+HIV | family | Retrovirus
+HIV | genus | Lentivirus
+HIV | genus | Lentivirus
+HIV | genus | Lentivirus
+Into_Battle_(novel) | previousWork | Above_the_Veil
+Into_Battle_(novel) | previousWork | Above_the_Veil
+Into_Battle_(novel) | previousWork | Above_the_Veil
+Into_Battle_(novel) | precededBy | Above_the_Veil
+Into_Battle_(novel) | precededBy | Above_the_Veil
+Into_Battle_(novel) | precededBy | Above_the_Veil
+Madeleine_L'Engle | influencedBy | George_MacDonald
+Madeleine_L'Engle | influencedBy | George_MacDonald
+Ring_of_Fire_II | previousWork | 1634:_The_Bavarian_Crisis
+Ring_of_Fire_II | previousWork | 1634:_The_Bavarian_Crisis
+Ring_of_Fire_II | precededBy | 1634:_The_Bavarian_Crisis
+Ring_of_Fire_II | precededBy | 1634:_The_Bavarian_Crisis
+Springer_Science+Business_Media | founder | Julius_Springer
+Springer_Science+Business_Media | founder | Julius_Springer
+The_Secret_Scripture | previousWork | A_Long_Long_Way
+The_Secret_Scripture | previousWork | A_Long_Long_Way
+The_Secret_Scripture | precededBy | A_Long_Long_Way
+The_Secret_Scripture | precededBy | A_Long_Long_Way
+Tor_Books | parentCompany | Macmillan_Publishers
+Tor_Books | parentCompany | Macmillan_Publishers
+Tor_Books | parentCompany | Macmillan_Publishers
+Tor_Books | parent | Macmillan_Publishers
+Tor_Books | parent | Macmillan_Publishers
+Tor_Books | parent | Macmillan_Publishers
+Wiley-Blackwell | parentCompany | John_Wiley_&_Sons
+Wiley-Blackwell | parentCompany | John_Wiley_&_Sons
+Wiley-Blackwell | parent | John_Wiley_&_Sons
+Wiley-Blackwell | parent | John_Wiley_&_Sons
+Wizards_at_War | publisher | Harcourt_(publisher)
+Wizards_at_War | publisher | Harcourt_(publisher)
+Wolf_Solent | subsequentWork | A_Glastonbury_Romance
+Wolf_Solent | subsequentWork | A_Glastonbury_Romance
+Wolf_Solent | followedBy | A_Glastonbury_Romance
+Wolf_Solent | followedBy | A_Glastonbury_Romance

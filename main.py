@@ -22,24 +22,20 @@ def main():
                 for triple in tripleset:
                     trip_sent[triple.text] = sentences
 
-    for key,value in trip_sent.items():
-        print(key)
+    triples_file = open("triples_train.txt", "w")
+    sentence_file = open("sentences_train.txt", "w")
 
-    # WERKT MAAR ENCODE/DECODE PROBLEMEN
-    # triples_file = open("triples.txt", "w")
-    # sentence_file = open("sentences.txt", "w")
+    for key, value in trip_sent.items():
+        for el in value:
+            triples_file.write(key)
+            triples_file.write("\n")
+            sentence_file.write(el)
+            sentence_file.write("\n")
+
     #
-    # for key, value in trip_sent.items():
-    #     for el in value:
-    #         triples_file.write(key.decode("utf-8", "replace"))
-    #         triples_file.write("\n")
-    #         sentence_file.write(el.decode("utf-8", "replace"))
-    #         sentence_file.write("\n")
-    #
-    # #
-    # print("WRITING TO FILE WORKED")
-    # triples_file.close()
-    # sentence_file.close()
+    print("WRITING TO FILE WORKED")
+    triples_file.close()
+    sentence_file.close()
 
 
 if __name__ == "__main__":

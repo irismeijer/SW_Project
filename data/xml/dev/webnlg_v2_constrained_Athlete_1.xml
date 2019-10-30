@@ -61,7 +61,7 @@
         <otriple>Akeem_Priestley | team | FK_Mughan</otriple>
       </originaltripleset>
       <originaltripleset>
-        <otriple>Akeem_Priestley | clubs | "→ FK Mughan"@en</otriple>
+        <otriple>Akeem_Priestley | clubs | "  FK Mughan"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
         <mtriple>Akeem_Priestley | club | FK_Mughan</mtriple>
@@ -104,19 +104,19 @@
     </entry>
     <entry category="Athlete" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Anadolu_Efes_S.K. | coach | Dušan_Ivković</otriple>
+        <otriple>Anadolu_Efes_S.K. | coach | Dusan_Ivkovic</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Anadolu_Efes_S.K. | coach | Dušan_Ivković</mtriple>
+        <mtriple>Anadolu_Efes_S.K. | coach | Dusan_Ivkovic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dušan Ivković is the coach of Anadolu Efes S.K.</lex>
+      <lex comment="good" lid="Id1">Dusan Ivkovic is the coach of Anadolu Efes S.K.</lex>
     </entry>
     <entry category="Athlete" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Maccabi_Tel_Aviv_B.C. | coach | Žan_Tabak</otriple>
+        <otriple>Maccabi_Tel_Aviv_B.C. | coach | Zan_Tabak</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Maccabi_Tel_Aviv_B.C. | coach | Žan_Tabak</mtriple>
+        <mtriple>Maccabi_Tel_Aviv_B.C. | coach | Zan_Tabak</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Maccabi Tel Aviv B.C.'s coach is Zan Tabak.</lex>
       <lex comment="good" lid="Id2">Zan Tabak is the coach for the Maccabi Tel Aviv B.C. team.</lex>

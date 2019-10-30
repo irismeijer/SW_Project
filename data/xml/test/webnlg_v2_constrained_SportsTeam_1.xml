@@ -621,13 +621,13 @@
     </entry>
     <entry category="SportsTeam" eid="Id121" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>AZAL_PFK | fullname | "AZAL Peşəkar Futbol Klubu"@en</otriple>
+        <otriple>AZAL_PFK | fullname | "AZAL Pesekar Futbol Klubu"@en</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>AZAL_PFK | fullname | "AZAL Peşəkar Futbol Klubu"</mtriple>
+        <mtriple>AZAL_PFK | fullname | "AZAL Pesekar Futbol Klubu"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZAL PFK stands for "AZAL Peşəkar Futbol Klubu".</lex>
-      <lex comment="good" lid="Id2">AZAL PFK's full name is AZAL Peşəkar Futbol Klubu.</lex>
+      <lex comment="good" lid="Id1">AZAL PFK stands for "AZAL Pesekar Futbol Klubu".</lex>
+      <lex comment="good" lid="Id2">AZAL PFK's full name is AZAL Pesekar Futbol Klubu.</lex>
       <lex comment="good" lid="Id3">The fullname of AZAL PFK is AZAL Pesokar Futbol Klubu.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id122" shape="(X (X))" shape_type="NA" size="1">
@@ -707,13 +707,13 @@
     </entry>
     <entry category="SportsTeam" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
-        <otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+        <otriple>Azerbaijan_Premier_League | champions | Qarabag_FK</otriple>
       </originaltripleset>
       <modifiedtripleset>
-        <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+        <mtriple>Azerbaijan_Premier_League | champions | Qarabag_FK</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK.</lex>
-      <lex comment="good" lid="Id2">Qarabağ FK are the champions of the Azerbaijan Premier League.</lex>
+      <lex comment="good" lid="Id2">Qarabag FK are the champions of the Azerbaijan Premier League.</lex>
       <lex comment="good" lid="Id3">The champions of the Azerbaijan Premier League are Qarabag FK.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
