@@ -2,18 +2,18 @@ Abilene_Regional_Airport | cityServed | Abilene,_Texas
 Abilene_Regional_Airport | cityServed | Abilene,_Texas
 Abilene_Regional_Airport | city | Abilene,_Texas
 Abilene_Regional_Airport | city | Abilene,_Texas
-Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"@en
-Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"@en
-Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"@en
-Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"
-Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"
-Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "18L/36R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "18L/36R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "18L/36R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "18L/36R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "18L/36R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "18L/36R"
+Adolfo_Suarez_Madrid Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas"@en
+Adolfo_Suarez_Madrid Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas"@en
+Adolfo_Suarez_Madrid Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas"@en
+Adolfo_Suarez_Madrid Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas"
+Adolfo_Suarez_Madrid Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas"
+Adolfo_Suarez_Madrid Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas"
+Adolfo_Suarez_Madrid Barajas_Airport | runwayDesignation | "18L/36R"
+Adolfo_Suarez_Madrid Barajas_Airport | runwayDesignation | "18L/36R"
+Adolfo_Suarez_Madrid Barajas_Airport | runwayDesignation | "18L/36R"
+Adolfo_Suarez_Madrid Barajas_Airport | runwayName | "18L/36R"
+Adolfo_Suarez_Madrid Barajas_Airport | runwayName | "18L/36R"
+Adolfo_Suarez_Madrid Barajas_Airport | runwayName | "18L/36R"
 Afonso_Pena_International_Airport | icaoLocationIdentifier | "SBCT"
 Afonso_Pena_International_Airport | icaoLocationIdentifier | "SBCT"
 Afonso_Pena_International_Airport | ICAO_Location_Identifier | "SBCT"
@@ -227,58 +227,58 @@ Adirondack_Regional_Airport | runwayLength | "2003.45"^^xsd:double
 Adirondack_Regional_Airport | runwayLength | "2003.45"^^xsd:double
 Adirondack_Regional_Airport | runwayLength | 2003.0
 Adirondack_Regional_Airport | runwayLength | 2003.0
-Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "609.6"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "609.6"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel_(in_metres) | 610.0
-Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel_(in_metres) | 610.0
-Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas
-Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas
-Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas
-Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid
-Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid
-Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid
-Adolfo_Suárez_Madrid–Barajas_Airport | location | Paracuellos_de_Jarama
-Adolfo_Suárez_Madrid–Barajas_Airport | location | Paracuellos_de_Jarama
-Adolfo_Suárez_Madrid–Barajas_Airport | location | Paracuellos_de_Jarama
-Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes
-Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes
-Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes
-Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE
-Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE
-Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE
-Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE
-Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE
-Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3499.71"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3499.71"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "3499.71"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "4100.0"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "4100.0"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "4100.0"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 4100.0
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 4100.0
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 4100.0
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "4349.0"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "4349.0"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | "4349.0"^^xsd:double
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 4349.0
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 4349.0
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 4349.0
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "14L/32R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "14L/32R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "14L/32R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "14R/32L"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "14R/32L"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14R/32L"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14R/32L"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "18R/36L"
-Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "18R/36L"
+Adolfo_Su rez_Madrid Barajas_Airport | elevation | "609.6"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | elevation | "609.6"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | elevationAboveTheSeaLevel_(in_metres) | 610.0
+Adolfo_Su rez_Madrid Barajas_Airport | elevationAboveTheSeaLevel_(in_metres) | 610.0
+Adolfo_Su rez_Madrid Barajas_Airport | location | Alcobendas
+Adolfo_Su rez_Madrid Barajas_Airport | location | Alcobendas
+Adolfo_Su rez_Madrid Barajas_Airport | location | Alcobendas
+Adolfo_Su rez_Madrid Barajas_Airport | location | Madrid
+Adolfo_Su rez_Madrid Barajas_Airport | location | Madrid
+Adolfo_Su rez_Madrid Barajas_Airport | location | Madrid
+Adolfo_Su rez_Madrid Barajas_Airport | location | Paracuellos_de_Jarama
+Adolfo_Su rez_Madrid Barajas_Airport | location | Paracuellos_de_Jarama
+Adolfo_Su rez_Madrid Barajas_Airport | location | Paracuellos_de_Jarama
+Adolfo_Su rez_Madrid Barajas_Airport | location | San_Sebasti n_de_los_Reyes
+Adolfo_Su rez_Madrid Barajas_Airport | location | San_Sebasti n_de_los_Reyes
+Adolfo_Su rez_Madrid Barajas_Airport | location | San_Sebasti n_de_los_Reyes
+Adolfo_Su rez_Madrid Barajas_Airport | operator | ENAIRE
+Adolfo_Su rez_Madrid Barajas_Airport | operator | ENAIRE
+Adolfo_Su rez_Madrid Barajas_Airport | operator | ENAIRE
+Adolfo_Su rez_Madrid Barajas_Airport | operatingOrganisation | ENAIRE
+Adolfo_Su rez_Madrid Barajas_Airport | operatingOrganisation | ENAIRE
+Adolfo_Su rez_Madrid Barajas_Airport | operatingOrganisation | ENAIRE
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | "3499.71"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | "3499.71"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | "3499.71"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | 3500.0
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | 3500.0
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | 3500.0
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | "4100.0"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | "4100.0"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | "4100.0"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | 4100.0
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | 4100.0
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | 4100.0
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | "4349.0"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | "4349.0"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | "4349.0"^^xsd:double
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | 4349.0
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | 4349.0
+Adolfo_Su rez_Madrid Barajas_Airport | runwayLength | 4349.0
+Adolfo_Su rez_Madrid Barajas_Airport | runwayDesignation | "14L/32R"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayDesignation | "14L/32R"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayDesignation | "14L/32R"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayName | "14L/32R"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayName | "14L/32R"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayName | "14L/32R"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayDesignation | "14R/32L"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayDesignation | "14R/32L"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayName | "14R/32L"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayName | "14R/32L"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayDesignation | "18R/36L"
+Adolfo_Su rez_Madrid Barajas_Airport | runwayName | "18R/36L"
 Afonso_Pena_International_Airport | elevationF | 2988
 Afonso_Pena_International_Airport | elevationF | 2988
 Afonso_Pena_International_Airport | elevationAboveTheSeaLevel_(in_feet) | 2988
@@ -289,9 +289,9 @@ Afonso_Pena_International_Airport | elevation | "910.742"^^xsd:double
 Afonso_Pena_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 911.0
 Afonso_Pena_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 911.0
 Afonso_Pena_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 911.0
-Afonso_Pena_International_Airport | location | São_José_dos_Pinhais
-Afonso_Pena_International_Airport | location | São_José_dos_Pinhais
-Afonso_Pena_International_Airport | location | São_José_dos_Pinhais
+Afonso_Pena_International_Airport | location | S o_Jos _dos_Pinhais
+Afonso_Pena_International_Airport | location | S o_Jos _dos_Pinhais
+Afonso_Pena_International_Airport | location | S o_Jos _dos_Pinhais
 Afonso_Pena_International_Airport | operator | Infraero
 Afonso_Pena_International_Airport | operator | Infraero
 Afonso_Pena_International_Airport | operatingOrganisation | Infraero
@@ -839,12 +839,12 @@ Civil_Aviation_Authority_of_New_Zealand | location | Wellington
 Civil_Aviation_Authority_of_New_Zealand | location | Wellington
 Curitiba | country | Brazil
 Curitiba | country | Brazil
-Curitiba | isPartOf | Paraná_(state)
-Curitiba | isPartOf | Paraná_(state)
-Curitiba | isPartOf | Paraná_(state)
-Curitiba | subdivisionName | Paraná_(state)
-Curitiba | subdivisionName | Paraná_(state)
-Curitiba | subdivisionName | Paraná_(state)
+Curitiba | isPartOf | Paran _(state)
+Curitiba | isPartOf | Paran _(state)
+Curitiba | isPartOf | Paran _(state)
+Curitiba | subdivisionName | Paran _(state)
+Curitiba | subdivisionName | Paran _(state)
+Curitiba | subdivisionName | Paran _(state)
 Curitiba | leaderName | Democratic_Labour_Party_(Brazil)
 Denmark | capital | Copenhagen
 Denmark | capital | Copenhagen
@@ -856,18 +856,18 @@ Denmark | language | Faroese_language
 Denmark | language | German_language
 Denmark | language | German_language
 Denmark | language | Greenlandic_language
-Denmark | leader | Lars_Løkke_Rasmussen
-Denmark | leader | Lars_Løkke_Rasmussen
-Denmark | leader | Lars_Løkke_Rasmussen
-Denmark | leader | Lars_Løkke_Rasmussen
-Denmark | leader | Lars_Løkke_Rasmussen
-Denmark | leader | Lars_Løkke_Rasmussen
-Denmark | leaderName | Lars_Løkke_Rasmussen
-Denmark | leaderName | Lars_Løkke_Rasmussen
-Denmark | leaderName | Lars_Løkke_Rasmussen
-Denmark | leaderName | Lars_Løkke_Rasmussen
-Denmark | leaderName | Lars_Løkke_Rasmussen
-Denmark | leaderName | Lars_Løkke_Rasmussen
+Denmark | leader | Lars_L kke_Rasmussen
+Denmark | leader | Lars_L kke_Rasmussen
+Denmark | leader | Lars_L kke_Rasmussen
+Denmark | leader | Lars_L kke_Rasmussen
+Denmark | leader | Lars_L kke_Rasmussen
+Denmark | leader | Lars_L kke_Rasmussen
+Denmark | leaderName | Lars_L kke_Rasmussen
+Denmark | leaderName | Lars_L kke_Rasmussen
+Denmark | leaderName | Lars_L kke_Rasmussen
+Denmark | leaderName | Lars_L kke_Rasmussen
+Denmark | leaderName | Lars_L kke_Rasmussen
+Denmark | leaderName | Lars_L kke_Rasmussen
 Denmark | leaderName | Margrethe_II_of_Denmark
 Denmark | leaderName | Margrethe_II_of_Denmark
 Denmark | leader | Margrethe_II_of_Denmark
@@ -957,8 +957,8 @@ Indian_Air_Force | aircraftTransport | Boeing_C-17_Globemaster_III
 Indian_Air_Force | aircraftTransport | Boeing_C-17_Globemaster_III
 Indian_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III
 Indian_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III
-Infraero | location | Brasília
-Infraero | location | Brasília
+Infraero | location | Bras lia
+Infraero | location | Bras lia
 Infraero | location | Brazil
 Infraero | location | Brazil
 Infraero | location | Brazil
@@ -1042,11 +1042,11 @@ Punjab,_Pakistan | leaderName | Malik_Muhammad_Rafique_Rajwana
 Punjab,_Pakistan | leaderName | Shehbaz_Sharif
 Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab
 Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab
-San_Sebastián_de_los_Reyes | country | Spain
-San_Sebastián_de_los_Reyes | country | Spain
-San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid
-San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid
-San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)
+San_Sebasti n_de_los_Reyes | country | Spain
+San_Sebasti n_de_los_Reyes | country | Spain
+San_Sebasti n_de_los_Reyes | isPartOf | Community_of_Madrid
+San_Sebasti n_de_los_Reyes | isPartOf | Community_of_Madrid
+San_Sebasti n_de_los_Reyes | leaderParty | People's_Party_(Spain)
 Saranac_Lake,_New_York | country | United_States
 Saranac_Lake,_New_York | country | United_States
 Saranac_Lake,_New_York | country | United_States
@@ -1071,16 +1071,16 @@ South_Jersey_Transportation_Authority | leader | Stephen_Dilts
 South_Jersey_Transportation_Authority | leaderName | Stephen_Dilts
 South_Jersey_Transportation_Authority | leaderName | Stephen_Dilts
 South_Jersey_Transportation_Authority | leaderName | Stephen_Dilts
-São_José_dos_Pinhais | isPartOf | Paraná_(state)
-São_José_dos_Pinhais | isPartOf | Paraná_(state)
-São_José_dos_Pinhais | isPartOf | Paraná_(state)
-São_José_dos_Pinhais | subdivisionName | Paraná_(state)
-São_José_dos_Pinhais | subdivisionName | Paraná_(state)
-São_José_dos_Pinhais | subdivisionName | Paraná_(state)
-São_José_dos_Pinhais | isPartOf | South_Region,_Brazil
-São_José_dos_Pinhais | isPartOf | South_Region,_Brazil
-São_José_dos_Pinhais | subdivisionName | South_Region,_Brazil
-São_José_dos_Pinhais | subdivisionName | South_Region,_Brazil
+S o_Jos _dos_Pinhais | isPartOf | Paran _(state)
+S o_Jos _dos_Pinhais | isPartOf | Paran _(state)
+S o_Jos _dos_Pinhais | isPartOf | Paran _(state)
+S o_Jos _dos_Pinhais | subdivisionName | Paran _(state)
+S o_Jos _dos_Pinhais | subdivisionName | Paran _(state)
+S o_Jos _dos_Pinhais | subdivisionName | Paran _(state)
+S o_Jos _dos_Pinhais | isPartOf | South_Region,_Brazil
+S o_Jos _dos_Pinhais | isPartOf | South_Region,_Brazil
+S o_Jos _dos_Pinhais | subdivisionName | South_Region,_Brazil
+S o_Jos _dos_Pinhais | subdivisionName | South_Region,_Brazil
 Texas | capital | Austin,_Texas
 Texas | capital | Austin,_Texas
 Texas | country | United_States
@@ -1185,21 +1185,21 @@ Ace_Wilder | genre | Hip_hop_music
 Ace_Wilder | recordLabel | EMI_Records
 Ace_Wilder | recordLabel | EMI_Records
 Ace_Wilder | recordLabel | EMI_Records
-Agustín_Barboza | birthDate | "1913-05-05"^^xsd:date
-Agustín_Barboza | birthDate | "1913-05-05"^^xsd:date
-Agustín_Barboza | birthDate | "1913-05-05"^^xsd:date
-Agustín_Barboza | dateOfBirth | "1913-05-05"^^xsd:date
-Agustín_Barboza | dateOfBirth | "1913-05-05"^^xsd:date
-Agustín_Barboza | dateOfBirth | "1913-05-05"^^xsd:date
-Agustín_Barboza | birthDate | 1913-05-05
-Agustín_Barboza | birthDate | 1913-05-05
-Agustín_Barboza | birthDate | 1913-05-05
-Agustín_Barboza | label | Philips_Records
-Agustín_Barboza | label | Philips_Records
-Agustín_Barboza | label | Philips_Records
-Agustín_Barboza | recordLabel | Philips_Records
-Agustín_Barboza | recordLabel | Philips_Records
-Agustín_Barboza | recordLabel | Philips_Records
+Agust n_Barboza | birthDate | "1913-05-05"^^xsd:date
+Agust n_Barboza | birthDate | "1913-05-05"^^xsd:date
+Agust n_Barboza | birthDate | "1913-05-05"^^xsd:date
+Agust n_Barboza | dateOfBirth | "1913-05-05"^^xsd:date
+Agust n_Barboza | dateOfBirth | "1913-05-05"^^xsd:date
+Agust n_Barboza | dateOfBirth | "1913-05-05"^^xsd:date
+Agust n_Barboza | birthDate | 1913-05-05
+Agust n_Barboza | birthDate | 1913-05-05
+Agust n_Barboza | birthDate | 1913-05-05
+Agust n_Barboza | label | Philips_Records
+Agust n_Barboza | label | Philips_Records
+Agust n_Barboza | label | Philips_Records
+Agust n_Barboza | recordLabel | Philips_Records
+Agust n_Barboza | recordLabel | Philips_Records
+Agust n_Barboza | recordLabel | Philips_Records
 Ahmet_Ertegun | birthPlace | Istanbul
 Ahmet_Ertegun | birthPlace | Istanbul
 Al_Anderson_(NRBQ) | instrument | Guitar
@@ -1255,12 +1255,12 @@ Alfred_Garth_Jones | deathDate | "c. 1944"
 Alfred_Garth_Jones | deathDate | "c. 1944"
 Alfred_Garth_Jones | placeOfDeath | London
 Alfred_Garth_Jones | deathPlace | London
-Alfredo_Zitarrosa | associatedBand | Hilario_Pérez
-Alfredo_Zitarrosa | associatedBand | Hilario_Pérez
-Alfredo_Zitarrosa | associatedMusicalArtist | Hilario_Pérez
-Alfredo_Zitarrosa | associatedMusicalArtist | Hilario_Pérez
-Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Hilario_Pérez
-Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Hilario_Pérez
+Alfredo_Zitarrosa | associatedBand | Hilario_P rez
+Alfredo_Zitarrosa | associatedBand | Hilario_P rez
+Alfredo_Zitarrosa | associatedMusicalArtist | Hilario_P rez
+Alfredo_Zitarrosa | associatedMusicalArtist | Hilario_P rez
+Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Hilario_P rez
+Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Hilario_P rez
 Alfredo_Zitarrosa | genre | Candombe
 Alfredo_Zitarrosa | genre | Candombe
 Alfredo_Zitarrosa | genre | Milonga_(music)
@@ -1332,12 +1332,12 @@ Twilight_(band) | genre | Black_metal
 Twilight_(band) | genre | Black_metal
 United_States | ethnicGroup | African_Americans
 United_States | ethnicGroup | African_Americans
-Uruguay | leaderName | Tabaré_Vázquez
-Uruguay | leaderName | Tabaré_Vázquez
-Uruguay | leaderName | Tabaré_Vázquez
-Uruguay | leader | Tabaré_Vázquez
-Uruguay | leader | Tabaré_Vázquez
-Uruguay | leader | Tabaré_Vázquez
+Uruguay | leaderName | Tabar _V zquez
+Uruguay | leaderName | Tabar _V zquez
+Uruguay | leaderName | Tabar _V zquez
+Uruguay | leader | Tabar _V zquez
+Uruguay | leader | Tabar _V zquez
+Uruguay | leader | Tabar _V zquez
 Aaron_Deer | associatedBand | John_Wilkes_Booze
 Aaron_Deer | associatedBand/associatedMusicalArtist | John_Wilkes_Booze
 Aaron_Deer | associatedBand | The_Horns_of_Happiness
@@ -1496,29 +1496,29 @@ Ace_Wilder | occupation | Songwriter
 Ace_Wilder | recordLabel | Warner_Music_Group
 Ace_Wilder | recordLabel | Warner_Music_Group
 Ace_Wilder | recordLabel | Warner_Music_Group
-Agustín_Barboza | background | "solo_singer"
-Agustín_Barboza | background | "solo_singer"
-Agustín_Barboza | background | "solo_singer"
-Agustín_Barboza | birthPlace | Asunción
-Agustín_Barboza | birthPlace | Asunción
-Agustín_Barboza | birthPlace | Asunción
-Agustín_Barboza | placeOfBirth | Asunción
-Agustín_Barboza | placeOfBirth | Asunción
-Agustín_Barboza | placeOfBirth | Asunción
-Agustín_Barboza | birthPlace | Paraguay
-Agustín_Barboza | birthPlace | Paraguay
-Agustín_Barboza | birthPlace | Paraguay
-Agustín_Barboza | placeOfBirth | Paraguay
-Agustín_Barboza | placeOfBirth | Paraguay
-Agustín_Barboza | placeOfBirth | Paraguay
-Agustín_Barboza | placeOfDeath | Asunción
-Agustín_Barboza | deathPlace | Asunción
-Agustín_Barboza | placeOfDeath | Paraguay
-Agustín_Barboza | placeOfDeath | Paraguay
-Agustín_Barboza | deathPlace | Paraguay
-Agustín_Barboza | deathPlace | Paraguay
-Agustín_Barboza | genre | Guarania_(music)
-Agustín_Barboza | genre | Guarania_(music)
+Agust n_Barboza | background | "solo_singer"
+Agust n_Barboza | background | "solo_singer"
+Agust n_Barboza | background | "solo_singer"
+Agust n_Barboza | birthPlace | Asunci n
+Agust n_Barboza | birthPlace | Asunci n
+Agust n_Barboza | birthPlace | Asunci n
+Agust n_Barboza | placeOfBirth | Asunci n
+Agust n_Barboza | placeOfBirth | Asunci n
+Agust n_Barboza | placeOfBirth | Asunci n
+Agust n_Barboza | birthPlace | Paraguay
+Agust n_Barboza | birthPlace | Paraguay
+Agust n_Barboza | birthPlace | Paraguay
+Agust n_Barboza | placeOfBirth | Paraguay
+Agust n_Barboza | placeOfBirth | Paraguay
+Agust n_Barboza | placeOfBirth | Paraguay
+Agust n_Barboza | placeOfDeath | Asunci n
+Agust n_Barboza | deathPlace | Asunci n
+Agust n_Barboza | placeOfDeath | Paraguay
+Agust n_Barboza | placeOfDeath | Paraguay
+Agust n_Barboza | deathPlace | Paraguay
+Agust n_Barboza | deathPlace | Paraguay
+Agust n_Barboza | genre | Guarania_(music)
+Agust n_Barboza | genre | Guarania_(music)
 Ahmet_Ertegun | alias | "A. Nugetre"@en
 Ahmet_Ertegun | alias | "A. Nugetre"@en
 Ahmet_Ertegun | alias | "A. Nugetre"@en
@@ -1766,25 +1766,25 @@ Alfred_Garth_Jones | field | Illustration
 Alfred_Garth_Jones | field | Illustration
 Alfred_Garth_Jones | professionalField | Illustration
 Alfred_Garth_Jones | professionalField | Illustration
-Alfredo_Zitarrosa | associatedBand | Ciro_Pérez
-Alfredo_Zitarrosa | associatedBand | Ciro_Pérez
-Alfredo_Zitarrosa | associatedMusicalArtist | Ciro_Pérez
-Alfredo_Zitarrosa | associatedMusicalArtist | Ciro_Pérez
-Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Ciro_Pérez
-Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Ciro_Pérez
-Alfredo_Zitarrosa | associatedBand | Héctor_Numa_Moraes
-Alfredo_Zitarrosa | associatedBand | Héctor_Numa_Moraes
-Alfredo_Zitarrosa | associatedBand | Héctor_Numa_Moraes
-Alfredo_Zitarrosa | associatedMusicalArtist | Héctor_Numa_Moraes
-Alfredo_Zitarrosa | associatedMusicalArtist | Héctor_Numa_Moraes
-Alfredo_Zitarrosa | associatedMusicalArtist | Héctor_Numa_Moraes
-Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Héctor_Numa_Moraes
-Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Héctor_Numa_Moraes
-Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Héctor_Numa_Moraes
-Alfredo_Zitarrosa | associatedMusicalArtist | Yamandú_Palacios
-Alfredo_Zitarrosa | associatedMusicalArtist | Yamandú_Palacios
-Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Yamandú_Palacios
-Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Yamandú_Palacios
+Alfredo_Zitarrosa | associatedBand | Ciro_P rez
+Alfredo_Zitarrosa | associatedBand | Ciro_P rez
+Alfredo_Zitarrosa | associatedMusicalArtist | Ciro_P rez
+Alfredo_Zitarrosa | associatedMusicalArtist | Ciro_P rez
+Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Ciro_P rez
+Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Ciro_P rez
+Alfredo_Zitarrosa | associatedBand | H ctor_Numa_Moraes
+Alfredo_Zitarrosa | associatedBand | H ctor_Numa_Moraes
+Alfredo_Zitarrosa | associatedBand | H ctor_Numa_Moraes
+Alfredo_Zitarrosa | associatedMusicalArtist | H ctor_Numa_Moraes
+Alfredo_Zitarrosa | associatedMusicalArtist | H ctor_Numa_Moraes
+Alfredo_Zitarrosa | associatedMusicalArtist | H ctor_Numa_Moraes
+Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | H ctor_Numa_Moraes
+Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | H ctor_Numa_Moraes
+Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | H ctor_Numa_Moraes
+Alfredo_Zitarrosa | associatedMusicalArtist | Yamand _Palacios
+Alfredo_Zitarrosa | associatedMusicalArtist | Yamand _Palacios
+Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Yamand _Palacios
+Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Yamand _Palacios
 Alfredo_Zitarrosa | background | "solo_singer"@en
 Alfredo_Zitarrosa | background | "solo_singer"@en
 Alfredo_Zitarrosa | background | "solo_singer"@en
@@ -1864,16 +1864,16 @@ Alison_O'Donnell | genre | Jazz
 Alison_O'Donnell | genre | Psychedelic_folk
 Alison_O'Donnell | genre | Psychedelic_folk
 Alison_O'Donnell | genre | Psychedelic_folk
-Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"@en
-Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"@en
-Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"@en
-Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"
-Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"
-Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"
+Alison_O'Donnell | instrument | "Voice, bodhr n, percussion, autoharp"@en
+Alison_O'Donnell | instrument | "Voice, bodhr n, percussion, autoharp"@en
+Alison_O'Donnell | instrument | "Voice, bodhr n, percussion, autoharp"@en
+Alison_O'Donnell | instrument | "Voice, bodhr n, percussion, autoharp"
+Alison_O'Donnell | instrument | "Voice, bodhr n, percussion, autoharp"
+Alison_O'Donnell | instrument | "Voice, bodhr n, percussion, autoharp"
 Alison_O'Donnell | instrument | Autoharp
 Alison_O'Donnell | instrument | Autoharp
-Alison_O'Donnell | instrument | Bodhrán
-Alison_O'Donnell | instrument | Bodhrán
+Alison_O'Donnell | instrument | Bodhr n
+Alison_O'Donnell | instrument | Bodhr n
 Alison_O'Donnell | label | Deram_Records
 Alison_O'Donnell | label | Deram_Records
 Alison_O'Donnell | label | Deram_Records
@@ -2080,9 +2080,9 @@ Andra_(singer) | background | "solo_singer"@en
 Andra_(singer) | background | "solo_singer"
 Andra_(singer) | background | "solo_singer"
 Andra_(singer) | background | "solo_singer"
-Andra_(singer) | birthPlace | Câmpia_Turzii
-Andra_(singer) | birthPlace | Câmpia_Turzii
-Andra_(singer) | birthPlace | Câmpia_Turzii
+Andra_(singer) | birthPlace | C mpia_Turzii
+Andra_(singer) | birthPlace | C mpia_Turzii
+Andra_(singer) | birthPlace | C mpia_Turzii
 Andra_(singer) | birthPlace | Romania
 Andra_(singer) | birthYear | "1986"^^xsd:gYear
 Andra_(singer) | birthYear | "1986"^^xsd:gYear
@@ -2196,10 +2196,10 @@ Andrew_White_(musician) | label | Polydor_Records
 Armin_van_Buuren | genre | House_music
 Armin_van_Buuren | genre | House_music
 Armin_van_Buuren | genre | House_music
-Asunción | isPartOf | Gran_Asunción
-Asunción | isPartOf | Gran_Asunción
-Asunción | subdivisionName | Gran_Asunción
-Asunción | subdivisionName | Gran_Asunción
+Asunci n | isPartOf | Gran_Asunci n
+Asunci n | isPartOf | Gran_Asunci n
+Asunci n | subdivisionName | Gran_Asunci n
+Asunci n | subdivisionName | Gran_Asunci n
 Black_metal | musicFusionGenre | Death_metal
 Canada | language | French_language
 Canada | language | French_language
@@ -2286,9 +2286,9 @@ Manchester | leaderName | Labour_Party_(UK)
 Manchester | leaderName | Labour_Party_(UK)
 Montevideo | country | Uruguay
 Montevideo | country | Uruguay
-Montevideo | leaderName | Daniel_Martínez_(politician)
-Montevideo | leaderName | Daniel_Martínez_(politician)
-Montevideo | leaderName | Daniel_Martínez_(politician)
+Montevideo | leaderName | Daniel_Mart nez_(politician)
+Montevideo | leaderName | Daniel_Mart nez_(politician)
+Montevideo | leaderName | Daniel_Mart nez_(politician)
 NRBQ | genre | Country_music
 NRBQ | genre | Country_music
 NRBQ | genre | Country_music
@@ -2390,12 +2390,12 @@ Uruguay | demonym | Uruguayans
 Uruguay | language | Spanish_language
 Uruguay | language | Spanish_language
 Uruguay | language | Spanish_language
-Uruguay | leaderName | Raúl_Fernando_Sendic_Rodríguez
-Uruguay | leaderName | Raúl_Fernando_Sendic_Rodríguez
-Uruguay | leaderName | Raúl_Fernando_Sendic_Rodríguez
-Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez
-Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez
-Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez
+Uruguay | leaderName | Ra l_Fernando_Sendic_Rodr guez
+Uruguay | leaderName | Ra l_Fernando_Sendic_Rodr guez
+Uruguay | leaderName | Ra l_Fernando_Sendic_Rodr guez
+Uruguay | leader | Ra l_Fernando_Sendic_Rodr guez
+Uruguay | leader | Ra l_Fernando_Sendic_Rodr guez
+Uruguay | leader | Ra l_Fernando_Sendic_Rodr guez
 Alan_Bean | nationality | United_States
 Alan_Bean | nationality | United_States
 Alan_Bean | nationality | United_States
@@ -2956,12 +2956,12 @@ Aaron_Hunt | team | Hamburger_SV
 Aaron_Hunt | team | Hamburger_SV
 Aaron_Hunt | club | Hamburger_SV
 Aaron_Hunt | club | Hamburger_SV
-Abel_Hernández | youthclubs | Peñarol
-Abel_Hernández | youthclubs | Peñarol
-Abel_Hernández | youthclubs | Peñarol
-Abel_Hernández | youthclub | Peñarol
-Abel_Hernández | youthclub | Peñarol
-Abel_Hernández | youthclub | Peñarol
+Abel_Hern ndez | youthclubs | Pe arol
+Abel_Hern ndez | youthclubs | Pe arol
+Abel_Hern ndez | youthclubs | Pe arol
+Abel_Hern ndez | youthclub | Pe arol
+Abel_Hern ndez | youthclub | Pe arol
+Abel_Hern ndez | youthclub | Pe arol
 Accrington_Stanley_F.C. | ground | Accrington
 Accrington_Stanley_F.C. | ground | Accrington
 Accrington_Stanley_F.C. | ground | Accrington
@@ -3058,19 +3058,19 @@ FC_Terek_Grozny | ground | Grozny
 FC_Tom_Tomsk | league | Russian_Football_National_League
 FC_Tom_Tomsk | league | Russian_Football_National_League
 FC_Tom_Tomsk | league | Russian_Football_National_League
-Finland | leaderName | Sauli_Niinistö
-Finland | leaderName | Sauli_Niinistö
-Finland | leaderName | Sauli_Niinistö
-Finland | leader | Sauli_Niinistö
-Finland | leader | Sauli_Niinistö
-Finland | leader | Sauli_Niinistö
+Finland | leaderName | Sauli_Niinist 
+Finland | leaderName | Sauli_Niinist 
+Finland | leaderName | Sauli_Niinist 
+Finland | leader | Sauli_Niinist 
+Finland | leader | Sauli_Niinist 
+Finland | leader | Sauli_Niinist 
 Hull_City_A.F.C. | manager | Steve_Bruce
 Hull_City_A.F.C. | manager | Steve_Bruce
 Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais
 Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais
-Peñarol | manager | Jorge_Orosmán_da_Silva
-Peñarol | manager | Jorge_Orosmán_da_Silva
-Peñarol | manager | Jorge_Orosmán_da_Silva
+Pe arol | manager | Jorge_Orosm n_da_Silva
+Pe arol | manager | Jorge_Orosm n_da_Silva
+Pe arol | manager | Jorge_Orosm n_da_Silva
 History_of_the_St._Louis_Rams | coach | Steve_Spagnuolo
 History_of_the_St._Louis_Rams | coach | Steve_Spagnuolo
 History_of_the_St._Louis_Rams | coach | Steve_Spagnuolo
@@ -3166,58 +3166,58 @@ Aaron_Hunt | youthclubs | SV_Werder_Bremen
 Aaron_Hunt | youthclub | SV_Werder_Bremen
 Aaron_Hunt | youthclub | SV_Werder_Bremen
 Aaron_Hunt | youthclub | SV_Werder_Bremen
-Abel_Hernández | clubs | Central_Español
-Abel_Hernández | clubs | Central_Español
-Abel_Hernández | clubs | Central_Español
-Abel_Hernández | team | Central_Español
-Abel_Hernández | team | Central_Español
-Abel_Hernández | team | Central_Español
-Abel_Hernández | club | Central_Español
-Abel_Hernández | club | Central_Español
-Abel_Hernández | club | Central_Español
-Abel_Hernández | team | Hull_City_A.F.C.
-Abel_Hernández | team | Hull_City_A.F.C.
-Abel_Hernández | team | Hull_City_A.F.C.
-Abel_Hernández | clubs | Hull_City_A.F.C.
-Abel_Hernández | clubs | Hull_City_A.F.C.
-Abel_Hernández | clubs | Hull_City_A.F.C.
-Abel_Hernández | club | Hull_City_A.F.C.
-Abel_Hernández | club | Hull_City_A.F.C.
-Abel_Hernández | club | Hull_City_A.F.C.
-Abel_Hernández | team | Peñarol
-Abel_Hernández | team | Peñarol
-Abel_Hernández | clubs | Peñarol
-Abel_Hernández | clubs | Peñarol
-Abel_Hernández | club | Peñarol
-Abel_Hernández | club | Peñarol
-Abel_Hernández | clubs | U.S._Città_di_Palermo
-Abel_Hernández | clubs | U.S._Città_di_Palermo
-Abel_Hernández | team | U.S._Città_di_Palermo
-Abel_Hernández | team | U.S._Città_di_Palermo
-Abel_Hernández | club | U.S._Città_di_Palermo
-Abel_Hernández | club | U.S._Città_di_Palermo
-Abel_Hernández | team | Uruguay_Olympic_football_team
-Abel_Hernández | team | Uruguay_Olympic_football_team
-Abel_Hernández | team | Uruguay_Olympic_football_team
-Abel_Hernández | club | Uruguay_Olympic_football_team
-Abel_Hernández | club | Uruguay_Olympic_football_team
-Abel_Hernández | club | Uruguay_Olympic_football_team
-Abel_Hernández | team | Uruguay_national_football_team
-Abel_Hernández | team | Uruguay_national_football_team
-Abel_Hernández | club | Uruguay_national_football_team
-Abel_Hernández | club | Uruguay_national_football_team
-Abel_Hernández | team | Uruguay_national_under-20_football_team
-Abel_Hernández | team | Uruguay_national_under-20_football_team
-Abel_Hernández | team | Uruguay_national_under-20_football_team
-Abel_Hernández | club | Uruguay_national_under-20_football_team
-Abel_Hernández | club | Uruguay_national_under-20_football_team
-Abel_Hernández | club | Uruguay_national_under-20_football_team
-Abel_Hernández | youthclubs | Central_Español
-Abel_Hernández | youthclubs | Central_Español
-Abel_Hernández | youthclubs | Central_Español
-Abel_Hernández | youthclub | Central_Español
-Abel_Hernández | youthclub | Central_Español
-Abel_Hernández | youthclub | Central_Español
+Abel_Hern ndez | clubs | Central_Espa ol
+Abel_Hern ndez | clubs | Central_Espa ol
+Abel_Hern ndez | clubs | Central_Espa ol
+Abel_Hern ndez | team | Central_Espa ol
+Abel_Hern ndez | team | Central_Espa ol
+Abel_Hern ndez | team | Central_Espa ol
+Abel_Hern ndez | club | Central_Espa ol
+Abel_Hern ndez | club | Central_Espa ol
+Abel_Hern ndez | club | Central_Espa ol
+Abel_Hern ndez | team | Hull_City_A.F.C.
+Abel_Hern ndez | team | Hull_City_A.F.C.
+Abel_Hern ndez | team | Hull_City_A.F.C.
+Abel_Hern ndez | clubs | Hull_City_A.F.C.
+Abel_Hern ndez | clubs | Hull_City_A.F.C.
+Abel_Hern ndez | clubs | Hull_City_A.F.C.
+Abel_Hern ndez | club | Hull_City_A.F.C.
+Abel_Hern ndez | club | Hull_City_A.F.C.
+Abel_Hern ndez | club | Hull_City_A.F.C.
+Abel_Hern ndez | team | Pe arol
+Abel_Hern ndez | team | Pe arol
+Abel_Hern ndez | clubs | Pe arol
+Abel_Hern ndez | clubs | Pe arol
+Abel_Hern ndez | club | Pe arol
+Abel_Hern ndez | club | Pe arol
+Abel_Hern ndez | clubs | U.S._Citt _di_Palermo
+Abel_Hern ndez | clubs | U.S._Citt _di_Palermo
+Abel_Hern ndez | team | U.S._Citt _di_Palermo
+Abel_Hern ndez | team | U.S._Citt _di_Palermo
+Abel_Hern ndez | club | U.S._Citt _di_Palermo
+Abel_Hern ndez | club | U.S._Citt _di_Palermo
+Abel_Hern ndez | team | Uruguay_Olympic_football_team
+Abel_Hern ndez | team | Uruguay_Olympic_football_team
+Abel_Hern ndez | team | Uruguay_Olympic_football_team
+Abel_Hern ndez | club | Uruguay_Olympic_football_team
+Abel_Hern ndez | club | Uruguay_Olympic_football_team
+Abel_Hern ndez | club | Uruguay_Olympic_football_team
+Abel_Hern ndez | team | Uruguay_national_football_team
+Abel_Hern ndez | team | Uruguay_national_football_team
+Abel_Hern ndez | club | Uruguay_national_football_team
+Abel_Hern ndez | club | Uruguay_national_football_team
+Abel_Hern ndez | team | Uruguay_national_under-20_football_team
+Abel_Hern ndez | team | Uruguay_national_under-20_football_team
+Abel_Hern ndez | team | Uruguay_national_under-20_football_team
+Abel_Hern ndez | club | Uruguay_national_under-20_football_team
+Abel_Hern ndez | club | Uruguay_national_under-20_football_team
+Abel_Hern ndez | club | Uruguay_national_under-20_football_team
+Abel_Hern ndez | youthclubs | Central_Espa ol
+Abel_Hern ndez | youthclubs | Central_Espa ol
+Abel_Hern ndez | youthclubs | Central_Espa ol
+Abel_Hern ndez | youthclub | Central_Espa ol
+Abel_Hern ndez | youthclub | Central_Espa ol
+Abel_Hern ndez | youthclub | Central_Espa ol
 Adam_Maher | birthPlace | Diemen
 Adam_Maher | birthPlace | Diemen
 Adam_Maher | birthPlace | Diemen
@@ -3564,16 +3564,16 @@ Aleksandre_Guruli | placeOfBirth | Georgian_Soviet_Socialist_Republic
 Aleksandre_Guruli | placeOfBirth | Georgian_Soviet_Socialist_Republic
 Aleksandre_Guruli | birthPlace | Georgian_Soviet_Socialist_Republic
 Aleksandre_Guruli | birthPlace | Georgian_Soviet_Socialist_Republic
-Aleksandre_Guruli | clubs | AS_Lyon-Duchère
-Aleksandre_Guruli | clubs | AS_Lyon-Duchère
-Aleksandre_Guruli | clubs | AS_Lyon-Duchère
-Aleksandre_Guruli | clubs | AS_Lyon-Duchère
-Aleksandre_Guruli | clubs | AS_Lyon-Duchère
-Aleksandre_Guruli | club | AS_Lyon-Duchère
-Aleksandre_Guruli | club | AS_Lyon-Duchère
-Aleksandre_Guruli | club | AS_Lyon-Duchère
-Aleksandre_Guruli | club | AS_Lyon-Duchère
-Aleksandre_Guruli | club | AS_Lyon-Duchère
+Aleksandre_Guruli | clubs | AS_Lyon-Duch re
+Aleksandre_Guruli | clubs | AS_Lyon-Duch re
+Aleksandre_Guruli | clubs | AS_Lyon-Duch re
+Aleksandre_Guruli | clubs | AS_Lyon-Duch re
+Aleksandre_Guruli | clubs | AS_Lyon-Duch re
+Aleksandre_Guruli | club | AS_Lyon-Duch re
+Aleksandre_Guruli | club | AS_Lyon-Duch re
+Aleksandre_Guruli | club | AS_Lyon-Duch re
+Aleksandre_Guruli | club | AS_Lyon-Duch re
+Aleksandre_Guruli | club | AS_Lyon-Duch re
 Aleksandre_Guruli | clubs | FC_Dila_Gori
 Aleksandre_Guruli | clubs | FC_Dila_Gori
 Aleksandre_Guruli | team | FC_Dila_Gori
@@ -3751,9 +3751,9 @@ Canada | language | Slavey_language
 Canada | language | Slavey_language
 Canada | leaderName | Elizabeth_II
 Canada | leaderName | Elizabeth_II
-Central_Español | league | Uruguayan_Segunda_División
-Central_Español | league | Uruguayan_Segunda_División
-Central_Español | league | Uruguayan_Segunda_División
+Central_Espa ol | league | Uruguayan_Segunda_Divisi n
+Central_Espa ol | league | Uruguayan_Segunda_Divisi n
+Central_Espa ol | league | Uruguayan_Segunda_Divisi n
 Clyde_F.C. | ground | Broadwood_Stadium
 Clyde_F.C. | ground | Broadwood_Stadium
 Clyde_F.C. | ground | Broadwood_Stadium
@@ -3826,9 +3826,9 @@ Olympique_Lyonnais | owner | Jean-Michel_Aulas
 Olympique_Lyonnais | owner | Jean-Michel_Aulas
 Olympique_Lyonnais | owner | Jean-Michel_Aulas
 PSV_Eindhoven | manager | Phillip_Cocu
-Peñarol | league | Uruguayan_Primera_División
-Peñarol | league | Uruguayan_Primera_División
-Peñarol | league | Uruguayan_Primera_División
+Pe arol | league | Uruguayan_Primera_Divisi n
+Pe arol | league | Uruguayan_Primera_Divisi n
+Pe arol | league | Uruguayan_Primera_Divisi n
 SV_Werder_Bremen | league | Bundesliga
 SV_Werder_Bremen | league | Bundesliga
 SV_Werder_Bremen | league | Bundesliga
@@ -3886,11 +3886,11 @@ Tennessee_Titans | coach | Mike_Mularkey
 U.C._Sampdoria | league | Serie_A
 U.C._Sampdoria | league | Serie_A
 U.C._Sampdoria | league | Serie_A
-U.S._Città_di_Palermo | league | Serie_A
-U.S._Città_di_Palermo | league | Serie_A
-U.S._Città_di_Palermo | league | Serie_A
-U.S._Città_di_Palermo | manager | Giuseppe_Iachini
-U.S._Città_di_Palermo | manager | Giuseppe_Iachini
+U.S._Citt _di_Palermo | league | Serie_A
+U.S._Citt _di_Palermo | league | Serie_A
+U.S._Citt _di_Palermo | league | Serie_A
+U.S._Citt _di_Palermo | manager | Giuseppe_Iachini
+U.S._Citt _di_Palermo | manager | Giuseppe_Iachini
 VfL_Wolfsburg | league | Bundesliga
 VfL_Wolfsburg | league | Bundesliga
 250_Delaware_Avenue | architecturalStyle | Postmodern_architecture
@@ -3929,7 +3929,7 @@ County_Limerick | subdivisionName | Munster
 County_Limerick | isPartOf | Munster
 County_Limerick | isPartOf | Munster
 County_Limerick | isPartOf | Munster
-Dublin | leaderName | Críona_Ní_Dhálaigh
+Dublin | leaderName | Cr ona_N _Dh laigh
 India | demonym | Indian_people
 India | demonym | Indian_people
 Live_Nation_Entertainment | location | Beverly_Hills,_California
@@ -3987,8 +3987,8 @@ New_York_City | isPartOf | New_Netherland
 200_Public_Square | location | Cleveland
 200_Public_Square | location | Public_Square,_Cleveland
 200_Public_Square | location | Public_Square,_Cleveland
-20_Fenchurch_Street | architect | Rafael_Viñoly
-20_Fenchurch_Street | architect | Rafael_Viñoly
+20_Fenchurch_Street | architect | Rafael_Vi oly
+20_Fenchurch_Street | architect | Rafael_Vi oly
 20_Fenchurch_Street | buildingStartDate | "January 2009"
 20_Fenchurch_Street | buildingStartDate | "January 2009"
 20_Fenchurch_Street | startDate | "January 2009"@en
@@ -4386,7 +4386,7 @@ Dublin | subdivisionName | Republic_of_Ireland
 Dublin | subdivisionName | Republic_of_Ireland
 Dublin | isPartOf | Republic_of_Ireland
 Dublin | isPartOf | Republic_of_Ireland
-Dublin | leaderTitle | Dáil_Éireann
+Dublin | leaderTitle | D il_ ireann
 Dublin | leaderTitle | European_Parliament
 Dublin | leaderTitle | European_Parliament
 Dublin | leaderTitle | European_Parliament
@@ -4552,8 +4552,8 @@ Virginia | country | United_States
 N._R._Pogson | nationality | England
 N._R._Pogson | nationality | England
 N._R._Pogson | nationality | England
-Walter_Baade | deathPlace | Göttingen
-Walter_Baade | deathPlace | Göttingen
+Walter_Baade | deathPlace | G ttingen
+Walter_Baade | deathPlace | G ttingen
 101_Helena | absoluteMagnitude | "8.33"^^xsd:double
 101_Helena | absoluteMagnitude | "8.33"^^xsd:double
 101_Helena | absoluteMagnitude | "8.33"^^xsd:double
@@ -4762,14 +4762,14 @@ N._R._Pogson | placeOfBirth | Nottingham
 N._R._Pogson | placeOfBirth | Nottingham
 N._R._Pogson | deathPlace | Chennai
 N._R._Pogson | deathPlace | Chennai
-Walter_Baade | almaMater | University_of_Göttingen
-Walter_Baade | almaMater | University_of_Göttingen
-Walter_Baade | almaMater | University_of_Göttingen
+Walter_Baade | almaMater | University_of_G ttingen
+Walter_Baade | almaMater | University_of_G ttingen
+Walter_Baade | almaMater | University_of_G ttingen
 Walter_Baade | birthPlace | German_Empire
 Walter_Baade | birthPlace | German_Empire
-Walter_Baade | birthPlace | Preußisch_Oldendorf
-Walter_Baade | birthPlace | Preußisch_Oldendorf
-Walter_Baade | birthPlace | Preußisch_Oldendorf
+Walter_Baade | birthPlace | Preu isch_Oldendorf
+Walter_Baade | birthPlace | Preu isch_Oldendorf
+Walter_Baade | birthPlace | Preu isch_Oldendorf
 Walter_Baade | deathPlace | West_Germany
 Walter_Baade | doctoralStudent | Allan_Sandage
 Walter_Baade | doctoralStudents | Allan_Sandage
@@ -5525,8 +5525,8 @@ New_Mexico | language | Navajo_language
 New_Mexico | language | Navajo_language
 New_Mexico_House_of_Representatives | leader | Don_Tripp
 New_Mexico_House_of_Representatives | leader | Don_Tripp
-New_Mexico_Senate | leader | John_Sánchez
-New_Mexico_Senate | leader | John_Sánchez
+New_Mexico_Senate | leader | John_S nchez
+New_Mexico_Senate | leader | John_S nchez
 Orange_County,_California | subdivisionName | Greater_Los_Angeles_Area
 Orange_County,_California | subdivisionName | Greater_Los_Angeles_Area
 Orange_County,_California | subdivisionName | Greater_Los_Angeles_Area
@@ -5710,11 +5710,11 @@ Amatriciana_sauce | ingredient | Pecorino_Romano
 Amatriciana_sauce | ingredient | Pecorino_Romano
 Arrabbiata_sauce | ingredient | Chili_pepper
 Arrabbiata_sauce | ingredient | Chili_pepper
-Arròs_negre | ingredient | White_rice
-Arròs_negre | ingredient | White_rice
-Arròs_negre | region | Catalonia
-Arròs_negre | region | Catalonia
-Arròs_negre | region | Valencian_Community
+Arr s_negre | ingredient | White_rice
+Arr s_negre | ingredient | White_rice
+Arr s_negre | region | Catalonia
+Arr s_negre | region | Catalonia
+Arr s_negre | region | Valencian_Community
 Ayam_penyet | region | Singapore
 Ayam_penyet | region | Singapore
 Ayam_penyet | region | Singapore
@@ -5729,8 +5729,8 @@ Bakewell_pudding | served | "Warm  or cold"
 Bandeja_paisa | country | Colombian_cuisine
 Bandeja_paisa | country | Colombian_cuisine
 Bandeja_paisa | country | Colombian_cuisine
-Bandeja_paisa | ingredient | Chicharrón
-Bandeja_paisa | ingredient | Chicharrón
+Bandeja_paisa | ingredient | Chicharr n
+Bandeja_paisa | ingredient | Chicharr n
 Bandeja_paisa | region | Paisa_Region
 Bandeja_paisa | region | Paisa_Region
 Bandeja_paisa | region | Paisa_Region
@@ -5775,9 +5775,9 @@ India | currency | Indian_rupee
 India | currency | Indian_rupee
 Indonesia | language | Indonesian_language
 Indonesia | language | Indonesian_language
-Jalisco | leaderName | Aristóteles_Sandoval
-Jalisco | leaderName | Aristóteles_Sandoval
-Jalisco | leaderName | Aristóteles_Sandoval
+Jalisco | leaderName | Arist teles_Sandoval
+Jalisco | leaderName | Arist teles_Sandoval
+Jalisco | leaderName | Arist teles_Sandoval
 Java | ethnicGroup | Banyumasan_people
 Java | ethnicGroup | Banyumasan_people
 Java | ethnicGroup | Banyumasan_people
@@ -5862,8 +5862,8 @@ Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"
 Amatriciana_sauce | region | Lazio
 Amatriciana_sauce | region | Lazio
 Amatriciana_sauce | region | Lazio
-Andalusia | leaderName | Susana_Díaz
-Andalusia | leaderName | Susana_Díaz
+Andalusia | leaderName | Susana_D az
+Andalusia | leaderName | Susana_D az
 Antioquia_Department | country | Colombia
 Antioquia_Department | country | Colombia
 Arem-arem | country | Indonesia
@@ -5920,22 +5920,22 @@ Arrabbiata_sauce | region | "Rome"@en
 Arrabbiata_sauce | region | Rome
 Arrabbiata_sauce | region | Rome
 Arrabbiata_sauce | region | Rome
-Arròs_negre | country | Spain
-Arròs_negre | country | Spain
-Arròs_negre | ingredient | Cephalopod_ink
-Arròs_negre | ingredient | Cephalopod_ink
-Arròs_negre | ingredient | Cephalopod_ink
-Arròs_negre | ingredient | Cubanelle
-Arròs_negre | ingredient | Cubanelle
-Arròs_negre | ingredient | Cuttlefish
-Arròs_negre | ingredient | Cuttlefish
-Arròs_negre | ingredient | Squid
-Arròs_negre | mainIngredient | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"@en
-Arròs_negre | mainIngredient | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"@en
-Arròs_negre | mainIngredient | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"@en
-Arròs_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
-Arròs_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
-Arròs_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+Arr s_negre | country | Spain
+Arr s_negre | country | Spain
+Arr s_negre | ingredient | Cephalopod_ink
+Arr s_negre | ingredient | Cephalopod_ink
+Arr s_negre | ingredient | Cephalopod_ink
+Arr s_negre | ingredient | Cubanelle
+Arr s_negre | ingredient | Cubanelle
+Arr s_negre | ingredient | Cuttlefish
+Arr s_negre | ingredient | Cuttlefish
+Arr s_negre | ingredient | Squid
+Arr s_negre | mainIngredient | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"@en
+Arr s_negre | mainIngredient | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"@en
+Arr s_negre | mainIngredient | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"@en
+Arr s_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+Arr s_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+Arr s_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
 Asam_pedas | alternateName | "Asam padeh"@en
 Asam_pedas | alternateName | "Asam padeh"@en
 Asam_pedas | alternateName | "Asam padeh"@en
@@ -6377,10 +6377,10 @@ Celery | family | Apiaceae
 Celery | genus | Apium
 Celery | genus | Apium
 Celery | genus | Apium
-Chicharrón | country | Spain
-Chicharrón | country | Spain
-Chicharrón | region | Andalusia
-Chicharrón | region | Andalusia
+Chicharr n | country | Spain
+Chicharr n | country | Spain
+Chicharr n | region | Andalusia
+Chicharr n | region | Andalusia
 China | language | Standard_Chinese
 China | language | Standard_Chinese
 Derbyshire_Dales | subdivisionName | Derbyshire
@@ -6420,14 +6420,14 @@ France | leader | Claude_Bartolone
 France | leaderName | Claude_Bartolone
 France | leaderName | Claude_Bartolone
 France | leaderName | Claude_Bartolone
-France | leader | François_Hollande
-France | leader | François_Hollande
-France | leaderName | François_Hollande
-France | leaderName | François_Hollande
-France | leaderName | Gérard_Larcher
-France | leaderName | Gérard_Larcher
-France | leader | Gérard_Larcher
-France | leader | Gérard_Larcher
+France | leader | Fran ois_Hollande
+France | leader | Fran ois_Hollande
+France | leaderName | Fran ois_Hollande
+France | leaderName | Fran ois_Hollande
+France | leaderName | G rard_Larcher
+France | leaderName | G rard_Larcher
+France | leader | G rard_Larcher
+France | leader | G rard_Larcher
 France | leaderName | Manuel_Valls
 France | leaderName | Manuel_Valls
 France | leaderName | Manuel_Valls
@@ -6492,9 +6492,9 @@ Italy | leader | Sergio_Mattarella
 Italy | leader | Sergio_Mattarella
 Italy | leaderName | Sergio_Mattarella
 Italy | leaderName | Sergio_Mattarella
-Jalisco | leaderName | Jesús_Casillas_Romero
-Jalisco | leaderName | Jesús_Casillas_Romero
-Jalisco | leaderName | Jesús_Casillas_Romero
+Jalisco | leaderName | Jes s_Casillas_Romero
+Jalisco | leaderName | Jes s_Casillas_Romero
+Jalisco | leaderName | Jes s_Casillas_Romero
 Java | ethnicGroup | Baduy
 Java | ethnicGroup | Baduy
 Java | ethnicGroup | Baduy
@@ -6554,12 +6554,12 @@ Mexico | language | Mexican_Spanish
 Mexico | language | Spanish_language
 Mexico | language | Spanish_language
 Mexico | language | Spanish_language
-Mexico | leader | Enrique_Peña_Nieto
-Mexico | leader | Enrique_Peña_Nieto
-Mexico | leader | Enrique_Peña_Nieto
-Mexico | leaderName | Enrique_Peña_Nieto
-Mexico | leaderName | Enrique_Peña_Nieto
-Mexico | leaderName | Enrique_Peña_Nieto
+Mexico | leader | Enrique_Pe a_Nieto
+Mexico | leader | Enrique_Pe a_Nieto
+Mexico | leader | Enrique_Pe a_Nieto
+Mexico | leaderName | Enrique_Pe a_Nieto
+Mexico | leaderName | Enrique_Pe a_Nieto
+Mexico | leaderName | Enrique_Pe a_Nieto
 Mondelez_International | foundationPlace | Chicago
 New_York | language | Arabic
 New_York | language | Arabic
@@ -6685,10 +6685,10 @@ United_Kingdom | language | English_language
 Valencian_Community | leaderName | Ximo_Puig
 Valencian_Community | leaderName | Ximo_Puig
 Valencian_Community | leaderName | Ximo_Puig
-A-Rosa_Luna | shipBuilder | "Neptun Werft, Warnemünde,"@en
-A-Rosa_Luna | shipBuilder | "Neptun Werft, Warnemünde,"@en
-A-Rosa_Luna | builder | "Neptun Werft, Warnemünde,"
-A-Rosa_Luna | builder | "Neptun Werft, Warnemünde,"
+A-Rosa_Luna | shipBuilder | "Neptun Werft, Warnem nde,"@en
+A-Rosa_Luna | shipBuilder | "Neptun Werft, Warnem nde,"@en
+A-Rosa_Luna | builder | "Neptun Werft, Warnem nde,"
+A-Rosa_Luna | builder | "Neptun Werft, Warnem nde,"
 A-Rosa_Luna | builder | Rostock
 AIDAluna | activeYearsStartDate | "2009-03-22"^^xsd:date
 AIDAluna | activeYearsStartDate | 2009-03-22
@@ -6733,9 +6733,9 @@ Acura_TLX | engine | 3.5 (litres)
 Acura_TLX | engine | 3.5 (litres)
 Acura_TLX | engine | Honda_J_engine
 Acura_TLX | engine | Honda_J_engine
-Aleksey_Chirikov_(icebreaker) | powerType | Wärtsilä
-Aleksey_Chirikov_(icebreaker) | powerType | Wärtsilä
-Aleksey_Chirikov_(icebreaker) | powerType | Wärtsilä
+Aleksey_Chirikov_(icebreaker) | powerType | W rtsil 
+Aleksey_Chirikov_(icebreaker) | powerType | W rtsil 
+Aleksey_Chirikov_(icebreaker) | powerType | W rtsil 
 Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double
 Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double
 Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double
@@ -6915,12 +6915,12 @@ A-Rosa_Luna | orderDate | "2004-01-22"^^xsd:date
 A-Rosa_Luna | shipOrdered | 2004-01-22
 A-Rosa_Luna | shipOrdered | 2004-01-22
 A-Rosa_Luna | shipOrdered | 2004-01-22
-A-Rosa_Luna | shipPower | "*2 × MTU 16V 2000 M60\n*"@en
-A-Rosa_Luna | shipPower | "*2 × MTU 16V 2000 M60\n*"@en
-A-Rosa_Luna | shipPower | "*2 × MTU 16V 2000 M60\n*"@en
-A-Rosa_Luna | shipPower | "2 × MTU 16V 2000 M60 engine"
-A-Rosa_Luna | shipPower | "2 × MTU 16V 2000 M60 engine"
-A-Rosa_Luna | shipPower | "2 × MTU 16V 2000 M60 engine"
+A-Rosa_Luna | shipPower | "*2   MTU 16V 2000 M60\n*"@en
+A-Rosa_Luna | shipPower | "*2   MTU 16V 2000 M60\n*"@en
+A-Rosa_Luna | shipPower | "*2   MTU 16V 2000 M60\n*"@en
+A-Rosa_Luna | shipPower | "2   MTU 16V 2000 M60 engine"
+A-Rosa_Luna | shipPower | "2   MTU 16V 2000 M60 engine"
+A-Rosa_Luna | shipPower | "2   MTU 16V 2000 M60 engine"
 A-Rosa_Luna | topSpeed | "24.0"^^xsd:double
 A-Rosa_Luna | topSpeed | "24.0"^^xsd:double
 A-Rosa_Luna | topSpeed | "24.0"^^xsd:double
@@ -7169,9 +7169,9 @@ AMC_Matador | assembly | Port_Melbourne,_Victoria
 AMC_Matador | assembly | Thames,_New_Zealand
 AMC_Matador | assembly | Thames,_New_Zealand
 AMC_Matador | assembly | Thames,_New_Zealand
-AMC_Matador | bodyStyle | Coupé
-AMC_Matador | bodyStyle | Coupé
-AMC_Matador | bodyStyle | Coupé
+AMC_Matador | bodyStyle | Coup 
+AMC_Matador | bodyStyle | Coup 
+AMC_Matador | bodyStyle | Coup 
 AMC_Matador | bodyStyle | Hardtop
 AMC_Matador | bodyStyle | Station_wagon
 AMC_Matador | bodyStyle | Station_wagon
@@ -7499,9 +7499,9 @@ Aston_Martin_V8 | assembly | United_Kingdom
 Aston_Martin_V8 | assembly | United_Kingdom
 Aston_Martin_V8 | assembly | United_Kingdom
 Aston_Martin_V8 | bodyStyle | Convertible
-Aston_Martin_V8 | bodyStyle | Coupé
-Aston_Martin_V8 | bodyStyle | Coupé
-Aston_Martin_V8 | bodyStyle | Coupé
+Aston_Martin_V8 | bodyStyle | Coup 
+Aston_Martin_V8 | bodyStyle | Coup 
+Aston_Martin_V8 | bodyStyle | Coup 
 Aston_Martin_V8 | manufacturer | Aston_Martin
 Aston_Martin_V8 | manufacturer | Aston_Martin
 Aston_Martin_V8 | manufacturer | Aston_Martin
@@ -7640,20 +7640,20 @@ ELA-3 | site | Guiana_Space_Centre
 ELA-3 | site | Guiana_Space_Centre
 Fiat_Croma | related | Opel_Vectra
 Fiat_Croma | relatedMeanOfTransportation | Opel_Vectra
-Finland | leader | Juha_Sipilä
-Finland | leader | Juha_Sipilä
-Finland | leader | Juha_Sipilä
-Finland | leaderName | Juha_Sipilä
-Finland | leaderName | Juha_Sipilä
-Finland | leaderName | Juha_Sipilä
+Finland | leader | Juha_Sipil 
+Finland | leader | Juha_Sipil 
+Finland | leader | Juha_Sipil 
+Finland | leaderName | Juha_Sipil 
+Finland | leaderName | Juha_Sipil 
+Finland | leaderName | Juha_Sipil 
 Germany | capital | Berlin
 Germany | capital | Berlin
 Germany | demonym | Germans
 Germany | demonym | Germans
-Germany | leaderName | Andreas_Voßkuhle
-Germany | leaderName | Andreas_Voßkuhle
-Germany | leader | Andreas_Voßkuhle
-Germany | leader | Andreas_Voßkuhle
+Germany | leaderName | Andreas_Vo kuhle
+Germany | leaderName | Andreas_Vo kuhle
+Germany | leader | Andreas_Vo kuhle
+Germany | leader | Andreas_Vo kuhle
 Germany | leader | Angela_Merkel
 Germany | leader | Angela_Merkel
 Germany | leaderName | Angela_Merkel
@@ -8083,9 +8083,9 @@ Poland | ethnicGroup | Romani_people
 Poland | ethnicGroup | Romani_people
 Poland | language | Kashubian_language
 Poland | language | Kashubian_language
-Polish–Soviet_War | commander | Joseph_Stalin
-Polish–Soviet_War | commander | Joseph_Stalin
-Polish–Soviet_War | commander | Joseph_Stalin
+Polish Soviet_War | commander | Joseph_Stalin
+Polish Soviet_War | commander | Joseph_Stalin
+Polish Soviet_War | commander | Joseph_Stalin
 World_War_II | place | South-East_Asian_theatre_of_World_War_II
 World_War_II | place | South-East_Asian_theatre_of_World_War_II
 Aaron_S._Daggett | award | Purple_Heart
@@ -8246,12 +8246,12 @@ Abel_Caballero | birthPlace | Spain
 Abel_Caballero | birthPlace | Spain
 Abel_Caballero | placeOfBirth | Spain
 Abel_Caballero | placeOfBirth | Spain
-Abel_Caballero | primeminister | Felipe_González
-Abel_Caballero | primeminister | Felipe_González
-Abel_Caballero | primeminister | Felipe_González
-Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_González
-Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_González
-Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_González
+Abel_Caballero | primeminister | Felipe_Gonz lez
+Abel_Caballero | primeminister | Felipe_Gonz lez
+Abel_Caballero | primeminister | Felipe_Gonz lez
+Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_Gonz lez
+Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_Gonz lez
+Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_Gonz lez
 Abel_Caballero | nationality | Spain
 Abel_Caballero | nationality | Spain
 Abel_Caballero | nationality | Spain
@@ -8376,10 +8376,10 @@ Adam_Koc | award | Virtuti_Militari
 Adam_Koc | award | Virtuti_Militari
 Adam_Koc | awards | Virtuti_Militari
 Adam_Koc | awards | Virtuti_Militari
-Adam_Koc | battle | Polish–Soviet_War
-Adam_Koc | battle | Polish–Soviet_War
-Adam_Koc | battles | Polish–Soviet_War
-Adam_Koc | battles | Polish–Soviet_War
+Adam_Koc | battle | Polish Soviet_War
+Adam_Koc | battle | Polish Soviet_War
+Adam_Koc | battles | Polish Soviet_War
+Adam_Koc | battles | Polish Soviet_War
 Adam_Koc | battles | World_War_I
 Adam_Koc | battles | World_War_I
 Adam_Koc | battle | World_War_I
@@ -8391,12 +8391,12 @@ Adenan_Satem | almaMater | University_of_Adelaide
 Adenan_Satem | almaMater | University_of_Adelaide
 Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo
 Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo
-Adolf_Schärf | birthPlace | Austria-Hungary
-Adolf_Schärf | birthPlace | Austria-Hungary
-Adolf_Schärf | birthPlace | Austria-Hungary
-Adolf_Schärf | birthPlace | Mikulov
-Adolf_Schärf | birthPlace | Mikulov
-Adolf_Schärf | birthPlace | Mikulov
+Adolf_Sch rf | birthPlace | Austria-Hungary
+Adolf_Sch rf | birthPlace | Austria-Hungary
+Adolf_Sch rf | birthPlace | Austria-Hungary
+Adolf_Sch rf | birthPlace | Mikulov
+Adolf_Sch rf | birthPlace | Mikulov
+Adolf_Sch rf | birthPlace | Mikulov
 Adonis_Georgiadis | almaMater | National_and_Kapodistrian_University_of_Athens
 Adonis_Georgiadis | almaMater | National_and_Kapodistrian_University_of_Athens
 Adonis_Georgiadis | almaMater | National_and_Kapodistrian_University_of_Athens
@@ -8587,8 +8587,8 @@ Albert_Jennings_Fountain | dateOfDeath | "1896-02-01"^^xsd:date
 Albert_Jennings_Fountain | dateOfDeath | "1896-02-01"^^xsd:date
 Albert_Jennings_Fountain | dateOfDeath | 1896-02-01
 Albert_Jennings_Fountain | dateOfDeath | 1896-02-01
-Albert_Jennings_Fountain | placeOfDeath | Doña_Ana_County,_New_Mexico
-Albert_Jennings_Fountain | deathPlace | Doña_Ana_County,_New_Mexico
+Albert_Jennings_Fountain | placeOfDeath | Do a_Ana_County,_New_Mexico
+Albert_Jennings_Fountain | deathPlace | Do a_Ana_County,_New_Mexico
 Albert_Jennings_Fountain | deathPlace | New_Mexico_Territory
 Albert_Jennings_Fountain | deathPlace | New_Mexico_Territory
 Albert_Jennings_Fountain | placeOfDeath | New_Mexico_Territory
@@ -8619,10 +8619,10 @@ Alberto_Teisaire | deathPlace | Buenos_Aires
 Alberto_Teisaire | deathPlace | Buenos_Aires
 Alberto_Teisaire | placeOfDeath | Buenos_Aires
 Alberto_Teisaire | placeOfDeath | Buenos_Aires
-Alberto_Teisaire | president | Juan_Perón
-Alberto_Teisaire | president | Juan_Perón
-Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón
-Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón
+Alberto_Teisaire | president | Juan_Per n
+Alberto_Teisaire | president | Juan_Per n
+Alberto_Teisaire | inOfficeWhilePresident | Juan_Per n
+Alberto_Teisaire | inOfficeWhilePresident | Juan_Per n
 Alberto_Teisaire | nationality | Argentina
 Alberto_Teisaire | nationality | Argentina
 Alberto_Teisaire | nationality | Argentina
@@ -8659,10 +8659,10 @@ Alfons_Gorbach | deathPlace | Graz
 Alfons_Gorbach | placeOfDeath | Graz
 Alfons_Gorbach | placeOfDeath | Styria
 Alfons_Gorbach | deathPlace | Styria
-Alfons_Gorbach | president | Adolf_Schärf
-Alfons_Gorbach | president | Adolf_Schärf
-Alfons_Gorbach | inOfficeWhilePresident | Adolf_Schärf
-Alfons_Gorbach | inOfficeWhilePresident | Adolf_Schärf
+Alfons_Gorbach | president | Adolf_Sch rf
+Alfons_Gorbach | president | Adolf_Sch rf
+Alfons_Gorbach | inOfficeWhilePresident | Adolf_Sch rf
+Alfons_Gorbach | inOfficeWhilePresident | Adolf_Sch rf
 Alfons_Gorbach | party | Austrian_People's_Party
 Alfons_Gorbach | party | Austrian_People's_Party
 Alfred_Moore_Scales | activeYearsStartDate | "1857-03-04"^^xsd:date
@@ -8809,9 +8809,9 @@ Buenos_Aires | leaderName | Diego_Santilli
 Buenos_Aires | leaderName | Gabriela_Michetti
 Buenos_Aires | leaderName | Gabriela_Michetti
 Buenos_Aires | leaderName | Gabriela_Michetti
-Buenos_Aires | leaderName | Horacio_Rodríguez_Larreta
-Buenos_Aires | leaderName | Horacio_Rodríguez_Larreta
-Buenos_Aires | leaderName | Horacio_Rodríguez_Larreta
+Buenos_Aires | leaderName | Horacio_Rodr guez_Larreta
+Buenos_Aires | leaderName | Horacio_Rodr guez_Larreta
+Buenos_Aires | leaderName | Horacio_Rodr guez_Larreta
 Casey_Ribicoff | birthPlace | Chicago
 Casey_Ribicoff | birthPlace | Chicago
 Erasmus_University_Rotterdam | affiliation | Association_of_MBAs
@@ -8820,9 +8820,9 @@ Erasmus_University_Rotterdam | affiliation | Association_of_MBAs
 Erasmus_University_Rotterdam | affiliations | Association_of_MBAs
 Erasmus_University_Rotterdam | affiliations | Association_of_MBAs
 Erasmus_University_Rotterdam | affiliations | Association_of_MBAs
-Felipe_González | predecessor | Rodolfo_Llopis
-Felipe_González | predecessor | Rodolfo_Llopis
-Felipe_González | predecessor | Rodolfo_Llopis
+Felipe_Gonz lez | predecessor | Rodolfo_Llopis
+Felipe_Gonz lez | predecessor | Rodolfo_Llopis
+Felipe_Gonz lez | predecessor | Rodolfo_Llopis
 Grenadier_Guards | battle | Battle_of_Waterloo
 Grenadier_Guards | battle | Battle_of_Waterloo
 Grenadier_Guards | battles | Battle_of_Waterloo
@@ -8847,20 +8847,20 @@ Juan_Carlos_I_of_Spain | predecessor | Alfonso_XIII_of_Spain
 Juan_Carlos_I_of_Spain | predecessor | Alfonso_XIII_of_Spain
 Juan_Carlos_I_of_Spain | predecessor | Francisco_Franco
 Juan_Carlos_I_of_Spain | predecessor | Francisco_Franco
-Juan_Carlos_I_of_Spain | spouse | Queen_Sofía_of_Spain
-Juan_Carlos_I_of_Spain | spouse | Queen_Sofía_of_Spain
-Juan_Carlos_I_of_Spain | spouse | Queen_Sofía_of_Spain
-Juan_Perón | vicepresident | Hortensio_Quijano
-Juan_Perón | vicepresident | Hortensio_Quijano
-Juan_Perón | inOfficeWhileGovernor | Hortensio_Quijano
-Juan_Perón | inOfficeWhileGovernor | Hortensio_Quijano
-Juan_Perón | vicePresident | Hortensio_Quijano
-Juan_Perón | inOfficeWhileVicePresident | Hortensio_Quijano
-Juan_Perón | party | Labour_Party_(Argentina)
-Juan_Perón | party | Labour_Party_(Argentina)
-Juan_Perón | spouse | Eva_Perón
-Juan_Perón | spouse | Eva_Perón
-Juan_Perón | spouse | Eva_Perón
+Juan_Carlos_I_of_Spain | spouse | Queen_Sof a_of_Spain
+Juan_Carlos_I_of_Spain | spouse | Queen_Sof a_of_Spain
+Juan_Carlos_I_of_Spain | spouse | Queen_Sof a_of_Spain
+Juan_Per n | vicepresident | Hortensio_Quijano
+Juan_Per n | vicepresident | Hortensio_Quijano
+Juan_Per n | inOfficeWhileGovernor | Hortensio_Quijano
+Juan_Per n | inOfficeWhileGovernor | Hortensio_Quijano
+Juan_Per n | vicePresident | Hortensio_Quijano
+Juan_Per n | inOfficeWhileVicePresident | Hortensio_Quijano
+Juan_Per n | party | Labour_Party_(Argentina)
+Juan_Per n | party | Labour_Party_(Argentina)
+Juan_Per n | spouse | Eva_Per n
+Juan_Per n | spouse | Eva_Per n
+Juan_Per n | spouse | Eva_Per n
 Makis_Voridis | birthPlace | Athens
 Makis_Voridis | birthPlace | Athens
 Mike_Akhigbe | militaryBranch | Nigerian_Navy
@@ -8882,10 +8882,10 @@ Parkersburg,_West_Virginia | country | United_States
 Poland | language | Polish_language
 Poland | language | Polish_language
 Poland | language | Polish_language
-Polish–Soviet_War | commander | Leon_Trotsky
-Polish–Soviet_War | commander | Leon_Trotsky
-Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War
-Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War
+Polish Soviet_War | commander | Leon_Trotsky
+Polish Soviet_War | commander | Leon_Trotsky
+Polish Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War
+Polish Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War
 Royal_Artillery | garrison | Hohne
 Royal_Artillery | garrison | Hohne
 Royal_Artillery | garrison | Hohne
@@ -8920,8 +8920,8 @@ United_States_Army | battle | Korean_War
 United_States_Army | battles | Korean_War
 United_States_Army | battles | Korean_War
 United_States_Army | battles | Korean_War
-United_States_Army | battles | Spanish–American_War
-United_States_Army | battle | Spanish–American_War
+United_States_Army | battles | Spanish American_War
+United_States_Army | battle | Spanish American_War
 United_States_Army | battles | Whiskey_Rebellion
 United_States_Army | battles | Whiskey_Rebellion
 United_States_Army | battles | Whiskey_Rebellion
@@ -8984,8 +8984,8 @@ A.S._Gubbio_1910 | capacity | "5300"^^xsd:nonNegativeInteger
 A.S._Gubbio_1910 | numberOfMembers | 5300
 A.S._Gubbio_1910 | numberOfMembers | 5300
 AEK_Athens_F.C. | ground | Athens
-AEK_Athens_F.C. | season | 2014–15_Football_League_(Greece)
-AZ_Alkmaar | season | 2014–15_Eredivisie
+AEK_Athens_F.C. | season | 2014 15_Football_League_(Greece)
+AZ_Alkmaar | season | 2014 15_Eredivisie
 Akron,_Ohio | location | Summit_County,_Ohio
 Akron,_Ohio | location | Summit_County,_Ohio
 Akron,_Ohio | location | Summit_County,_Ohio
@@ -9036,8 +9036,8 @@ Michele_Marcolini | clubs | Vicenza_Calcio
 Michele_Marcolini | club | Vicenza_Calcio
 Michele_Marcolini | club | Vicenza_Calcio
 Michele_Marcolini | club | Vicenza_Calcio
-St._Vincent–St._Mary_High_School | country | United_States
-St._Vincent–St._Mary_High_School | country | United_States
+St._Vincent St._Mary_High_School | country | United_States
+St._Vincent St._Mary_High_School | country | United_States
 A.C._Cesena | ground | Cesena
 A.C._Cesena | ground | Italy
 A.C._Cesena | ground | Stadio_Dino_Manuzzi
@@ -9066,9 +9066,9 @@ A.C._Chievo_Verona | capacity | 39371
 A.C._Chievo_Verona | numberOfMembers | 39371
 A.C._Chievo_Verona | season | 2014
 A.C._Chievo_Verona | season | 2014
-A.C._Chievo_Verona | season | 2014–15_Serie_A
-A.C._Chievo_Verona | season | 2014–15_Serie_A
-A.C._Chievo_Verona | season | 2014–15_Serie_A
+A.C._Chievo_Verona | season | 2014 15_Serie_A
+A.C._Chievo_Verona | season | 2014 15_Serie_A
+A.C._Chievo_Verona | season | 2014 15_Serie_A
 A.C._Lumezzane | ground | Italy
 A.C._Lumezzane | ground | Italy
 A.C._Lumezzane | manager | Michele_Marcolini
@@ -9088,8 +9088,8 @@ A.F.C._Blackpool | capacity | "1500"^^xsd:nonNegativeInteger
 A.F.C._Blackpool | numberOfMembers | 1500
 A.F.C._Blackpool | season | 2014
 A.F.C._Blackpool | season | 2014
-A.F.C._Blackpool | season | 2014–15_North_West_Counties_Football_League
-A.F.C._Blackpool | season | 2014–15_North_West_Counties_Football_League
+A.F.C._Blackpool | season | 2014 15_North_West_Counties_Football_League
+A.F.C._Blackpool | season | 2014 15_North_West_Counties_Football_League
 A.S._Gubbio_1910 | fullname | "Associazione Sportiva Gubbio 1910 Srl"@en
 A.S._Gubbio_1910 | fullname | "Associazione Sportiva Gubbio 1910 Srl"@en
 A.S._Gubbio_1910 | fullname | "Associazione Sportiva Gubbio 1910 Srl"@en
@@ -9103,8 +9103,8 @@ A.S._Gubbio_1910 | league | Serie_D
 A.S._Gubbio_1910 | league | Serie_D
 A.S._Gubbio_1910 | season | 2014
 A.S._Gubbio_1910 | season | 2014
-A.S._Gubbio_1910 | season | 2014–15_Lega_Pro
-A.S._Gubbio_1910 | season | 2014–15_Lega_Pro
+A.S._Gubbio_1910 | season | 2014 15_Lega_Pro
+A.S._Gubbio_1910 | season | 2014 15_Lega_Pro
 A.S._Livorno_Calcio | fullname | "Associazione Sportiva"@en
 A.S._Livorno_Calcio | fullname | "Associazione Sportiva"@en
 A.S._Livorno_Calcio | fullname | "Associazione Sportiva"
@@ -9137,9 +9137,9 @@ A.S._Livorno_Calcio | numberOfMembers | 19238
 A.S._Livorno_Calcio | numberOfMembers | 19238
 A.S._Livorno_Calcio | season | 2014
 A.S._Livorno_Calcio | season | 2014
-A.S._Livorno_Calcio | season | 2014–15_Serie_B
-A.S._Livorno_Calcio | season | 2014–15_Serie_B
-A.S._Livorno_Calcio | season | 2014–15_Serie_B
+A.S._Livorno_Calcio | season | 2014 15_Serie_B
+A.S._Livorno_Calcio | season | 2014 15_Serie_B
+A.S._Livorno_Calcio | season | 2014 15_Serie_B
 A.S._Roma | chairman | James_Pallotta
 A.S._Roma | chairman | James_Pallotta
 A.S._Roma | chairman | James_Pallotta
@@ -9164,7 +9164,7 @@ A.S._Roma | numberOfMembers | 70634
 A.S._Roma | numberOfMembers | 70634
 A.S._Roma | season | 2014
 A.S._Roma | season | 2014
-A.S._Roma | season | 2014–15_Serie_A
+A.S._Roma | season | 2014 15_Serie_A
 AEK_Athens_F.C. | ground | Greece
 AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)
 AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)
@@ -9197,44 +9197,44 @@ AZ_Alkmaar | owner | Max_Huiberts
 AZ_Alkmaar | owner | Robert_Eenhoorn
 AZ_Alkmaar | owner | Robert_Eenhoorn
 AZ_Alkmaar | season | 2014
-Agremiação_Sportiva_Arapiraquense | chrtitle | "President"@en
-Agremiação_Sportiva_Arapiraquense | chrtitle | "President"@en
-Agremiação_Sportiva_Arapiraquense | chrtitle | "President"@en
-Agremiação_Sportiva_Arapiraquense | chairmanTitle | "President"
-Agremiação_Sportiva_Arapiraquense | chairmanTitle | "President"
-Agremiação_Sportiva_Arapiraquense | chairmanTitle | "President"
-Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en
-Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en
-Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en
-Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"
-Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"
-Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"
-Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca
-Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca
-Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C
-Agremiação_Sportiva_Arapiraquense | manager | Vica
-Agremiação_Sportiva_Arapiraquense | nickname | "''Alvinegro"@en
-Agremiação_Sportiva_Arapiraquense | nickname | "''Alvinegro"@en
-Agremiação_Sportiva_Arapiraquense | nickname | "''Alvinegro"@en
-Agremiação_Sportiva_Arapiraquense | nickname | "''Alvinegro"
-Agremiação_Sportiva_Arapiraquense | nickname | "''Alvinegro"
-Agremiação_Sportiva_Arapiraquense | nickname | "''Alvinegro"
-Agremiação_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"@en
-Agremiação_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"@en
-Agremiação_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"@en
-Agremiação_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"
-Agremiação_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"
-Agremiação_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"
-Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger
-Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger
-Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger
-Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000
-Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000
-Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000
-Agremiação_Sportiva_Arapiraquense | season | 2015
-Agremiação_Sportiva_Arapiraquense | season | 2015
-Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C
-Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C
+Agremia  o_Sportiva_Arapiraquense | chrtitle | "President"@en
+Agremia  o_Sportiva_Arapiraquense | chrtitle | "President"@en
+Agremia  o_Sportiva_Arapiraquense | chrtitle | "President"@en
+Agremia  o_Sportiva_Arapiraquense | chairmanTitle | "President"
+Agremia  o_Sportiva_Arapiraquense | chairmanTitle | "President"
+Agremia  o_Sportiva_Arapiraquense | chairmanTitle | "President"
+Agremia  o_Sportiva_Arapiraquense | fullname | "Agremia  o Sportiva Arapiraquense"@en
+Agremia  o_Sportiva_Arapiraquense | fullname | "Agremia  o Sportiva Arapiraquense"@en
+Agremia  o_Sportiva_Arapiraquense | fullname | "Agremia  o Sportiva Arapiraquense"@en
+Agremia  o_Sportiva_Arapiraquense | fullname | "Agremia  o Sportiva Arapiraquense"
+Agremia  o_Sportiva_Arapiraquense | fullname | "Agremia  o Sportiva Arapiraquense"
+Agremia  o_Sportiva_Arapiraquense | fullname | "Agremia  o Sportiva Arapiraquense"
+Agremia  o_Sportiva_Arapiraquense | ground | Est dio_Municipal_Coaracy_da_Mata_Fonseca
+Agremia  o_Sportiva_Arapiraquense | ground | Est dio_Municipal_Coaracy_da_Mata_Fonseca
+Agremia  o_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_S rie_C
+Agremia  o_Sportiva_Arapiraquense | manager | Vica
+Agremia  o_Sportiva_Arapiraquense | nickname | "''Alvinegro"@en
+Agremia  o_Sportiva_Arapiraquense | nickname | "''Alvinegro"@en
+Agremia  o_Sportiva_Arapiraquense | nickname | "''Alvinegro"@en
+Agremia  o_Sportiva_Arapiraquense | nickname | "''Alvinegro"
+Agremia  o_Sportiva_Arapiraquense | nickname | "''Alvinegro"
+Agremia  o_Sportiva_Arapiraquense | nickname | "''Alvinegro"
+Agremia  o_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"@en
+Agremia  o_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"@en
+Agremia  o_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"@en
+Agremia  o_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"
+Agremia  o_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"
+Agremia  o_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"
+Agremia  o_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger
+Agremia  o_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger
+Agremia  o_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger
+Agremia  o_Sportiva_Arapiraquense | numberOfMembers | 17000
+Agremia  o_Sportiva_Arapiraquense | numberOfMembers | 17000
+Agremia  o_Sportiva_Arapiraquense | numberOfMembers | 17000
+Agremia  o_Sportiva_Arapiraquense | season | 2015
+Agremia  o_Sportiva_Arapiraquense | season | 2015
+Agremia  o_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_S rie_C
+Agremia  o_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_S rie_C
 Akron,_Ohio | leaderName | Dan_Horrigan
 Akron,_Ohio | leaderName | Dan_Horrigan
 Akron,_Ohio | leaderName | Dan_Horrigan
@@ -9245,8 +9245,8 @@ Akron,_Ohio | location | United_States
 Akron_Summit_Assault | chairman | Dave_Laughlin
 Akron_Summit_Assault | chairman | Dave_Laughlin
 Akron_Summit_Assault | ground | Akron,_Ohio
-Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School
-Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School
+Akron_Summit_Assault | ground | St._Vincent St._Mary_High_School
+Akron_Summit_Assault | ground | St._Vincent St._Mary_High_School
 Akron_Summit_Assault | league | Premier_Development_League
 Akron_Summit_Assault | manager | Denzil_Antonio
 Akron_Summit_Assault | manager | Denzil_Antonio
@@ -9270,11 +9270,11 @@ Blackpool | leaderName | Labour_Party_(UK)
 Blackpool | leaderName | Labour_Party_(UK)
 Blackpool | leader | Labour_Party_(UK)
 Blackpool | leader | Labour_Party_(UK)
-Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube
-Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube
-Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube
-Campeonato_Brasileiro_Série_C | country | Brazil
-Campeonato_Brasileiro_Série_C | country | Brazil
+Campeonato_Brasileiro_S rie_C | champions | Vila_Nova_Futebol_Clube
+Campeonato_Brasileiro_S rie_C | champions | Vila_Nova_Futebol_Clube
+Campeonato_Brasileiro_S rie_C | champions | Vila_Nova_Futebol_Clube
+Campeonato_Brasileiro_S rie_C | country | Brazil
+Campeonato_Brasileiro_S rie_C | country | Brazil
 Christian_Panucci | team | A.S._Roma
 Christian_Panucci | team | A.S._Roma
 Christian_Panucci | team | A.S._Roma
@@ -9297,14 +9297,14 @@ Christian_Panucci | club | Italy_national_football_team
 Christian_Panucci | team | Real_Madrid_C.F.
 Christian_Panucci | clubs | Real_Madrid_C.F.
 Christian_Panucci | club | Real_Madrid_C.F.
-Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas
-Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas
-Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas
-Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca
-Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca
-Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca
-Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil
-Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil
+Est dio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas
+Est dio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas
+Est dio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas
+Est dio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca
+Est dio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca
+Est dio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca
+Est dio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil
+Est dio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil
 Greece | capital | Athens
 Greece | currency | Euro
 Greece | currency | Euro
@@ -9451,12 +9451,12 @@ Serie_B | champions | Carpi_F.C._1909
 Serie_D | champions | S.S._Robur_Siena
 Serie_D | champions | S.S._Robur_Siena
 Serie_D | champions | S.S._Robur_Siena
-St._Vincent–St._Mary_High_School | city | Akron,_Ohio
-St._Vincent–St._Mary_High_School | city | Akron,_Ohio
-St._Vincent–St._Mary_High_School | city | Akron,_Ohio
-St._Vincent–St._Mary_High_School | state | Ohio
-St._Vincent–St._Mary_High_School | state | Ohio
-St._Vincent–St._Mary_High_School | state | Ohio
+St._Vincent St._Mary_High_School | city | Akron,_Ohio
+St._Vincent St._Mary_High_School | city | Akron,_Ohio
+St._Vincent St._Mary_High_School | city | Akron,_Ohio
+St._Vincent St._Mary_High_School | state | Ohio
+St._Vincent St._Mary_High_School | state | Ohio
+St._Vincent St._Mary_High_School | state | Ohio
 Stuart_Parker_(footballer) | clubs | Blackburn_Rovers_F.C.
 Stuart_Parker_(footballer) | clubs | Blackburn_Rovers_F.C.
 Stuart_Parker_(footballer) | team | Blackburn_Rovers_F.C.
@@ -9532,12 +9532,12 @@ Acharya_Institute_of_Technology | president | "B.M. Reddy"@en
 Acharya_Institute_of_Technology | president | "B.M. Reddy"@en
 Acharya_Institute_of_Technology | president | "B.M. Reddy"
 Acharya_Institute_of_Technology | president | "B.M. Reddy"
-Kerala | northwest | Mahé,_India
-Kerala | northwest | Mahé,_India
-Kerala | northwest | Mahé,_India
-Kerala | has to its northwest | Mahé,_India
-Kerala | has to its northwest | Mahé,_India
-Kerala | has to its northwest | Mahé,_India
+Kerala | northwest | Mah ,_India
+Kerala | northwest | Mah ,_India
+Kerala | northwest | Mah ,_India
+Kerala | has to its northwest | Mah ,_India
+Kerala | has to its northwest | Mah ,_India
+Kerala | has to its northwest | Mah ,_India
 Mendrisio | neighboringMunicipalities | Meride
 Mendrisio | neighboringMunicipalities | Meride
 Mendrisio | neighboringMunicipality | Meride
@@ -9677,12 +9677,12 @@ Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_Univ
 Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University
 Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University
 Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University
-Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en
-Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en
-Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en
-Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
-Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
-Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore   560090."@en
+Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore   560090."@en
+Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore   560090."@en
+Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore   560090."
+Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore   560090."
+Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore   560090."
 Acharya_Institute_of_Technology | city | Bangalore
 Acharya_Institute_of_Technology | city | Bangalore
 Acharya_Institute_of_Technology | city | Bangalore

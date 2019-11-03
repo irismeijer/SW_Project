@@ -270,9 +270,9 @@ Angola_International_Airport | elevationM | 159
 Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159
 Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159
 Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159
-Angola_International_Airport | location | Ícolo_e_Bengo
-Angola_International_Airport | location | Ícolo_e_Bengo
-Angola_International_Airport | location | Ícolo_e_Bengo
+Angola_International_Airport | location |  colo_e_Bengo
+Angola_International_Airport | location |  colo_e_Bengo
+Angola_International_Airport | location |  colo_e_Bengo
 Angola_International_Airport | runwayLength | "3800.0"^^xsd:double
 Angola_International_Airport | runwayLength | "3800.0"^^xsd:double
 Angola_International_Airport | runwayLength | "3800.0"^^xsd:double
@@ -373,12 +373,12 @@ Wilson_Township,_Alpena_County,_Michigan | country | United_States
 Wilson_Township,_Alpena_County,_Michigan | country | United_States
 Wilson_Township,_Alpena_County,_Michigan | subdivisionName | United_States
 Wilson_Township,_Alpena_County,_Michigan | isPartOf | United_States
-Ícolo_e_Bengo | country | Angola
-Ícolo_e_Bengo | country | Angola
-Ícolo_e_Bengo | isPartOf | Luanda_Province
-Ícolo_e_Bengo | isPartOf | Luanda_Province
-Ícolo_e_Bengo | subdivisionName | Luanda_Province
-Ícolo_e_Bengo | subdivisionName | Luanda_Province
+ colo_e_Bengo | country | Angola
+ colo_e_Bengo | country | Angola
+ colo_e_Bengo | isPartOf | Luanda_Province
+ colo_e_Bengo | isPartOf | Luanda_Province
+ colo_e_Bengo | subdivisionName | Luanda_Province
+ colo_e_Bengo | subdivisionName | Luanda_Province
 Aaron_Bertram | activeYearsStartYear | "1998"^^xsd:gYear
 Aaron_Bertram | activeYearsStartYear | 1998
 Aaron_Bertram | associatedActs | Kids_Imagine_Nation
@@ -568,12 +568,12 @@ Akeem_Adams | birthPlace | "Point Fortin, Trinidad and Tobago"@en
 Akeem_Adams | birthPlace | "Point Fortin, Trinidad and Tobago"
 Akeem_Adams | birthPlace | "Point Fortin, Trinidad and Tobago"
 Akeem_Adams | birthPlace | "Point Fortin, Trinidad and Tobago"
-Akeem_Adams | clubs | Ferencvárosi_TC
-Akeem_Adams | clubs | Ferencvárosi_TC
-Akeem_Adams | team | Ferencvárosi_TC
-Akeem_Adams | team | Ferencvárosi_TC
-Akeem_Adams | club | Ferencvárosi_TC
-Akeem_Adams | club | Ferencvárosi_TC
+Akeem_Adams | clubs | Ferencv rosi_TC
+Akeem_Adams | clubs | Ferencv rosi_TC
+Akeem_Adams | team | Ferencv rosi_TC
+Akeem_Adams | team | Ferencv rosi_TC
+Akeem_Adams | club | Ferencv rosi_TC
+Akeem_Adams | club | Ferencv rosi_TC
 Akeem_Adams | clubs | T&TEC_Sports_Club
 Akeem_Adams | clubs | T&TEC_Sports_Club
 Akeem_Adams | clubs | T&TEC_Sports_Club
@@ -730,12 +730,12 @@ Alex_Tyus | team | Maccabi_Tel_Aviv_B.C.
 Alex_Tyus | club | Maccabi_Tel_Aviv_B.C.
 Alex_Tyus | club | Maccabi_Tel_Aviv_B.C.
 Alex_Tyus | club | Maccabi_Tel_Aviv_B.C.
-Alex_Tyus | team | Pallacanestro_Cantù
-Alex_Tyus | team | Pallacanestro_Cantù
-Alex_Tyus | team | Pallacanestro_Cantù
-Alex_Tyus | club | Pallacanestro_Cantù
-Alex_Tyus | club | Pallacanestro_Cantù
-Alex_Tyus | club | Pallacanestro_Cantù
+Alex_Tyus | team | Pallacanestro_Cant 
+Alex_Tyus | team | Pallacanestro_Cant 
+Alex_Tyus | team | Pallacanestro_Cant 
+Alex_Tyus | club | Pallacanestro_Cant 
+Alex_Tyus | club | Pallacanestro_Cant 
+Alex_Tyus | club | Pallacanestro_Cant 
 Alex_Tyus | college | Florida_Gators_men's_basketball
 Alex_Tyus | college | Florida_Gators_men's_basketball
 Alex_Tyus | draftYear | 2011
@@ -756,14 +756,14 @@ Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad
 FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov
 FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov
 FC_Torpedo_Moscow | manager | Valery_Petrakov
-FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League
-FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League
-FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League
-Ferencvárosi_TC | chairman | Gábor_Kubatov
-Ferencvárosi_TC | chairman | Gábor_Kubatov
-Ferencvárosi_TC | manager | Thomas_Doll
-Ferencvárosi_TC | manager | Thomas_Doll
-Ferencvárosi_TC | manager | Thomas_Doll
+FC_Torpedo_Moscow | season | 2014 15_Russian_Premier_League
+FC_Torpedo_Moscow | season | 2014 15_Russian_Premier_League
+FC_Torpedo_Moscow | season | 2014 15_Russian_Premier_League
+Ferencv rosi_TC | chairman | G bor_Kubatov
+Ferencv rosi_TC | chairman | G bor_Kubatov
+Ferencv rosi_TC | manager | Thomas_Doll
+Ferencv rosi_TC | manager | Thomas_Doll
+Ferencv rosi_TC | manager | Thomas_Doll
 Jacksonville_Dolphins | city | Jacksonville,_Florida
 Jacksonville_Dolphins | city | Jacksonville,_Florida
 Jacksonville_Dolphins | stadium | John_Sessions_Stadium
@@ -783,9 +783,9 @@ Maccabi_Ashdod_B.C. | coach | Zvi_Sherf
 Maccabi_Ashdod_B.C. | coach | Zvi_Sherf
 Moscow | leaderName | Sergey_Sobyanin
 Moscow | leaderName | Sergey_Sobyanin
-Pallacanestro_Cantù | league | Lega_Basket_Serie_A
-Pallacanestro_Cantù | league | Lega_Basket_Serie_A
-Pallacanestro_Cantù | league | Lega_Basket_Serie_A
+Pallacanestro_Cant  | league | Lega_Basket_Serie_A
+Pallacanestro_Cant  | league | Lega_Basket_Serie_A
+Pallacanestro_Cant  | league | Lega_Basket_Serie_A
 RoPS | league | Veikkausliiga
 RoPS | league | Veikkausliiga
 Russia | language | Russian_language
@@ -1514,12 +1514,12 @@ South_Africa | leaderName | Jacob_Zuma
 11264_Claudiomaccone | singleTemperature | "~173 K"@en
 11264_Claudiomaccone | temperature | 173.0 (kelvins)
 11264_Claudiomaccone | temperature | 173.0 (kelvins)
-Abarth_1000_GT_Coupé | designer | Gruppo_Bertone
-Abarth_1000_GT_Coupé | designer | Gruppo_Bertone
-Abarth_1000_GT_Coupé | designer | Gruppo_Bertone
-Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
-Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
-Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Abarth_1000_GT_Coup  | designer | Gruppo_Bertone
+Abarth_1000_GT_Coup  | designer | Gruppo_Bertone
+Abarth_1000_GT_Coup  | designer | Gruppo_Bertone
+Abarth_1000_GT_Coup  | designCompany | Gruppo_Bertone
+Abarth_1000_GT_Coup  | designCompany | Gruppo_Bertone
+Abarth_1000_GT_Coup  | designCompany | Gruppo_Bertone
 Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^<http://dbpedia.org/datatype/millimetre>
 Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^<http://dbpedia.org/datatype/millimetre>
 Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^<http://dbpedia.org/datatype/millimetre>
@@ -1549,9 +1549,9 @@ Abarth | foundationPlace | Bologna
 Abarth | foundationPlace | Italy
 Abarth | foundationPlace | Italy
 Abarth | foundedBy | Carlo_Abarth
-Abarth_1000_GT_Coupé | manufacturer | Abarth
-Abarth_1000_GT_Coupé | manufacturer | Abarth
-Abarth_1000_GT_Coupé | manufacturer | Abarth
+Abarth_1000_GT_Coup  | manufacturer | Abarth
+Abarth_1000_GT_Coup  | manufacturer | Abarth
+Abarth_1000_GT_Coup  | manufacturer | Abarth
 Alhambra_(1855) | builder | Samuda_Brothers
 Alhambra_(1855) | builder | Samuda_Brothers
 Alhambra_(1855) | shipBuilder | "Samuda Brothers Cubitt Town, London"@en
@@ -1701,8 +1701,8 @@ P&O_(company) | location | London
 14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"
 14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"
 14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"
-Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia
-Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia
+Dead_Man's_Plack | dedicatedTo |  thelwald,_Ealdorman_of_East_Anglia
+Dead_Man's_Plack | dedicatedTo |  thelwald,_Ealdorman_of_East_Anglia
 Dead_Man's_Plack | location | England
 Dead_Man's_Plack | location | England
 Dead_Man's_Plack | location | England
@@ -1726,178 +1726,178 @@ Monocacy_National_Battlefield | location | Frederick_County,_Maryland
 Monocacy_National_Battlefield | location | Frederick_County,_Maryland
 Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland
 Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland
-A.D._Isidro_Metapán | league | Salvadoran_Primera_División
-A.D._Isidro_Metapán | league | Salvadoran_Primera_División
-A.D._Isidro_Metapán | league | Salvadoran_Primera_División
-Jens_Härtel | team | FC_Sachsen_Leipzig
-Jens_Härtel | team | FC_Sachsen_Leipzig
-Jens_Härtel | clubs | FC_Sachsen_Leipzig
-Jens_Härtel | clubs | FC_Sachsen_Leipzig
-Jens_Härtel | club | FC_Sachsen_Leipzig
-Jens_Härtel | club | FC_Sachsen_Leipzig
-Jorge_Humberto_Rodríguez | clubs | FC_Dallas
-Jorge_Humberto_Rodríguez | clubs | FC_Dallas
-Jorge_Humberto_Rodríguez | clubs | FC_Dallas
-Jorge_Humberto_Rodríguez | team | FC_Dallas
-Jorge_Humberto_Rodríguez | team | FC_Dallas
-Jorge_Humberto_Rodríguez | team | FC_Dallas
-Jorge_Humberto_Rodríguez | club | FC_Dallas
-Jorge_Humberto_Rodríguez | club | FC_Dallas
-Jorge_Humberto_Rodríguez | club | FC_Dallas
-1._FC_Köln | manager | Peter_Stöger
-1._FC_Köln | manager | Peter_Stöger
-1._FC_Köln | manager | Peter_Stöger
-1._FC_Köln | capacity | 50000
-1._FC_Köln | capacity | 50000
-1._FC_Köln | numberOfMembers | 50000
-1._FC_Köln | numberOfMembers | 50000
-1._FC_Köln | season | 2014
-1._FC_Köln | season | 2014
-1._FC_Köln | season | 2014–15_Bundesliga
-1._FC_Köln | season | 2014–15_Bundesliga
-1._FC_Magdeburg | manager | Jens_Härtel
-1._FC_Magdeburg | manager | Jens_Härtel
-A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en
-A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en
-A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en
-A.D._Isidro_Metapán | fullname | "Asociación Deportiva"
-A.D._Isidro_Metapán | fullname | "Asociación Deportiva"
-A.D._Isidro_Metapán | fullname | "Asociación Deportiva"
-A.D._Isidro_Metapán | fullname | "Isidro Metapán"@en
-A.D._Isidro_Metapán | fullname | "Isidro Metapán"
-A.D._Isidro_Metapán | ground | "Metapán, El Salvador"@en
-A.D._Isidro_Metapán | ground | "Metapán, El Salvador"@en
-A.D._Isidro_Metapán | ground | "Metapán, El Salvador"
-A.D._Isidro_Metapán | ground | "Metapán, El Salvador"
-A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez
-A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez
-A.D._Isidro_Metapán | ground | Metapán
-A.D._Isidro_Metapán | ground | Metapán
-A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez
-A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez
-A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez
-A.D._Isidro_Metapán | capacity | 10000
-A.D._Isidro_Metapán | capacity | 10000
-A.D._Isidro_Metapán | capacity | 10000
-A.D._Isidro_Metapán | numberOfMembers | 10000
-A.D._Isidro_Metapán | numberOfMembers | 10000
-A.D._Isidro_Metapán | numberOfMembers | 10000
-Jens_Härtel | team | 1._FC_Lokomotive_Leipzig
-Jens_Härtel | team | 1._FC_Lokomotive_Leipzig
-Jens_Härtel | club | 1._FC_Lokomotive_Leipzig
-Jens_Härtel | club | 1._FC_Lokomotive_Leipzig
-Jens_Härtel | team | 1._FC_Union_Berlin
-Jens_Härtel | club | 1._FC_Union_Berlin
-Jens_Härtel | managerClub | Berliner_AK_07
-Jens_Härtel | managerClub | Berliner_AK_07
-Jens_Härtel | club | Berliner_AK_07
-Jens_Härtel | club | Berliner_AK_07
-Jens_Härtel | clubs | FSV_Zwickau
-Jens_Härtel | clubs | FSV_Zwickau
-Jens_Härtel | club | FSV_Zwickau
-Jens_Härtel | club | FSV_Zwickau
-Jens_Härtel | managerClub | RB_Leipzig
-Jens_Härtel | managerClub | RB_Leipzig
-Jens_Härtel | club | RB_Leipzig
-Jens_Härtel | club | RB_Leipzig
-Jens_Härtel | clubs | SV_Babelsberg_03
-Jens_Härtel | clubs | SV_Babelsberg_03
-Jens_Härtel | managerClub | SV_Babelsberg_03
-Jens_Härtel | managerClub | SV_Babelsberg_03
-Jens_Härtel | team | SV_Babelsberg_03
-Jens_Härtel | team | SV_Babelsberg_03
-Jens_Härtel | club | SV_Babelsberg_03
-Jens_Härtel | club | SV_Babelsberg_03
-Jens_Härtel | managerClub | SV_Germania_Schöneiche
-Jens_Härtel | clubs | SV_Germania_Schöneiche
-Jens_Härtel | club | SV_Germania_Schöneiche
-Jorge_Humberto_Rodríguez | clubs | Alianza_F.C.
-Jorge_Humberto_Rodríguez | clubs | Alianza_F.C.
-Jorge_Humberto_Rodríguez | clubs | Alianza_F.C.
-Jorge_Humberto_Rodríguez | team | Alianza_F.C.
-Jorge_Humberto_Rodríguez | team | Alianza_F.C.
-Jorge_Humberto_Rodríguez | team | Alianza_F.C.
-Jorge_Humberto_Rodríguez | club | Alianza_F.C.
-Jorge_Humberto_Rodríguez | club | Alianza_F.C.
-Jorge_Humberto_Rodríguez | club | Alianza_F.C.
-Jorge_Humberto_Rodríguez | clubs | C.D._FAS
-Jorge_Humberto_Rodríguez | clubs | C.D._FAS
-Jorge_Humberto_Rodríguez | clubs | C.D._FAS
-Jorge_Humberto_Rodríguez | team | C.D._FAS
-Jorge_Humberto_Rodríguez | team | C.D._FAS
-Jorge_Humberto_Rodríguez | team | C.D._FAS
-Jorge_Humberto_Rodríguez | club | C.D._FAS
-Jorge_Humberto_Rodríguez | club | C.D._FAS
-Jorge_Humberto_Rodríguez | club | C.D._FAS
-Jorge_Humberto_Rodríguez | clubs | C.D._Águila
-Jorge_Humberto_Rodríguez | clubs | C.D._Águila
-Jorge_Humberto_Rodríguez | team | C.D._Águila
-Jorge_Humberto_Rodríguez | team | C.D._Águila
-Jorge_Humberto_Rodríguez | club | C.D._Águila
-Jorge_Humberto_Rodríguez | club | C.D._Águila
-Jorge_Humberto_Rodríguez | managerClub | El_Salvador_national_football_team
-Jorge_Humberto_Rodríguez | managerClub | El_Salvador_national_football_team
-Jorge_Humberto_Rodríguez | team | El_Salvador_national_football_team
-Jorge_Humberto_Rodríguez | team | El_Salvador_national_football_team
-Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team
-Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team
-Peter_Stöger | team | Austria_national_football_team
-Peter_Stöger | team | Austria_national_football_team
-Peter_Stöger | club | Austria_national_football_team
-Peter_Stöger | club | Austria_national_football_team
-Peter_Stöger | team | FC_Admira_Wacker_Mödling
-Peter_Stöger | team | FC_Admira_Wacker_Mödling
-Peter_Stöger | team | FC_Admira_Wacker_Mödling
-Peter_Stöger | clubs | FC_Admira_Wacker_Mödling
-Peter_Stöger | clubs | FC_Admira_Wacker_Mödling
-Peter_Stöger | clubs | FC_Admira_Wacker_Mödling
-Peter_Stöger | club | FC_Admira_Wacker_Mödling
-Peter_Stöger | club | FC_Admira_Wacker_Mödling
-Peter_Stöger | club | FC_Admira_Wacker_Mödling
-Peter_Stöger | clubs | FK_Austria_Wien
-Peter_Stöger | clubs | FK_Austria_Wien
-Peter_Stöger | clubs | FK_Austria_Wien
-Peter_Stöger | team | FK_Austria_Wien
-Peter_Stöger | team | FK_Austria_Wien
-Peter_Stöger | team | FK_Austria_Wien
-Peter_Stöger | managerClub | FK_Austria_Wien
-Peter_Stöger | managerClub | FK_Austria_Wien
-Peter_Stöger | managerClub | FK_Austria_Wien
-Peter_Stöger | club | FK_Austria_Wien
-Peter_Stöger | club | FK_Austria_Wien
-Peter_Stöger | club | FK_Austria_Wien
-Peter_Stöger | team | Favoritner_AC
-Peter_Stöger | clubs | Favoritner_AC
-Peter_Stöger | club | Favoritner_AC
-Peter_Stöger | managerClub | First_Vienna_FC
-Peter_Stöger | club | First_Vienna_FC
-Peter_Stöger | clubs | LASK_Linz
-Peter_Stöger | clubs | LASK_Linz
-Peter_Stöger | team | LASK_Linz
-Peter_Stöger | team | LASK_Linz
-Peter_Stöger | club | LASK_Linz
-Peter_Stöger | club | LASK_Linz
-Peter_Stöger | managerClub | SC_Wiener_Neustadt
-Peter_Stöger | managerClub | SC_Wiener_Neustadt
-Peter_Stöger | managerClub | SC_Wiener_Neustadt
-Peter_Stöger | club | SC_Wiener_Neustadt
-Peter_Stöger | club | SC_Wiener_Neustadt
-Peter_Stöger | club | SC_Wiener_Neustadt
-Peter_Stöger | clubs | SK_Rapid_Wien
-Peter_Stöger | clubs | SK_Rapid_Wien
-Peter_Stöger | clubs | SK_Rapid_Wien
-Peter_Stöger | team | SK_Rapid_Wien
-Peter_Stöger | team | SK_Rapid_Wien
-Peter_Stöger | team | SK_Rapid_Wien
-Peter_Stöger | club | SK_Rapid_Wien
-Peter_Stöger | club | SK_Rapid_Wien
-Peter_Stöger | club | SK_Rapid_Wien
-Peter_Stöger | clubs | SK_Vorwärts_Steyr
-Peter_Stöger | clubs | SK_Vorwärts_Steyr
-Peter_Stöger | team | SK_Vorwärts_Steyr
-Peter_Stöger | team | SK_Vorwärts_Steyr
-Peter_Stöger | club | SK_Vorwärts_Steyr
-Peter_Stöger | club | SK_Vorwärts_Steyr
+A.D._Isidro_Metap n | league | Salvadoran_Primera_Divisi n
+A.D._Isidro_Metap n | league | Salvadoran_Primera_Divisi n
+A.D._Isidro_Metap n | league | Salvadoran_Primera_Divisi n
+Jens_H rtel | team | FC_Sachsen_Leipzig
+Jens_H rtel | team | FC_Sachsen_Leipzig
+Jens_H rtel | clubs | FC_Sachsen_Leipzig
+Jens_H rtel | clubs | FC_Sachsen_Leipzig
+Jens_H rtel | club | FC_Sachsen_Leipzig
+Jens_H rtel | club | FC_Sachsen_Leipzig
+Jorge_Humberto_Rodr guez | clubs | FC_Dallas
+Jorge_Humberto_Rodr guez | clubs | FC_Dallas
+Jorge_Humberto_Rodr guez | clubs | FC_Dallas
+Jorge_Humberto_Rodr guez | team | FC_Dallas
+Jorge_Humberto_Rodr guez | team | FC_Dallas
+Jorge_Humberto_Rodr guez | team | FC_Dallas
+Jorge_Humberto_Rodr guez | club | FC_Dallas
+Jorge_Humberto_Rodr guez | club | FC_Dallas
+Jorge_Humberto_Rodr guez | club | FC_Dallas
+1._FC_K ln | manager | Peter_St ger
+1._FC_K ln | manager | Peter_St ger
+1._FC_K ln | manager | Peter_St ger
+1._FC_K ln | capacity | 50000
+1._FC_K ln | capacity | 50000
+1._FC_K ln | numberOfMembers | 50000
+1._FC_K ln | numberOfMembers | 50000
+1._FC_K ln | season | 2014
+1._FC_K ln | season | 2014
+1._FC_K ln | season | 2014 15_Bundesliga
+1._FC_K ln | season | 2014 15_Bundesliga
+1._FC_Magdeburg | manager | Jens_H rtel
+1._FC_Magdeburg | manager | Jens_H rtel
+A.D._Isidro_Metap n | fullname | "Asociaci n Deportiva"@en
+A.D._Isidro_Metap n | fullname | "Asociaci n Deportiva"@en
+A.D._Isidro_Metap n | fullname | "Asociaci n Deportiva"@en
+A.D._Isidro_Metap n | fullname | "Asociaci n Deportiva"
+A.D._Isidro_Metap n | fullname | "Asociaci n Deportiva"
+A.D._Isidro_Metap n | fullname | "Asociaci n Deportiva"
+A.D._Isidro_Metap n | fullname | "Isidro Metap n"@en
+A.D._Isidro_Metap n | fullname | "Isidro Metap n"
+A.D._Isidro_Metap n | ground | "Metap n, El Salvador"@en
+A.D._Isidro_Metap n | ground | "Metap n, El Salvador"@en
+A.D._Isidro_Metap n | ground | "Metap n, El Salvador"
+A.D._Isidro_Metap n | ground | "Metap n, El Salvador"
+A.D._Isidro_Metap n | ground | Estadio_Jorge_Calero_Su rez
+A.D._Isidro_Metap n | ground | Estadio_Jorge_Calero_Su rez
+A.D._Isidro_Metap n | ground | Metap n
+A.D._Isidro_Metap n | ground | Metap n
+A.D._Isidro_Metap n | manager | Jorge_Humberto_Rodr guez
+A.D._Isidro_Metap n | manager | Jorge_Humberto_Rodr guez
+A.D._Isidro_Metap n | manager | Jorge_Humberto_Rodr guez
+A.D._Isidro_Metap n | capacity | 10000
+A.D._Isidro_Metap n | capacity | 10000
+A.D._Isidro_Metap n | capacity | 10000
+A.D._Isidro_Metap n | numberOfMembers | 10000
+A.D._Isidro_Metap n | numberOfMembers | 10000
+A.D._Isidro_Metap n | numberOfMembers | 10000
+Jens_H rtel | team | 1._FC_Lokomotive_Leipzig
+Jens_H rtel | team | 1._FC_Lokomotive_Leipzig
+Jens_H rtel | club | 1._FC_Lokomotive_Leipzig
+Jens_H rtel | club | 1._FC_Lokomotive_Leipzig
+Jens_H rtel | team | 1._FC_Union_Berlin
+Jens_H rtel | club | 1._FC_Union_Berlin
+Jens_H rtel | managerClub | Berliner_AK_07
+Jens_H rtel | managerClub | Berliner_AK_07
+Jens_H rtel | club | Berliner_AK_07
+Jens_H rtel | club | Berliner_AK_07
+Jens_H rtel | clubs | FSV_Zwickau
+Jens_H rtel | clubs | FSV_Zwickau
+Jens_H rtel | club | FSV_Zwickau
+Jens_H rtel | club | FSV_Zwickau
+Jens_H rtel | managerClub | RB_Leipzig
+Jens_H rtel | managerClub | RB_Leipzig
+Jens_H rtel | club | RB_Leipzig
+Jens_H rtel | club | RB_Leipzig
+Jens_H rtel | clubs | SV_Babelsberg_03
+Jens_H rtel | clubs | SV_Babelsberg_03
+Jens_H rtel | managerClub | SV_Babelsberg_03
+Jens_H rtel | managerClub | SV_Babelsberg_03
+Jens_H rtel | team | SV_Babelsberg_03
+Jens_H rtel | team | SV_Babelsberg_03
+Jens_H rtel | club | SV_Babelsberg_03
+Jens_H rtel | club | SV_Babelsberg_03
+Jens_H rtel | managerClub | SV_Germania_Sch neiche
+Jens_H rtel | clubs | SV_Germania_Sch neiche
+Jens_H rtel | club | SV_Germania_Sch neiche
+Jorge_Humberto_Rodr guez | clubs | Alianza_F.C.
+Jorge_Humberto_Rodr guez | clubs | Alianza_F.C.
+Jorge_Humberto_Rodr guez | clubs | Alianza_F.C.
+Jorge_Humberto_Rodr guez | team | Alianza_F.C.
+Jorge_Humberto_Rodr guez | team | Alianza_F.C.
+Jorge_Humberto_Rodr guez | team | Alianza_F.C.
+Jorge_Humberto_Rodr guez | club | Alianza_F.C.
+Jorge_Humberto_Rodr guez | club | Alianza_F.C.
+Jorge_Humberto_Rodr guez | club | Alianza_F.C.
+Jorge_Humberto_Rodr guez | clubs | C.D._FAS
+Jorge_Humberto_Rodr guez | clubs | C.D._FAS
+Jorge_Humberto_Rodr guez | clubs | C.D._FAS
+Jorge_Humberto_Rodr guez | team | C.D._FAS
+Jorge_Humberto_Rodr guez | team | C.D._FAS
+Jorge_Humberto_Rodr guez | team | C.D._FAS
+Jorge_Humberto_Rodr guez | club | C.D._FAS
+Jorge_Humberto_Rodr guez | club | C.D._FAS
+Jorge_Humberto_Rodr guez | club | C.D._FAS
+Jorge_Humberto_Rodr guez | clubs | C.D._ guila
+Jorge_Humberto_Rodr guez | clubs | C.D._ guila
+Jorge_Humberto_Rodr guez | team | C.D._ guila
+Jorge_Humberto_Rodr guez | team | C.D._ guila
+Jorge_Humberto_Rodr guez | club | C.D._ guila
+Jorge_Humberto_Rodr guez | club | C.D._ guila
+Jorge_Humberto_Rodr guez | managerClub | El_Salvador_national_football_team
+Jorge_Humberto_Rodr guez | managerClub | El_Salvador_national_football_team
+Jorge_Humberto_Rodr guez | team | El_Salvador_national_football_team
+Jorge_Humberto_Rodr guez | team | El_Salvador_national_football_team
+Jorge_Humberto_Rodr guez | club | El_Salvador_national_football_team
+Jorge_Humberto_Rodr guez | club | El_Salvador_national_football_team
+Peter_St ger | team | Austria_national_football_team
+Peter_St ger | team | Austria_national_football_team
+Peter_St ger | club | Austria_national_football_team
+Peter_St ger | club | Austria_national_football_team
+Peter_St ger | team | FC_Admira_Wacker_M dling
+Peter_St ger | team | FC_Admira_Wacker_M dling
+Peter_St ger | team | FC_Admira_Wacker_M dling
+Peter_St ger | clubs | FC_Admira_Wacker_M dling
+Peter_St ger | clubs | FC_Admira_Wacker_M dling
+Peter_St ger | clubs | FC_Admira_Wacker_M dling
+Peter_St ger | club | FC_Admira_Wacker_M dling
+Peter_St ger | club | FC_Admira_Wacker_M dling
+Peter_St ger | club | FC_Admira_Wacker_M dling
+Peter_St ger | clubs | FK_Austria_Wien
+Peter_St ger | clubs | FK_Austria_Wien
+Peter_St ger | clubs | FK_Austria_Wien
+Peter_St ger | team | FK_Austria_Wien
+Peter_St ger | team | FK_Austria_Wien
+Peter_St ger | team | FK_Austria_Wien
+Peter_St ger | managerClub | FK_Austria_Wien
+Peter_St ger | managerClub | FK_Austria_Wien
+Peter_St ger | managerClub | FK_Austria_Wien
+Peter_St ger | club | FK_Austria_Wien
+Peter_St ger | club | FK_Austria_Wien
+Peter_St ger | club | FK_Austria_Wien
+Peter_St ger | team | Favoritner_AC
+Peter_St ger | clubs | Favoritner_AC
+Peter_St ger | club | Favoritner_AC
+Peter_St ger | managerClub | First_Vienna_FC
+Peter_St ger | club | First_Vienna_FC
+Peter_St ger | clubs | LASK_Linz
+Peter_St ger | clubs | LASK_Linz
+Peter_St ger | team | LASK_Linz
+Peter_St ger | team | LASK_Linz
+Peter_St ger | club | LASK_Linz
+Peter_St ger | club | LASK_Linz
+Peter_St ger | managerClub | SC_Wiener_Neustadt
+Peter_St ger | managerClub | SC_Wiener_Neustadt
+Peter_St ger | managerClub | SC_Wiener_Neustadt
+Peter_St ger | club | SC_Wiener_Neustadt
+Peter_St ger | club | SC_Wiener_Neustadt
+Peter_St ger | club | SC_Wiener_Neustadt
+Peter_St ger | clubs | SK_Rapid_Wien
+Peter_St ger | clubs | SK_Rapid_Wien
+Peter_St ger | clubs | SK_Rapid_Wien
+Peter_St ger | team | SK_Rapid_Wien
+Peter_St ger | team | SK_Rapid_Wien
+Peter_St ger | team | SK_Rapid_Wien
+Peter_St ger | club | SK_Rapid_Wien
+Peter_St ger | club | SK_Rapid_Wien
+Peter_St ger | club | SK_Rapid_Wien
+Peter_St ger | clubs | SK_Vorw rts_Steyr
+Peter_St ger | clubs | SK_Vorw rts_Steyr
+Peter_St ger | team | SK_Vorw rts_Steyr
+Peter_St ger | team | SK_Vorw rts_Steyr
+Peter_St ger | club | SK_Vorw rts_Steyr
+Peter_St ger | club | SK_Vorw rts_Steyr
 Acta_Palaeontologica_Polonica | issn | "0567-7920"
 Acta_Palaeontologica_Polonica | issn | "0567-7920"
 Acta_Palaeontologica_Polonica | issn | "0567-7920"
